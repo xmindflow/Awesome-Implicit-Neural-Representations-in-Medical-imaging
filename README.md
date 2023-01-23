@@ -58,7 +58,8 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 **NeRP: Implicit Neural Representation Learning with Prior Embedding for Sparsely Sampled Image Reconstruction.** [24th Aug., 2021] [IEEE Transactions on Neural Networks and Learning Systems, 2022]<br>
 *Liyue Shen, John Pauly, Lei Xing.*<br>
- [[PDF](https://arxiv.org/abs/2108.10991)]
+ [[PDF](https://arxiv.org/abs/2108.10991)]  [[Github](https://github.com/liyues/nerp)]
+
  
 **Dynamic CT Reconstruction from Limited Views with Implicit Neural Representations and Parametric Motion Fields.** [23th Apr., 2021] [Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021]<br>
 *Albert W. Reed, Hyojin Kim, Rushil Anirudh, K. Aditya Mohan, Kyle Champley, Jingu Kang, Suren Jayasuriya.*<br>
