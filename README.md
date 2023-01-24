@@ -69,9 +69,13 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 *Qing Wu, Yuwei Li, Lan Xu, Ruiming Feng, Hongjiang Wei, Qing Yang, Boliang Yu, Xiaozhao Liu, Jingyi Yu, Yuyao Zhang.*<br>
  [[PDF](https://arxiv.org/abs/2106.15097)]
  
- **Streak artifacts reduction algorithm using an implicit neural representation in sparse-view CT.** [4th Apr., 2022] [Medical Imaging 2022: Physics of Medical Imaging, 2022]<br>
+**Streak artifacts reduction algorithm using an implicit neural representation in sparse-view CT.** [4th Apr., 2022] [Medical Imaging 2022: Physics of Medical Imaging, 2022]<br>
 *Byeongjoon Kim, Hyunjung Shim, Jongduk Baek.*<br>
  [[PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12031/120312N/Streak-artifacts-reduction-algorithm-using-an-implicit-neural-representation-in/10.1117/12.2610722.short)]
+ 
+ **Representing 3D Ultrasound with Neural Fields.** [21th Apr., 2022] [Medical Imaging with Deep Learning, 2022]<br>
+*Ang Nan Gu, Purang Abolmaesumi, Christina Luong, Kwang Moo Yi.*<br>
+ [[PDF](https://openreview.net/forum?id=1EDRk-CyQou)]
  
 **UncertaINR: Uncertainty Quantification of End-to-End Implicit Neural Representations for Computed Tomography.** [3th Jun., 2022] [arXiv preprint, 2022]<br>
 *Francisca Vasconcelos, Bobby He, Nalini Singh, Yee Whye Teh.*<br>
@@ -80,6 +84,10 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 **MRI Super-Resolution using Implicit Neural Representation with Frequency Domain Enhancement.** [Aug., 2022] [arXiv preprint, 2022]<br>
 *Shuangming Mao, Seiichiro Kamata.*<br>
  [[PDF](https://dl.acm.org/doi/10.1145/3563737.3563759)]
+
+**Dynamic Cone-beam CT Reconstruction using Spatial and Temporal Implicit Neural Representation Learning (STINR).** [Sep., 2022] [Physics in Medicine and Biology, 2023]<br>
+*You Zhang, Hua-Chieh Shao, Tinsu Pan, Tielige Mengke.*<br>
+ [[PDF](https://pubmed.ncbi.nlm.nih.gov/36638543/)]
 
 **NeSVoR: Implicit Neural Representation for Slice-to-Volume Reconstruction in MRI.** [xxth xx., 2022] [IEEE TRANSACTIONS ON MEDICAL IMAGING, 2022]<br>
 *Junshen Xu, Daniel Moyer, Borjan Gagoski, Juan Eugenio Iglesias, P. Ellen Grant, Polina Golland,Elfar Adalsteinsson.*<br>
