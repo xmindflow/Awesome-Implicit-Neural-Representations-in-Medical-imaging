@@ -120,6 +120,10 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 *Jelmer M. Wolterink, Jesse C. Zwienenberg, Christoph Brune.*<br>
  [[PDF](https://openreview.net/forum?id=BP29eKzQBu3)] [[Github](https://github.com/MIAGroupUT/IDIR)]
  
+**Medical Image Registration via Neural Fields.** [22th Jun., 2022] [arXiv, 2022]<br>
+*Shanlin Sun, Kun Han, Hao Tang, Deying Kong, Junayed Naushad, Xiangyi Yan, Xiaohui Xie.*<br>
+ [[PDF](https://arxiv.org/abs/2206.03111)]
+ 
  
 ## Dose Distribution
 
@@ -133,6 +137,10 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 **SCI: A Spectrum Concentrated Implicit Neural Compression for Biomedical Data.** [23th Nov., 2022] [AAAI, 2023]<br>
 *Runzhao Yang, Tingxiong Xiao, Yuxiao Cheng, Qianni Cao, Jinyuan Qu, Jinli Suo, Qionghai Dai.*<br>
  [[PDF](https://arxiv.org/abs/2209.15180)] [[Github](https://github.com/MIAGroupUT/IDIR)]
+ 
+**TINC: Tree-structured Implicit Neural Compression.** [12th Nov., 2022] [arXiv, 2022]<br>
+*Runzhao Yang, Tingxiong Xiao, Yuxiao Cheng, Jinli Suo, Qionghai Dai.*<br>
+ [[PDF]()] [[Github](https://github.com/MIAGroupUT/IDIR)]
  
 ## Image Synthesis
 
