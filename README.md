@@ -23,6 +23,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 - [Image Registration](#image-registration)
 - [Dose Distribution](#dose-distribution)
 - [Image Compression](#image-compression)
+- [Image Synthesis](#image-synthesis)
 - [Vascular Modeling](#vascular-modeling)
 - [Tissue Tracking](#tissue-tracking)
 
@@ -41,9 +42,6 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 *Muhammad Osama Khan & Yi Fang.*<br>
  [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_42)] 
  
-**Implicit Neural Representations for Generative Modeling of Living Cell Shapes.** [6th Oct., 2022] [International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022]<br>
-*David Wiesner, Julian Suk, Sven Dummer, David Svoboda, Jelmer M. Wolterink.*<br>
- [[PDF](https://arxiv.org/abs/2207.06283)] 
  
 **Retinal vessel segmentation based on self-distillation and implicit neural representation.** [8th Nov., 2022] [Applied Intelligence, 2022]<br>
 *Jia Gu, Fangzheng Tian & Il-Seok Oh.*<br>
@@ -51,6 +49,22 @@ Here, we taxonomize studies that integrate implicit representations into buildin
  
 
 ## Image Reconstruction
+
+ **IntraTomo: Self-supervised Learning-based Tomography via Sinogram Synthesis and Prediction.** [9th Feb., 2021] [Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021]<br>
+*Guangming Zang, Ramzi Idoughi, Rui Li, Peter Wonka, Wolfgang Heidrich.*<br>
+ [[PDF](https://neuralfields.cs.brown.edu/paper_243.html)]
+ 
+ **CoIL: Coordinate-based Internal Learning for Imaging Inverse Problems.** [9th Feb., 2021] [IEEE Transactions on Computational Imaging, 2021]<br>
+*Yu Sun, Jiaming Liu, Mingyang Xie, Brendt Wohlberg, Ulugbek S. Kamilov.*<br>
+ [[PDF](https://arxiv.org/abs/2102.05181)] [[Github](https://github.com/wustl-cig/Cooridnate-based-Internal-Learning)]
+ 
+ **ImplicitVol: Sensorless 3D Ultrasound Reconstruction with Deep Implicit Representation.** [24th Sep., 2021] [arXiv, 2021]<br>
+*Pak-Hei Yeung, Linde Hesse, Moska Aliasi, Monique Haak, the INTERGROWTH-21st Consortium, Weidi Xie, Ana I.L. Namburete.*<br>
+ [[PDF](https://arxiv.org/abs/2109.12108)] 
+ 
+ **Joint Rigid Motion Correction and Sparse-View CT via Self-Calibrating Neural Field.** [23th Oct., 2022] [arXiv, 2022]<br>
+*Qing Wu, Xin Li, Hongjiang Wei, Jingyi Yu, Yuyao Zhang.*<br>
+ [[PDF](https://arxiv.org/abs/2210.12731)] 
 
 **An Arbitrary Scale Super-Resolution Approach for 3-Dimensional Magnetic Resonance Image using Implicit Neural Representation.** [29th Oct., 2021] [arXiv preprint, 2021]<br>
 *Qing Wu, Yuwei Li, Yawen Sun, Yan Zhou, Hongjiang Wei, Jingyi Yu, Yuyao Zhang.*<br>
@@ -77,6 +91,11 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 *Ang Nan Gu, Purang Abolmaesumi, Christina Luong, Kwang Moo Yi.*<br>
  [[PDF](https://openreview.net/forum?id=1EDRk-CyQou)]
  
+ **A Memory-Efficient Dynamic Image Reconstruction Method using Neural Fields.** [11th May., 2022] [arXiv, 2022]<br>
+*Luke Lozenski, Mark A. Anastasio, Umberto Villa.*<br>
+ [[PDF](https://arxiv.org/abs/2205.05585?context=eess)] 
+
+
 **UncertaINR: Uncertainty Quantification of End-to-End Implicit Neural Representations for Computed Tomography.** [3th Jun., 2022] [arXiv preprint, 2022]<br>
 *Francisca Vasconcelos, Bobby He, Nalini Singh, Yee Whye Teh.*<br>
  [[PDF](https://arxiv.org/abs/2202.10847)]
@@ -92,6 +111,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 **NeSVoR: Implicit Neural Representation for Slice-to-Volume Reconstruction in MRI.** [xxth xx., 2022] [IEEE TRANSACTIONS ON MEDICAL IMAGING, 2022]<br>
 *Junshen Xu, Daniel Moyer, Borjan Gagoski, Juan Eugenio Iglesias, P. Ellen Grant, Polina Golland,Elfar Adalsteinsson.*<br>
  [[PDF](https://www.techrxiv.org/articles/preprint/NeSVoR_Implicit_Neural_Representation_for_Slice-to-Volume_Reconstruction_in_MRI/21398868)] [[Github](https://github.com/daviddmc/NeSVoR)]
+
 
 
 ## Image Registration
@@ -113,6 +133,12 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 **SCI: A Spectrum Concentrated Implicit Neural Compression for Biomedical Data.** [23th Nov., 2022] [AAAI, 2023]<br>
 *Runzhao Yang, Tingxiong Xiao, Yuxiao Cheng, Qianni Cao, Jinyuan Qu, Jinli Suo, Qionghai Dai.*<br>
  [[PDF](https://arxiv.org/abs/2209.15180)] [[Github](https://github.com/MIAGroupUT/IDIR)]
+ 
+## Image Synthesis
+
+**Implicit Neural Representations for Generative Modeling of Living Cell Shapes.** [6th Oct., 2022] [International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022]<br>
+*David Wiesner, Julian Suk, Sven Dummer, David Svoboda, Jelmer M. Wolterink.*<br>
+ [[PDF](https://arxiv.org/abs/2207.06283)] 
  
 ## Vascular Modeling
 
