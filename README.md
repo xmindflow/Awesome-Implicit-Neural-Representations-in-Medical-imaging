@@ -23,27 +23,6 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 - [Vascular Modeling](#vascular-modeling)
 - [Tissue Tracking](#tissue-tracking)
 
-## Image Segmentation
-
-
-**NeRD: Neural Representation of Distribution for Medical Image Segmentation.** [6th Mar., 2021] [arXiv preprint, 2021]<br>
-*Hang Zhang, Rongguang Wang, Jinwei Zhang, Chao Li, Gufeng Yang, Pascal Spincemaille, Thanh Nguyen, Yi Wang.*<br>
- [[PDF](https://arxiv.org/abs/2103.04020)]
- 
-**Binary segmentation of medical images using implicit spline representations and deep learning.** [19th Mar., 2021] [Computer Aided Geometric Design, 2021]<br>
-*Oliver J.D. Barrowclough, Georg Muntingh, Varatharajan Nainamalai, Ivar Stangeby.*<br>
- [[PDF](https://arxiv.org/abs/2102.12759)] [[Github](https://github.com/sintefmath/implicit-recon)]
- 
-**Implicit Neural Representations for Medical Imaging Segmentation.** [16th Sep., 2022] [International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022]<br>
-*Muhammad Osama Khan & Yi Fang.*<br>
- [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_42)] 
- 
- 
-**Retinal vessel segmentation based on self-distillation and implicit neural representation.** [8th Nov., 2022] [Applied Intelligence, 2022]<br>
-*Jia Gu, Fangzheng Tian & Il-Seok Oh.*<br>
- [[PDF](https://link.springer.com/article/10.1007/s10489-022-04252-2)] 
- 
-
 ## Image Reconstruction
 
  **IntraTomo: Self-supervised Learning-based Tomography via Sinogram Synthesis and Prediction.** [9th Feb., 2021] [Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021]<br>
@@ -108,7 +87,27 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 *Junshen Xu, Daniel Moyer, Borjan Gagoski, Juan Eugenio Iglesias, P. Ellen Grant, Polina Golland,Elfar Adalsteinsson.*<br>
  [[PDF](https://www.techrxiv.org/articles/preprint/NeSVoR_Implicit_Neural_Representation_for_Slice-to-Volume_Reconstruction_in_MRI/21398868)] [[Github](https://github.com/daviddmc/NeSVoR)]
 
+ 
+## Image Segmentation
 
+
+**NeRD: Neural Representation of Distribution for Medical Image Segmentation.** [6th Mar., 2021] [arXiv preprint, 2021]<br>
+*Hang Zhang, Rongguang Wang, Jinwei Zhang, Chao Li, Gufeng Yang, Pascal Spincemaille, Thanh Nguyen, Yi Wang.*<br>
+ [[PDF](https://arxiv.org/abs/2103.04020)]
+ 
+**Binary segmentation of medical images using implicit spline representations and deep learning.** [19th Mar., 2021] [Computer Aided Geometric Design, 2021]<br>
+*Oliver J.D. Barrowclough, Georg Muntingh, Varatharajan Nainamalai, Ivar Stangeby.*<br>
+ [[PDF](https://arxiv.org/abs/2102.12759)] [[Github](https://github.com/sintefmath/implicit-recon)]
+ 
+**Implicit Neural Representations for Medical Imaging Segmentation.** [16th Sep., 2022] [International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022]<br>
+*Muhammad Osama Khan & Yi Fang.*<br>
+ [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_42)] 
+ 
+ 
+**Retinal vessel segmentation based on self-distillation and implicit neural representation.** [8th Nov., 2022] [Applied Intelligence, 2022]<br>
+*Jia Gu, Fangzheng Tian & Il-Seok Oh.*<br>
+ [[PDF](https://link.springer.com/article/10.1007/s10489-022-04252-2)] 
+ 
 
 ## Image Registration
 
