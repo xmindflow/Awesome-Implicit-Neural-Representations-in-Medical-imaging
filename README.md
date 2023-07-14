@@ -111,6 +111,11 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 **Retinal vessel segmentation based on self-distillation and implicit neural representation.** [8th Nov., 2022] [Applied Intelligence, 2022]<br>
 *Jia Gu, Fangzheng Tian & Il-Seok Oh.*<br>
  [[PDF](https://link.springer.com/article/10.1007/s10489-022-04252-2)] 
+
+ ** Deep Implicit Statistical Shape Models for 3D Medical Image Delineation** [28th Jun., 2022] [AAAI, 2022]<br>
+*Ashwin Raju, Shun Miao, Dakai Jin, Le Lu, Junzhou Huang, Adam P. Harrison *<br>
+ [[PDF]( https://arxiv.org/abs/2104.02847)] [[Github](https://github.com/ashstuff/dissm)]
+
  
 
 ## Image Registration
