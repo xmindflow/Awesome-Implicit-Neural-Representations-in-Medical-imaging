@@ -119,7 +119,10 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 **Direct localization and delineation of human pedunculopontine nucleus based on a self-supervised magnetic resonance image super-resolution method** [25 th Apr., 2023] [Human Brain Mapping, 2023]<br>
 *Jun Li, Xiaojun Guan, Qing Wu, Chenyu He, Weimin Zhang, Xiyue Lin, Chunlei Liu, Hongjiang Wei, Xiaojun Xu, Yuyao Zhang*<br>
 
- 
+**Implicit Anatomical Rendering for Medical Image Segmentation with Stochastic Experts** [6th Apr., 2023] [arXiv preprint, 2023]<br>
+*Chenyu You, Weicheng Dai, Yifei Min, Lawrence Staib, James S. Duncan*<br>
+ [[PDF]( https://arxiv.org/abs/2304.03209)] 
+
 
 ## Image Registration
 
