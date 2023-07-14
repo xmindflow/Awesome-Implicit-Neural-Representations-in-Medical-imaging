@@ -138,6 +138,10 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 *Jing Zou, Noémie Debroux, Lihao Liu, Jing Qin, Carola-Bibiane Schönlieb, Angelica I Aviles-Rivero*<br>
  [[PDF]( https://arxiv.org/abs/2303.08113)] 
 
+**Diffeomorphic Image Registration with Neural Velocity Field** [2023] [IEEE/CVF Winter Conference on Applications of Computer Vision, 2023]<br>
+*Kun Han, Shanlin sun, Xiangyi Yan, Chenyu You, Hao Tang, Junayed Naushad, Haoyu Ma, Deying Kong, Xiaohui Xie*<br>
+ [[PDF]( https://arxiv.org/abs/2202.12498)]
+
  
  
 ## Dose Distribution
