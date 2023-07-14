@@ -147,5 +147,3 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 *David Wiesner, Julian Suk, Sven Dummer, David Svoboda, Jelmer M. Wolterink.*<br>
  [[PDF](https://arxiv.org/abs/2207.06283)] 
 
-
-p
