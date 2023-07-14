@@ -36,7 +36,11 @@ Here, we taxonomize studies that integrate implicit representations into buildin
  **ImplicitVol: Sensorless 3D Ultrasound Reconstruction with Deep Implicit Representation.** [24th Sep., 2021] [arXiv, 2021]<br>
 *Pak-Hei Yeung, Linde Hesse, Moska Aliasi, Monique Haak, the INTERGROWTH-21st Consortium, Weidi Xie, Ana I.L. Namburete.*<br>
  [[PDF](https://arxiv.org/abs/2109.12108)] 
- 
+
+ **Going Off-Grid: Continuous Implicit Neural Representations for 3D Vascular Modeling.** [16th Sep., 2022] [arXiv preprint, 2022]<br>
+*Dieuwertje Alblas, Christoph Brune, Kak Khee Yeung, Jelmer M. Wolterink.*<br>
+[[PDF](https://arxiv.org/abs/2207.14663)]
+
  **Joint Rigid Motion Correction and Sparse-View CT via Self-Calibrating Neural Field.** [23th Oct., 2022] [arXiv, 2022]<br>
 *Qing Wu, Xin Li, Hongjiang Wei, Jingyi Yu, Yuyao Zhang.*<br>
  [[PDF](https://arxiv.org/abs/2210.12731)] 
@@ -142,16 +146,6 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 **Implicit Neural Representations for Generative Modeling of Living Cell Shapes.** [6th Oct., 2022] [International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022]<br>
 *David Wiesner, Julian Suk, Sven Dummer, David Svoboda, Jelmer M. Wolterink.*<br>
  [[PDF](https://arxiv.org/abs/2207.06283)] 
- 
-## Vascular Modeling
 
-**Going Off-Grid: Continuous Implicit Neural Representations for 3D Vascular Modeling.** [16th Sep., 2022] [arXiv preprint, 2022]<br>
-*Dieuwertje Alblas, Christoph Brune, Kak Khee Yeung, Jelmer M. Wolterink.*<br>
-[[PDF](https://arxiv.org/abs/2207.14663)]
-
-## Tissue Tracking
-**Fast Graph Refinement and Implicit Neural Representation for Tissue Tracking.** [12th Jul., 2022] [2022 International Conference on Robotics and Automation (ICRA), 2022]<br>
-*Adam Schmidt, Omid Mohareri, Simon DiMaio, Septimiu E. Salcudean.*<br>
-[[PDF](https://ieeexplore.ieee.org/document/9811742)]
 
 p
