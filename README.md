@@ -133,6 +133,11 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 **Medical Image Registration via Neural Fields.** [22th Jun., 2022] [arXiv, 2022]<br>
 *Shanlin Sun, Kun Han, Hao Tang, Deying Kong, Junayed Naushad, Xiangyi Yan, Xiaohui Xie.*<br>
  [[PDF](https://arxiv.org/abs/2206.03111)]
+
+ **Learning Homeomorphic Image Registration via Conformal-Invariant Hyperelastic Regularisation** [30 th Jun., 2023 ] [arXiv preprint, 2023 ]<br>
+*Jing Zou, Noémie Debroux, Lihao Liu, Jing Qin, Carola-Bibiane Schönlieb, Angelica I Aviles-Rivero*<br>
+ [[PDF]( https://arxiv.org/abs/2303.08113)] 
+
  
  
 ## Dose Distribution
