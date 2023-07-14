@@ -142,7 +142,9 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 *Kun Han, Shanlin sun, Xiangyi Yan, Chenyu You, Hao Tang, Junayed Naushad, Haoyu Ma, Deying Kong, Xiaohui Xie*<br>
  [[PDF]( https://arxiv.org/abs/2202.12498)]
 
- 
+ **Deformable Image Registration with Geometry-informed Implicit Neural Representations** [13 th Apr., 2023] [Medical Imaging with Deep Learning, 2023]<br>
+*Louis van Harten, Rudolf Leonardus Mirjam Van Herten, Jaap Stoker, Ivana Isgum*<br>
+
  
 ## Dose Distribution
 
