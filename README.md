@@ -9,10 +9,6 @@ This repo contains a comprehensive paper list of Implicit Neural Representations
 **Implicit Neural Representations with Periodic Activation Functions.** [17th Jun., 2020] [Advances in Neural Information Processing Systems, 2020]<br>
 *Vincent Sitzmann, Julien N. P. Martel, Alexander W. Bergman, David B. Lindell, Gordon Wetzstein.*<br>
  [[PDF](https://arxiv.org/abs/2006.09661)]
- 
-**TINC: Tree-structured Implicit Neural Compression.** [17th Nov., 2022] [arXiv preprint, 2022]<br>
-*Runzhao Yang, Tingxiong Xiao, Yuxiao Cheng, Jinli Suo, Qionghai Dai.*<br>
- [[PDF](https://arxiv.org/abs/2211.06689)]
 
 ---
 # Main papers
