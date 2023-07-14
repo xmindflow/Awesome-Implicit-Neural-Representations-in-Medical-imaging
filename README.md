@@ -158,3 +158,5 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 **Fast Graph Refinement and Implicit Neural Representation for Tissue Tracking.** [12th Jul., 2022] [2022 International Conference on Robotics and Automation (ICRA), 2022]<br>
 *Adam Schmidt, Omid Mohareri, Simon DiMaio, Septimiu E. Salcudean.*<br>
 [[PDF](https://ieeexplore.ieee.org/document/9811742)]
+
+p
