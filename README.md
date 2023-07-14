@@ -145,6 +145,11 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 *Emilien Dupont, Hrushikesh Loya, Milad Alizadeh, Adam Goliński, Yee Whye Teh, Arnaud Doucet*<br>
  [[PDF]( https://arxiv.org/abs/2201.12904)] 
 
+ **SINCO: A Novel structural regularizer for image compression using implicit neural representations** [5th May., 2023] [IEEE International Conference on Acoustics, Speech and Signal Processing, 2023]<br>
+*Harry Gao, Weijie Gan, Zhixin Sun, Ulugbek S. Kamilov *<br>
+ [[PDF]( https://arxiv.org/abs/2210.14974)]
+
+
  
 ## Image Synthesis
 
