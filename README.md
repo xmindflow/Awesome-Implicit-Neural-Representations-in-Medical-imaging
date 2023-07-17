@@ -148,7 +148,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 **Learning Deep Intensity Field for Extremely Sparse-View CBCT Reconstruction.** [12th Mar., 2023] [arXiv preprint]<br>
 *Yiqun Lin, Zhongjin Luo, Wei Zhao, Xiaomeng Li.*<br>
-[[PDF](https://arxiv.org/abs/2303.06681)]
+[[PDF](https://arxiv.org/abs/2303.06681)] [[Github](https://github.com/xmed-lab/dif-net)]
 
 **MEPNet: A Model-Driven Equivariant Proximal Network for Joint Sparse-View Reconstruction and Metal Artifact Reduction in CT Images.** [25th Jun., 2023] [arXiv preprint]<br>
 *Hong Wang, Minghao Zhou, Dong Wei, Yuexiang Li, Yefeng Zheng.*<br>
