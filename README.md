@@ -24,8 +24,6 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 - [Dose Distribution](#dose-distribution)
 - [Image Compression](#image-compression)
 - [Image Synthesis](#image-synthesis)
-- [Vascular Modeling](#vascular-modeling)
-- [Tissue Tracking](#tissue-tracking)
 
 ## Image Reconstruction
 
