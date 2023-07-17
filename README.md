@@ -130,7 +130,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 *Wenqi Huang, Hongwei Li, Jiazhen Pan, Gastao Cruz, Daniel Rueckert, Kerstin Hammernik.*
 [[PDF](https://arxiv.org/abs/2212.08479)]
 
-**Neural Computed Tomography.** [17th Jan., 2022]
+**Neural Computed Tomography.** [17th Jan., 2022] [arXiv preprint, 2022]
 *Kunal Gupta, Brendan Colvert, Francisco Contijoch.*
 [[PDF](https://arxiv.org/abs/2201.06574)]
 
