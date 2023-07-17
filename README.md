@@ -126,13 +126,33 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 *Cong Liu, Qingbin Wang, Jing Zhang.*<br>
 [[PDF](https://www.hindawi.com/journals/bmri/2022/5426643/)]
 
-**Neural Implicit k-Space for Binning-free Non-Cartesian Cardiac MR Imaging.** [16th Dec., 2022] [International Conference on Information Processing in Medical Imaging, 2023]
-*Wenqi Huang, Hongwei Li, Jiazhen Pan, Gastao Cruz, Daniel Rueckert, Kerstin Hammernik.*
+**Neural Implicit k-Space for Binning-free Non-Cartesian Cardiac MR Imaging.** [16th Dec., 2022] [International Conference on Information Processing in Medical Imaging, 2023] <br>
+*Wenqi Huang, Hongwei Li, Jiazhen Pan, Gastao Cruz, Daniel Rueckert, Kerstin Hammernik.* <br>
 [[PDF](https://arxiv.org/abs/2212.08479)]
 
-**Neural Computed Tomography.** [17th Jan., 2022] [arXiv preprint, 2022]
-*Kunal Gupta, Brendan Colvert, Francisco Contijoch.*
+**Neural Computed Tomography.** [17th Jan., 2022] [arXiv preprint, 2022]<br>
+*Kunal Gupta, Brendan Colvert, Francisco Contijoch.* <br>
 [[PDF](https://arxiv.org/abs/2201.06574)]
+
+**NAISR: A 3D Neural Additive Model for Interpretable Shape Representation.** [16th Mar., 2023] [arXiv preprint]<br>
+*Yining Jiao, Carlton Zdanski, Julia Kimbell, Andrew Prince, Cameron Worden, Samuel Kirse, Christopher Rutter, Benjamin Shields, William Dunn, Jisan Mahmud, Marc Niethammer.*<br>
+[[PDF](https://arxiv.org/abs/2303.09234#:~:text=NAISR%20is%20the%20first%20approach,representing%2C%20and%20investigating%20shape%20populations.)] [[Github](https://github.com/uncbiag/naisr)]
+
+**Multi-contrast MRI Super-resolution via Implicit Neural Representations.** [27th Mar., 2023] [arXiv preprint]<br>
+*Julian McGinnis, Suprosanna Shit, Hongwei Bran Li, Vasiliki Sideri-Lampretsa, Robert Graf, Maik Dannecker, Jiazhen Pan, Nil Stolt Ansó, Mark Mühlau, Jan S. Kirschke, Daniel Rueckert, Benedikt Wiestler.*<br>
+[[PDF](https://arxiv.org/abs/2303.15065)]
+
+**MiShape: 3D Shape Modelling of Mitochondria in Microscopy.** [2nd Mar., 2023] [arXiv preprint]<br>
+*Abhinanda R. Punnakkal, Suyog S Jadhav, Alexander Horsch, Krishna Agarwal, Dilip K. Prasad.*<br>
+[[PDF](https://arxiv.org/abs/2303.01546)]
+
+**Learning Deep Intensity Field for Extremely Sparse-View CBCT Reconstruction.** [12th Mar., 2023] [arXiv preprint]<br>
+*Yiqun Lin, Zhongjin Luo, Wei Zhao, Xiaomeng Li.*<br>
+[[PDF](https://arxiv.org/abs/2303.06681)]
+
+**MEPNet: A Model-Driven Equivariant Proximal Network for Joint Sparse-View Reconstruction and Metal Artifact Reduction in CT Images.** [25th Jun., 2023] [arXiv preprint]<br>
+*Hong Wang, Minghao Zhou, Dong Wei, Yuexiang Li, Yefeng Zheng.*<br>
+[[PDF](https://ui.adsabs.harvard.edu/abs/2023arXiv230614274W/abstract)]
 
 
 ## Image Segmentation
