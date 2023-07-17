@@ -152,7 +152,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 **MEPNet: A Model-Driven Equivariant Proximal Network for Joint Sparse-View Reconstruction and Metal Artifact Reduction in CT Images.** [25th Jun., 2023] [arXiv preprint]<br>
 *Hong Wang, Minghao Zhou, Dong Wei, Yuexiang Li, Yefeng Zheng.*<br>
-[[PDF](https://ui.adsabs.harvard.edu/abs/2023arXiv230614274W/abstract)]
+[[PDF](https://ui.adsabs.harvard.edu/abs/2023arXiv230614274W/abstract)] [[Github](https://github.com/hongwang01/mepnet)]
 
 
 ## Image Segmentation
