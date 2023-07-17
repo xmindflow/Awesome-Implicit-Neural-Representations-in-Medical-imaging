@@ -95,11 +95,11 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
  **Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction.** [27th Jun., 2023] [arXiv preprint]<br>
  *Qing Wu, Lixuan Chen, Ce Wang, Hongjiang Wei, S. Kevin Zhou, Jingyi Yu, Yuyao Zhang.*<br>
- [[PDF](https://arxiv.org/abs/2306.15203)
+ [[PDF](https://arxiv.org/abs/2306.15203)]
 
  **Topology-Preserving Shape Reconstruction and Registration via Neural Diffeomorphic Flow.** [16th Mar., 2022] [Proceedings of the IEEE/CVF Conference on CVPR]
  *Shanlin Sun, Kun Han, Deying Kong, Hao Tang, Xiangyi Yan, Xiaohui Xie.*<br>
- [[PDF](https://arxiv.org/abs/2203.08652) [[Github](https://github.com/Siwensun/Neural_Diffeomorphic_Flow--NDF)]
+ [[PDF](https://arxiv.org/abs/2203.08652)] [[Github](https://github.com/Siwensun/Neural_Diffeomorphic_Flow--NDF)]
 
 
  
