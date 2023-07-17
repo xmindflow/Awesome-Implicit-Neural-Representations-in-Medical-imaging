@@ -101,8 +101,23 @@ Here, we taxonomize studies that integrate implicit representations into buildin
  *Shanlin Sun, Kun Han, Deying Kong, Hao Tang, Xiangyi Yan, Xiaohui Xie.*<br>
  [[PDF](https://arxiv.org/abs/2203.08652)] [[Github](https://github.com/Siwensun/Neural_Diffeomorphic_Flow--NDF)]
 
+**Spatiotemporal implicit neural representation for unsupervised dynamic MRI reconstruction.** [31th Dec 2022] [arXiv preprint]
+*Jie Feng, Ruimin Feng, Qing Wu, Zhiyong Zhang, Yuyao Zhang, Hongjiang Wei.*<br>
+[[PDF](https://arxiv.org/abs/2301.00127)]
 
- 
+**Spatial Attention-based Implicit Neural Representation for Arbitrary Reduction of MRI Slice Spacing.** [23th May., 2022] [arXiv preprint]<br>
+*Xin Wang, Sheng Wang, Honglin Xiong, Kai Xuan, Zixu Zhuang, Mengjun Liu, Zhenrong Shen, Xiangyu Zhao, Lichi Zhang, Qian Wang.*<br>
+[[PDF](https://arxiv.org/abs/2205.11346)]
+
+**Self-Supervised Coordinate Projection Network for Sparse-View Computed Tomography.** [12th Sep., 2022] [IEEE Transactions on Computational Imaging, 2023]<br>
+*Qing Wu, Ruimin Feng, Hongjiang Wei, Jingyi Yu, Yuyao Zhang.*<br>
+[[PDF](https://ieeexplore.ieee.org/document/10143286)]
+
+**Self-supervised arbitrary scale super-resolution framework for anisotropic MRI.** [2th May., 2023] [arXiv preprint]<br>
+*Haonan Zhang, Yuhan Zhang, Qing Wu, Jiangjie Wu, Zhiming Zhen, Feng Shi, Jianmin Yuan, Hongjiang Wei, Chen Liu, Yuyao Zhang.*<br>
+[[PDF](https://arxiv.org/abs/2305.01360)]
+
+
 ## Image Segmentation
 
 
