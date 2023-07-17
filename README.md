@@ -118,6 +118,23 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 [[PDF](https://arxiv.org/abs/2305.01360)]
 
 
+**OReX: Object Reconstruction from Planar Cross-sections Using Neural Fields.** [23th Nov., 2022] [CVPR, 2023]<br>
+*Haim Sawdayee, Amir Vaxman, Amit H. Bermano.*<br>
+[[PDF](https://arxiv.org/abs/2211.12886)]
+
+**NeuRec: Incorporating Interpatient prior to Sparse-View Image Reconstruction for Neurorehabilitation.** [21th Feb., 2022] [BioMed Research International, 2022]<br>
+*Cong Liu, Qingbin Wang, Jing Zhang.*<br>
+[[PDF](https://www.hindawi.com/journals/bmri/2022/5426643/)]
+
+**Neural Implicit k-Space for Binning-free Non-Cartesian Cardiac MR Imaging.** [16th Dec., 2022] [International Conference on Information Processing in Medical Imaging, 2023]
+*Wenqi Huang, Hongwei Li, Jiazhen Pan, Gastao Cruz, Daniel Rueckert, Kerstin Hammernik.*
+[[PDF](https://arxiv.org/abs/2212.08479)]
+
+**Neural Computed Tomography.** [17th Jan., 2022]
+*Kunal Gupta, Brendan Colvert, Francisco Contijoch.*
+[[PDF](https://arxiv.org/abs/2201.06574)]
+
+
 ## Image Segmentation
 
 
