@@ -1,8 +1,17 @@
 # Implicit-Neural-Representations-in-Medical-Analysis
 
-This repo contains a comprehensive paper list of Implicit Neural Representations in Medical Imaging, including papers, codes, and related websites.
+This repo contains a comprehensive paper list of Implicit Neural Representations in Medical Imaging, including papers, codes, and related websites. 
+
 
 # Introduction 
+
+Implicitly representing image signals has gained popularity in recent years for a broad range of medical imaging applications.
+The most motivating resoans are the following:
+* Memory efficiency
+* Unlimited Resolution: They take values in the continous domain, meaning they can generate values for coordinates in-between the pixel or voxel-wise grid
+* Effective data usage
+
+Which all are significantly important for developing an automatic medical system. 
 
 ---
 # Introductory Papers
