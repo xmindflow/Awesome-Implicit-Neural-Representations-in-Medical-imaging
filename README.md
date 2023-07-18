@@ -34,7 +34,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 - [Image Compression](#image-compression)
 - [Image Synthesis](#image-synthesis)
 
-<img src="Images/Taxonomy.png" alt="Taxonomy" width="616"
+<img src="Images/Taxonomy.png" alt="Taxonomy" width="616">
 
 ## Image Reconstruction
 
