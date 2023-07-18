@@ -2,7 +2,7 @@
 
 This repo contains a comprehensive paper list of Implicit Neural Representations in Medical Imaging, including papers, codes, and related websites. 
 
-![plot](./Figures/Framework.jpg)
+<img src="./Figures/Framework.jpg" width="48">
 
 # Introduction 
 
