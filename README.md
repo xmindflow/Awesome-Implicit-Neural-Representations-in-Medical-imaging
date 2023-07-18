@@ -7,9 +7,9 @@ This repo contains a comprehensive paper list of Implicit Neural Representations
 
 Implicitly representing image signals has gained popularity in recent years for a broad range of medical imaging applications.
 The most motivating resoans are the following:
-* Memory efficiency
+* Memory efficiency: The amount of memory demanded to represent the signal is not restricted by the signal's resolution.
 * Unlimited Resolution: They take values in the continous domain, meaning they can generate values for coordinates in-between the pixel or voxel-wise grid
-* Effective data usage
+* Effective data usage: They can learn to handle reconstruction and synthesis tasks without high-cost external annotation.
 
 Which all are significantly important for developing an automatic medical system. 
 
