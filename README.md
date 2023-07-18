@@ -25,6 +25,7 @@ Which all are significantly important for developing an automatic medical system
 
 ---
 # Main papers
+<img src="Figures/Taxonomy.png" alt="Taxonomy" width="816">
 Here, we taxonomize studies that integrate implicit representations into building medical analysis models.
 
 - [Image Segmentation](#image-segmentation)
@@ -34,7 +35,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 - [Image Compression](#image-compression)
 - [Image Synthesis](#image-synthesis)
 
-<img src="Figures/Taxonomy.png" alt="Taxonomy" width="616">
+
 
 ## Image Reconstruction
 
