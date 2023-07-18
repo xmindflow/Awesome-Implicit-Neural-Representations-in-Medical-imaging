@@ -37,7 +37,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 
 
-<img src="Figures/Reconstruction.jpg" alt="reconstruction" width="916">
+<img src="Figures/Reconstruction.jpg" alt="reconstruction" width="1016">
 
  **IntraTomo: Self-supervised Learning-based Tomography via Sinogram Synthesis and Prediction.** [9th Feb., 2021] [Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021]<br>
 *Guangming Zang, Ramzi Idoughi, Rui Li, Peter Wonka, Wolfgang Heidrich.*<br>
