@@ -25,7 +25,7 @@ The most motivating resoans are the following:
 
 Which all are significantly important for developing an automatic medical system.<br>
 With the aim of providing easier access for researchers, this repo contains a comprehensive paper list of Implicit Neural Representations in Medical Imaging, including papers, codes, and related websites.<br>
-We considered a a sum of <ins>64</ins> research papers spanning from 2021 to 2023.
+We considered a a sum of <ins>**64**</ins> research papers spanning from 2021 to 2023.
 
 ---
 # Introductory Papers
