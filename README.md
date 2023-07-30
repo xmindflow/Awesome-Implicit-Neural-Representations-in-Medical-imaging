@@ -38,7 +38,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 
 
-<img src="Figures/Reconstruction.jpg" alt="reconstruction" width="1000" height="10"><br>
+<img src="Figures/Reconstruction.jpg" alt="reconstruction" width="1000" height="5"><br>
 ## Image Reconstruction
 
  **IntraTomo: Self-supervised Learning-based Tomography via Sinogram Synthesis and Prediction.** [9th Feb., 2021] [Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021]<br>
@@ -168,8 +168,8 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 *Hong Wang, Minghao Zhou, Dong Wei, Yuexiang Li, Yefeng Zheng.*<br>
 [[PDF](https://ui.adsabs.harvard.edu/abs/2023arXiv230614274W/abstract)] [[Github](https://github.com/hongwang01/mepnet)]
 
-<img src="Figures/Reconstruction.jpg" alt="reconstruction" width="1016"><br>
-<img src="Figures/Segmentation.jpg" alt="Segmentation" width="1016"><br>
+<img src="Figures/Reconstruction.jpg" alt="reconstruction" width="1016" height="5"><br>
+<img src="Figures/Segmentation.jpg" alt="Segmentation" width="1016" height="5"><br>
 ## Image Segmentation
 
 **NeRD: Neural Representation of Distribution for Medical Image Segmentation.** [6th Mar., 2021] [arXiv preprint, 2021]<br>
@@ -200,7 +200,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 *Chenyu You, Weicheng Dai, Yifei Min, Lawrence Staib, James S. Duncan*<br>
  [[PDF]( https://arxiv.org/abs/2304.03209)] 
 
-<img src="Figures/Segmentation.jpg" alt="Segmentation" width="1016"><br>
+<img src="Figures/Segmentation.jpg" alt="Segmentation" width="1016" height="5"><br>
 
 ## Image Registration
 
@@ -223,7 +223,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
  **Deformable Image Registration with Geometry-informed Implicit Neural Representations** [13 th Apr., 2023] [Medical Imaging with Deep Learning, 2023]<br>
 *Louis van Harten, Rudolf Leonardus Mirjam Van Herten, Jaap Stoker, Ivana Isgum*<br>
  
- 
+<img src="Figures/Compression.jpg" alt="Compression" width="1016" height="5"><br> 
 ## Image Compression
 
 **SCI: A Spectrum Concentrated Implicit Neural Compression for Biomedical Data.** [23th Nov., 2022] [AAAI, 2023]<br>
@@ -243,8 +243,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
  [[PDF]( https://arxiv.org/abs/2210.14974)]
 
 
- 
-<img src="Figures/Synthesis.jpg" alt="Synthesis" width="1016">
+ ## Image Synthesis
 
 **Implicit Neural Representations for Generative Modeling of Living Cell Shapes.** [6th Oct., 2022] [International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022]<br>
 *David Wiesner, Julian Suk, Sven Dummer, David Svoboda, Jelmer M. Wolterink.*<br>
