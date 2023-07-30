@@ -227,6 +227,31 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 <img src="Figures/Neural Rendering.jpg" alt="Neural Rendering" width="1016" height="5"><br>
 ## Neural Rendering
 
+**MedNeRF: Medical Neural Radiance Fields for Reconstructing 3D-aware CT-Projections from a Single X-ray.** [2nd Feb., 2022] [IEEE EMBC, 2022]<br>
+*Abril Corona-Figueroa, Jonathan Frawley, Sam Bond-Taylor, Sarath Bethapudi, Hubert P. H. Shum, Chris G. Willcocks.*<br>
+ [[PDF](https://arxiv.org/abs/2202.01020)] [[Github](https://github.com/abrilcf/mednerf)]
+
+ **Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery.** [30th Jun., 2022] [MICCAI, 2022]<br>
+*Yuehao Wang, Yonghao Long, Siu Hin Fan, Qi Dou.*<br>
+ [[PDF](https://arxiv.org/abs/2206.15255)] [[Github](https://github.com/med-air/endonerf)]
+ 
+ **NAF: Neural Attenuation Fields for Sparse-View CBCT Reconstruction.** [29th Sep., 2022] [	MICCAI, 2022]<br>
+*Ruyi Zha, Yanhao Zhang, Hongdong Li.*<br>
+ [[PDF](https://arxiv.org/abs/2209.14540] [[Github](https://github.com/ruyi-zha/naf_cbct)]
+
+ **SNAF: Sparse-view CBCT Reconstruction with Neural Attenuation Fields.** [30th Nov., 2022] [	arXiv preprint, 2022]<br>
+*Yu Fang, Lanzhuju Mei, Changjian Li, Yuan Liu, Wenping Wang, Zhiming Cui, Dinggang Shen.*<br>
+[[PDF](https://arxiv.org/abs/2211.17048)]
+
+**Ultra-NeRF: Neural Radiance Fields for Ultrasound Imaging.** [25th Jan., 2023] [MIDL, 2023]<br>
+*Magdalena Wysocki, Mohammad Farid Azampour, Christine Eilers, Benjamin Busam, Mehrdad Salehi, Nassir Navab.*<br>
+[[PDF](https://arxiv.org/abs/2301.10520)]
+
+ **3D reconstructions of brain from MRI scans using neural radiance fields.** [24th Apr., 2023] [Preprint, 2023]<br>
+*Khadija Iddrisu, Sylwia Malec, Alessandro Crimi.*<br>
+ [[PDF](https://www.biorxiv.org/content/10.1101/2023.04.24.538160v1#:~:text=The%20development%20of%20neural%20radiance,2D%20slices%20of%20MRI%20scans.)]
+
+ 
 <img src="Figures/Neural Rendering.jpg" alt="Neural Rendering" width="1016" height="5"><br>
 <img src="Figures/Compression.jpg" alt="Compression" width="1016" height="5"><br> 
 ## Image Compression
