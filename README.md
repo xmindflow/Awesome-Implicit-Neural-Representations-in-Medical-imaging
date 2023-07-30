@@ -36,9 +36,11 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 - [Image Synthesis](#image-synthesis)
 
 
-## Image Reconstruction
+
 
 <img src="Figures/Reconstruction.jpg" alt="reconstruction" width="1016">
+
+## Image Reconstruction
 
  **IntraTomo: Self-supervised Learning-based Tomography via Sinogram Synthesis and Prediction.** [9th Feb., 2021] [Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021]<br>
 *Guangming Zang, Ramzi Idoughi, Rui Li, Peter Wonka, Wolfgang Heidrich.*<br>
@@ -167,8 +169,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 *Hong Wang, Minghao Zhou, Dong Wei, Yuexiang Li, Yefeng Zheng.*<br>
 [[PDF](https://ui.adsabs.harvard.edu/abs/2023arXiv230614274W/abstract)] [[Github](https://github.com/hongwang01/mepnet)]
 
-
-<img src="Figures/Segmentation.jpg" alt="reconstruction" width="1016">
+<img src="Figures/Reconstruction.jpg" alt="reconstruction" width="1016">
 
 
 **NeRD: Neural Representation of Distribution for Medical Image Segmentation.** [6th Mar., 2021] [arXiv preprint, 2021]<br>
