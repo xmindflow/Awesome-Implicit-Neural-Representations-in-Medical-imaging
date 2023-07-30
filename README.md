@@ -1,6 +1,18 @@
-# Implicit-Neural-Representations-in-Medical-Analysis
+# Implicit Neural Representation in Medical Imaging: A Comparative Survey
 
-This repo contains a comprehensive paper list of Implicit Neural Representations in Medical Imaging, including papers, codes, and related websites. 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+:fire::fire:This is a collection of awesome articles about Transformer models in the medical imaging:fire::fire:
+
+:loudspeaker: Our review paper published on arXiv: [Implicit Neural Representation in Medical Imaging: A Comparative Survey]() :heart:
+
+#### Citation
+
+```
+
+```
+
 
 
 # Introduction 
@@ -12,6 +24,7 @@ The most motivating resoans are the following:
 * Effective data usage: They can learn to handle reconstruction and synthesis tasks without high-cost external annotation.
 
 Which all are significantly important for developing an automatic medical system. 
+To help researcher in easier of access, this repo contains a comprehensive paper list of Implicit Neural Representations in Medical Imaging, including papers, codes, and related websites.
 
 ---
 # Introductory Papers
