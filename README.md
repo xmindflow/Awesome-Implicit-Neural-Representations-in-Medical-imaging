@@ -31,7 +31,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 - [Image Segmentation](#image-segmentation)
 - [Image Reconstruction](#image-reconstruction)
 - [Image Registration](#image-registration)
-- [Dose Distribution](#dose-distribution)
+- [Neural Rendering](#neural-rendering)
 - [Image Compression](#image-compression)
 - [Image Synthesis](#image-synthesis)
 
@@ -167,7 +167,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 [[PDF](https://ui.adsabs.harvard.edu/abs/2023arXiv230614274W/abstract)] [[Github](https://github.com/hongwang01/mepnet)]
 
 
-## Image Segmentation
+<img src="Figures/Segmentation.jpg" alt="reconstruction" width="1016">
 
 
 **NeRD: Neural Representation of Distribution for Medical Image Segmentation.** [6th Mar., 2021] [arXiv preprint, 2021]<br>
@@ -199,7 +199,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
  [[PDF]( https://arxiv.org/abs/2304.03209)] 
 
 
-## Image Registration
+<img src="Figures/Registration.jpg" alt="reconstruction" width="1016">
 
 **Implicit Neural Representations for Deformable Image Registration.** [22th Jun., 2022] [Medical Imaging with Deep Learning, 2022]<br>
 *Jelmer M. Wolterink, Jesse C. Zwienenberg, Christoph Brune.*<br>
@@ -248,7 +248,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 
  
-## Image Synthesis
+<img src="Figures/Synthesis.jpg" alt="Synthesis" width="1016">
 
 **Implicit Neural Representations for Generative Modeling of Living Cell Shapes.** [6th Oct., 2022] [International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022]<br>
 *David Wiesner, Julian Suk, Sven Dummer, David Svoboda, Jelmer M. Wolterink.*<br>
