@@ -237,7 +237,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
  
  **NAF: Neural Attenuation Fields for Sparse-View CBCT Reconstruction.** [29th Sep., 2022] [	MICCAI, 2022]<br>
 *Ruyi Zha, Yanhao Zhang, Hongdong Li.*<br>
- [[PDF](https://arxiv.org/abs/2209.14540] [[Github](https://github.com/ruyi-zha/naf_cbct)]
+ [[PDF](https://arxiv.org/abs/2209.14540)] [[Github](https://github.com/ruyi-zha/naf_cbct)]
 
  **SNAF: Sparse-view CBCT Reconstruction with Neural Attenuation Fields.** [30th Nov., 2022] [	arXiv preprint, 2022]<br>
 *Yu Fang, Lanzhuju Mei, Changjian Li, Yuan Liu, Wenping Wang, Zhiming Cui, Dinggang Shen.*<br>
