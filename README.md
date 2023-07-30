@@ -201,7 +201,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
  [[PDF]( https://arxiv.org/abs/2304.03209)] 
 
 <img src="Figures/Segmentation.jpg" alt="Segmentation" width="1016" height="5"><br>
-
+<img src="Figures/Registration.jpg" alt="Registration" width="1016" height="5"><br>
 ## Image Registration
 
 **Implicit Neural Representations for Deformable Image Registration.** [22th Jun., 2022] [Medical Imaging with Deep Learning, 2022]<br>
@@ -222,7 +222,12 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
  **Deformable Image Registration with Geometry-informed Implicit Neural Representations** [13 th Apr., 2023] [Medical Imaging with Deep Learning, 2023]<br>
 *Louis van Harten, Rudolf Leonardus Mirjam Van Herten, Jaap Stoker, Ivana Isgum*<br>
- 
+
+<img src="Figures/Registration.jpg" alt="Registration" width="1016" height="5"><br>
+<img src="Figures/Neural Rendering.jpg" alt="Neural Rendering" width="1016" height="5"><br>
+## Neural Rendering
+
+<img src="Figures/Neural Rendering.jpg" alt="Neural Rendering" width="1016" height="5"><br>
 <img src="Figures/Compression.jpg" alt="Compression" width="1016" height="5"><br> 
 ## Image Compression
 
