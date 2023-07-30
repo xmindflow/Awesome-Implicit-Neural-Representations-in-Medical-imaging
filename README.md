@@ -200,8 +200,9 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 *Chenyu You, Weicheng Dai, Yifei Min, Lawrence Staib, James S. Duncan*<br>
  [[PDF]( https://arxiv.org/abs/2304.03209)] 
 
+<img src="Figures/Segmentation.jpg" alt="Segmentation" width="1016"><br>
 
-<img src="Figures/Registration.jpg" alt="reconstruction" width="1016">
+## Image Registration
 
 **Implicit Neural Representations for Deformable Image Registration.** [22th Jun., 2022] [Medical Imaging with Deep Learning, 2022]<br>
 *Jelmer M. Wolterink, Jesse C. Zwienenberg, Christoph Brune.*<br>
