@@ -171,6 +171,9 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 <img src="Figures/Reconstruction.jpg" alt="reconstruction" width="1016">
 
+## Image Segmentation
+
+<img src="Figures/Segmentation.jpg" alt="Segmentation" width="1016">
 
 **NeRD: Neural Representation of Distribution for Medical Image Segmentation.** [6th Mar., 2021] [arXiv preprint, 2021]<br>
 *Hang Zhang, Rongguang Wang, Jinwei Zhang, Chao Li, Gufeng Yang, Pascal Spincemaille, Thanh Nguyen, Yi Wang.*<br>
