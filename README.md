@@ -36,8 +36,9 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 - [Image Synthesis](#image-synthesis)
 
 
+## Image Reconstruction
 
-
+<img src="Figures/Reconstruction.jpg" alt="reconstruction" width="1016">
 
  **IntraTomo: Self-supervised Learning-based Tomography via Sinogram Synthesis and Prediction.** [9th Feb., 2021] [Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021]<br>
 *Guangming Zang, Ramzi Idoughi, Rui Li, Peter Wonka, Wolfgang Heidrich.*<br>
@@ -219,13 +220,6 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
  **Deformable Image Registration with Geometry-informed Implicit Neural Representations** [13 th Apr., 2023] [Medical Imaging with Deep Learning, 2023]<br>
 *Louis van Harten, Rudolf Leonardus Mirjam Van Herten, Jaap Stoker, Ivana Isgum*<br>
-
- 
-## Dose Distribution
-
-**Implicit neural representation for radiation therapy dose distribution.** [13th Jun., 2022] [Physics in Medicine & Biology, 2022]<br>
-*Varun Vasudevan, Liyue Shen, Charles Huang, Cynthia Chuang, Md Tauhidul Islam, Hongyi Ren, Yong Yang, Peng Dong, Lei Xing.*<br>
- [[PDF](https://pubmed.ncbi.nlm.nih.gov/35477171)] [[Github](https://github.com/MIAGroupUT/IDIR)]
  
  
 ## Image Compression
