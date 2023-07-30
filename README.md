@@ -286,7 +286,8 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 *Harry Gao, Weijie Gan, Zhixin Sun, Ulugbek S. Kamilov*<br>
  [[PDF]( https://arxiv.org/abs/2210.14974)]
 
-
+<img src="Figures/Compression.jpg" alt="Compression" width="1016" height="5"><br> 
+<img src="Figures/Synthesis.jpg" alt="Synthesis" width="1016" height="5"><br> 
  ## Image Synthesis
 
 **Implicit Neural Representations for Generative Modeling of Living Cell Shapes.** [6th Oct., 2022] [International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022]<br>
@@ -296,5 +297,8 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 **Generative modeling of living cells with SO(3)-equivariant implicit neural representations.** [18 th Apr., 2023] [arXiv preprint, 2023]<br>
 *David Wiesner, Julian Suk, Sven Dummer, Tereza Nečasová, Vladimír Ulman, David Svoboda, Jelmer M. Wolterink*<br>
  [[PDF]( https://arxiv.org/abs/2304.08960)]
+
+
+ <img src="Figures/Synthesis.jpg" alt="Synthesis" width="1016" height="5">
 
 
