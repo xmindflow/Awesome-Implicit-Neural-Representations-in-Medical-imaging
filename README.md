@@ -5,12 +5,17 @@
 
 :fire::fire:This is a collection of awesome articles about Implicit Neural Representation networks in the medical imaging:fire::fire:
 
-:loudspeaker: Our review paper published on arXiv: [Implicit Neural Representation in Medical Imaging: A Comparative Survey]() :heart:
+:loudspeaker: Our review paper published on arXiv: [Implicit Neural Representation in Medical Imaging: A Comparative Survey](https://arxiv.org/abs/2307.16142) :heart:
 
 #### Citation
 
 ```
-
+@article{molaei2023implicit,
+  title={Implicit Neural Representation in Medical Imaging: A Comparative Survey},
+  author={Molaei, Amirali and Aminimehr, Amirhossein and Tavakoli, Armin and Kazerouni, Amirhossein and Azad, Bobby and Azad, Reza and Merhof, Dorit},
+  journal={arXiv preprint arXiv:2307.16142},
+  year={2023}
+}
 ```
 
 
