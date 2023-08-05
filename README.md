@@ -3,13 +3,13 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-:fire::fire:This is a collection of awesome articles about Implicit Neural Representation networks in the medical imaging:fire::fire:
+:fire::fire: This is a collection of awesome articles about Implicit Neural Representation networks in medical imaging:fire::fire:
 
 :loudspeaker: Our review paper published on arXiv: [Implicit Neural Representation in Medical Imaging: A Comparative Survey](https://arxiv.org/abs/2307.16142) :heart:
 
 #### Citation
 
-```
+```python
 @article{molaei2023implicit,
   title={Implicit Neural Representation in Medical Imaging: A Comparative Survey},
   author={Molaei, Amirali and Aminimehr, Amirhossein and Tavakoli, Armin and Kazerouni, Amirhossein and Azad, Bobby and Azad, Reza and Merhof, Dorit},
@@ -23,14 +23,14 @@
 # Introduction 
 
 Implicitly representing image signals has gained popularity in recent years for a broad range of medical imaging applications.
-The most motivating resoans are the following:
+The most motivating reasons are the following:
 * Memory efficiency: The amount of memory demanded to represent the signal is not restricted by the signal's resolution.
-* Unlimited Resolution: They take values in the continous domain, meaning they can generate values for coordinates in-between the pixel or voxel-wise grid
+* Unlimited Resolution: They take values in the continuous domain, meaning they can generate values for coordinates in-between the pixel or voxel-wise grid
 * Effective data usage: They can learn to handle reconstruction and synthesis tasks without high-cost external annotation.
 
 Which all are significantly important for developing an automatic medical system.<br>
 With the aim of providing easier access for researchers, this repo contains a comprehensive paper list of Implicit Neural Representations in Medical Imaging, including papers, codes, and related websites.<br>
-We considered a a sum of <ins>**64**</ins> research papers spanning from 2021 to 2023.
+We considered a sum of <ins>**64**</ins> research papers spanning from 2021 to 2023.
 
 ---
 # Introductory Papers
