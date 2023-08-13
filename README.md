@@ -122,7 +122,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 *You Zhang, Hua-Chieh Shao, Tinsu Pan, Tielige Mengke.*<br>
  [[PDF](https://pubmed.ncbi.nlm.nih.gov/36638543/)]
 
-**NeSVoR: Implicit Neural Representation for Slice-to-Volume Reconstruction in MRI.** [xxth xx., 2022] [IEEE TRANSACTIONS ON MEDICAL IMAGING, 2022]<br>
+**NeSVoR: Implicit Neural Representation for Slice-to-Volume Reconstruction in MRI.** [IEEE TRANSACTIONS ON MEDICAL IMAGING, 2022]<br>
 *Junshen Xu, Daniel Moyer, Borjan Gagoski, Juan Eugenio Iglesias, P. Ellen Grant, Polina Golland,Elfar Adalsteinsson.*<br>
  [[PDF](https://www.techrxiv.org/articles/preprint/NeSVoR_Implicit_Neural_Representation_for_Slice-to-Volume_Reconstruction_in_MRI/21398868)] [[Github](https://github.com/daviddmc/NeSVoR)]
 
