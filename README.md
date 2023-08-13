@@ -144,7 +144,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 **Self-Supervised Coordinate Projection Network for Sparse-View Computed Tomography.** [12th Sep., 2022] [IEEE Transactions on Computational Imaging, 2023]<br>
 *Qing Wu, Ruimin Feng, Hongjiang Wei, Jingyi Yu, Yuyao Zhang.*<br>
-[[PDF](https://ieeexplore.ieee.org/document/10143286)]
+[[PDF](https://ieeexplore.ieee.org/document/10143286)] [[Github](https://github.com/iwuqing/SCOPE)]
 
 **Self-supervised arbitrary scale super-resolution framework for anisotropic MRI.** [2th May., 2023] [arXiv preprint]<br>
 *Haonan Zhang, Yuhan Zhang, Qing Wu, Jiangjie Wu, Zhiming Zhen, Feng Shi, Jianmin Yuan, Hongjiang Wei, Chen Liu, Yuyao Zhang.*<br>
@@ -165,7 +165,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 **Neural Computed Tomography.** [17th Jan., 2022] [arXiv preprint, 2022]<br>
 *Kunal Gupta, Brendan Colvert, Francisco Contijoch.* <br>
-[[PDF](https://arxiv.org/abs/2201.06574)]
+[[PDF](https://arxiv.org/abs/2201.06574)] [[Github](https://github.com/KunalMGupta/DIFIR-CT)]
 
 **Implicitatlas: learning deformable shape templates in medical imaging.** [CVPR, 2022]<br>
 *Jiancheng Yang, Udaranga Wickramasinghe, Bingbing Ni, Pascal Fua.*<br>
