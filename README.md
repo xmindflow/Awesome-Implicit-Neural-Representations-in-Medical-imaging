@@ -167,6 +167,15 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 *Kunal Gupta, Brendan Colvert, Francisco Contijoch.* <br>
 [[PDF](https://arxiv.org/abs/2201.06574)]
 
+**Implicitatlas: learning deformable shape templates in medical imaging.** [CVPR, 2022]<br>
+*Jiancheng Yang, Udaranga Wickramasinghe, Bingbing Ni, Pascal Fua.*<br>
+[[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_ImplicitAtlas_Learning_Deformable_Shape_Templates_in_Medical_Imaging_CVPR_2022_paper.html)]
+
+**ImTooth: Neural Implicit Tooth for Dental Augmented Reality.** [23rd Feb., 2023] [IEEE Transactions on Visualization and Computer Graphics, 2023]<br>
+*Hai Li , Hongjia Zhai , Xingrui Yang , Zhirong Wu , Jianchao Wu , Hujun Bao , Yihao Zheng , Haofan Wang , Guofeng Zhang.*<br>
+[[PDF](https://ieeexplore.ieee.org/document/10051634)]
+
+https://www.computer.org/csdl/journal/tg/2023/05/10051634/1L03a1rPCCY
 **NAISR: A 3D Neural Additive Model for Interpretable Shape Representation.** [16th Mar., 2023] [arXiv preprint]<br>
 *Yining Jiao, Carlton Zdanski, Julia Kimbell, Andrew Prince, Cameron Worden, Samuel Kirse, Christopher Rutter, Benjamin Shields, William Dunn, Jisan Mahmud, Marc Niethammer.*<br>
 [[PDF](https://arxiv.org/abs/2303.09234#:~:text=NAISR%20is%20the%20first%20approach,representing%2C%20and%20investigating%20shape%20populations.)] [[Github](https://github.com/uncbiag/naisr)]
@@ -186,6 +195,37 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 **MEPNet: A Model-Driven Equivariant Proximal Network for Joint Sparse-View Reconstruction and Metal Artifact Reduction in CT Images.** [25th Jun., 2023] [arXiv preprint]<br>
 *Hong Wang, Minghao Zhou, Dong Wei, Yuexiang Li, Yefeng Zheng.*<br>
 [[PDF](https://ui.adsabs.harvard.edu/abs/2023arXiv230614274W/abstract)] [[Github](https://github.com/hongwang01/mepnet)]
+
+**A Novel Implicit Neural Representation for Volume Data.** [27th Feb., 2023] [Applied Sciences, 2023]<br>
+*Armin Sheibanifard, Hongchuan Yu.*<br>
+[[PDF](https://www.mdpi.com/2076-3417/13/5/3242)]
+
+**A scan-specific unsupervised method for parallel MRI reconstruction via implicit neural representation.** [19th Oct., 2022] [arXiv preprint]<br>
+*Ruimin Feng, Qing Wu, Yuyao Zhang, Hongjiang Wei.*<br>
+[[PDF](https://arxiv.org/abs/2210.10439)]
+
+**CuNeRF: Cube-Based Neural Radiance Field for Zero-Shot Medical Image Arbitrary-Scale Super Resolution.** [28th Mar., 2023] [arXiv preprint]<br>
+*Zixuan Chen, Jianhuang Lai, Lingxiao Yang, Xiaohua Xie.*<br>
+[[PDF](https://arxiv.org/abs/2303.16242)]
+
+**Hybrid Neural Diffeomorphic Flow for Shape Representation and Generation via Triplane.** [4th Jul., 2023] [arXiv preprint]<br>
+*Kun Han, Shanlin Sun, Xiaohui Xie.*<br>
+[[PDF](https://arxiv.org/abs/2307.01957)]
+
+**Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI.** [5th Jul., 2023] [arXiv preprint]<br>
+*Jiamiao Zhang, Yichen Chi, Jun Lyu, Wenming Yang, Yapeng Tian.*<br>
+[[PDF](https://arxiv.org/abs/2307.02334)] [[Github](https://github.com/jmzhang79/dual-arbnet)]
+
+**Implicit Neural Networks with Fourier-Feature Inputs for Free-breathing Cardiac MRI Reconstruction.** [11th May., 2023] [arXiv preprint]<br>
+*Johannes F. Kunz, Stefan Ruschke, Reinhard Heckel.*<br>
+[[PDF](https://arxiv.org/abs/2305.06822)] [[Github](https://github.com/mli-lab/cinemri)]
+
+**Implicit neural representations for unsupervised super-resolution and denoising of 4D flow MRI.** [24th Feb., 2023] [arXiv preprint]<br>
+*Simone Saitta, Marcello Carioni, Subhadip Mukherjee, Carola-Bibiane Schönlieb, Alberto Redaelli.*<br>
+[[PDF](https://arxiv.org/abs/2302.12835)]
+
+
+
 
 <img src="Figures/Reconstruction.jpg" alt="reconstruction" width="1016" height="5"><br>
 <img src="Figures/Segmentation.jpg" alt="Segmentation" width="1016" height="5"><br>
