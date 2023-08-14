@@ -224,7 +224,9 @@ https://www.computer.org/csdl/journal/tg/2023/05/10051634/1L03a1rPCCY
 *Simone Saitta, Marcello Carioni, Subhadip Mukherjee, Carola-Bibiane Schönlieb, Alberto Redaelli.*<br>
 [[PDF](https://arxiv.org/abs/2302.12835)]
 
-
+**Hybrid-CSR: Coupling Explicit and Implicit Shape Representation for Cortical Surface Reconstruction.** [23rd Jul., 2023][arXiv]<br>
+*Shanlin Sun, Thanh-Tung Le, Chenyu You, Hao Tang, Kun Han, Haoyu Ma, Deying Kong, Xiangyi Yan, Xiaohui Xie.*<br>
+[[PDF](https://arxiv.org/abs/2307.12299)]
 
 
 <img src="Figures/Reconstruction.jpg" alt="reconstruction" width="1016" height="5"><br>
