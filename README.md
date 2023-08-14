@@ -240,6 +240,10 @@ https://www.computer.org/csdl/journal/tg/2023/05/10051634/1L03a1rPCCY
 **Binary segmentation of medical images using implicit spline representations and deep learning.** [19th Mar., 2021] [Computer Aided Geometric Design, 2021]<br>
 *Oliver J.D. Barrowclough, Georg Muntingh, Varatharajan Nainamalai, Ivar Stangeby.*<br>
  [[PDF](https://arxiv.org/abs/2102.12759)] [[Github](https://github.com/sintefmath/implicit-recon)]
+
+ **Implicit field learning for unsupervised anomaly detection in medical images.** [9th Jun., 2021] [MICCAI 2021]<br>
+*Sergio Naval Marimont, Giacomo Tarroni.*<br>
+[[PDF](https://arxiv.org/abs/2106.05214)] [[Github](https://github.com/snavalm/ifl_unsup_anom_det)]
  
 **Implicit Neural Representations for Medical Imaging Segmentation.** [16th Sep., 2022] [International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022]<br>
 *Muhammad Osama Khan & Yi Fang.*<br>
