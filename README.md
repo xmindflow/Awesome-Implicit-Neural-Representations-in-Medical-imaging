@@ -30,7 +30,7 @@ The most motivating reasons are the following:
 
 Which all are significantly important for developing an automatic medical system.<br>
 With the aim of providing easier access for researchers, this repo contains a comprehensive paper list of Implicit Neural Representations in Medical Imaging, including papers, codes, and related websites.<br>
-We considered a sum of <ins>**65**</ins> research papers spanning from 2021 to 2023.
+We considered a sum of <ins>**66**</ins> research papers spanning from 2021 to 2023.
 
 ---
 # Introductory Papers
@@ -258,6 +258,10 @@ https://www.computer.org/csdl/journal/tg/2023/05/10051634/1L03a1rPCCY
 **Implicit Anatomical Rendering for Medical Image Segmentation with Stochastic Experts** [6th Apr., 2023] [arXiv preprint, 2023]<br>
 *Chenyu You, Weicheng Dai, Yifei Min, Lawrence Staib, James S. Duncan*<br>
  [[PDF]( https://arxiv.org/abs/2304.03209)] 
+
+**SwIPE: Efficient and Robust Medical Image Segmentation with Implicit Patch Embeddings** [23rd Jul., 2023] [MICCAI 2023]<br>
+*Yejia Zhang, Pengfei Gu, Nishchal Sapkota, Danny Z. Chen*<br>
+[[PDF](https://arxiv.org/abs/2307.12429)]
 
 <img src="Figures/Segmentation.jpg" alt="Segmentation" width="1016" height="5"><br>
 <img src="Figures/Registration.jpg" alt="Registration" width="1016" height="5"><br>
