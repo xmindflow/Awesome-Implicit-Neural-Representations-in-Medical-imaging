@@ -19,8 +19,6 @@
 }
 ```
 
-
-
 # Introduction 
 
 Implicitly representing image signals has gained popularity in recent years for a broad range of medical imaging applications.
@@ -31,7 +29,7 @@ The most motivating reasons are the following:
 
 Which all are significantly important for developing an automatic medical system.<br>
 With the aim of providing easier access for researchers, this repo contains a comprehensive paper list of Implicit Neural Representations in Medical Imaging, including papers, codes, and related websites.<br>
-We considered a sum of <ins>**68**</ins> research papers spanning from 2021 to 2023.
+We considered a sum of <ins>**69**</ins> research papers spanning from 2021 to 2023.
 
 ---
 # Introductory Papers
@@ -326,6 +324,10 @@ https://www.computer.org/csdl/journal/tg/2023/05/10051634/1L03a1rPCCY
  **3D reconstructions of brain from MRI scans using neural radiance fields.** [24th Apr., 2023] [Preprint, 2023]<br>
 *Khadija Iddrisu, Sylwia Malec, Alessandro Crimi.*<br>
  [[PDF](https://www.biorxiv.org/content/10.1101/2023.04.24.538160v1#:~:text=The%20development%20of%20neural%20radiance,2D%20slices%20of%20MRI%20scans.)]
+
+ **EndoSurf: Neural Surface Reconstruction of Deformable Tissues with Stereo Endoscope Videos.** [21st Jul., 2023] [MICCAI 2023]<br>
+ *Ruyi Zha, Xuelian Cheng, Hongdong Li, Mehrtash Harandi, Zongyuan Ge.*<br>
+ [[PDF](https://arxiv.org/abs/2307.11307)] [[Github](https://github.com/ruyi-zha/endosurf)]
 
  
 <img src="Figures/Neural Rendering.jpg" alt="Neural Rendering" width="1016" height="5"><br>
