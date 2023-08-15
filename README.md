@@ -29,7 +29,7 @@ The most motivating reasons are the following:
 
 Which all are significantly important for developing an automatic medical system.<br>
 With the aim of providing easier access for researchers, this repo contains a comprehensive paper list of Implicit Neural Representations in Medical Imaging, including papers, codes, and related websites.<br>
-We considered a sum of <ins>**69**</ins> research papers spanning from 2021 to 2023.
+We considered a sum of <ins>**71**</ins> research papers spanning from 2021 to 2023.
 
 ---
 # Introductory Papers
@@ -321,6 +321,10 @@ https://www.computer.org/csdl/journal/tg/2023/05/10051634/1L03a1rPCCY
 *Magdalena Wysocki, Mohammad Farid Azampour, Christine Eilers, Benjamin Busam, Mehrdad Salehi, Nassir Navab.*<br>
 [[PDF](https://arxiv.org/abs/2301.10520)]
 
+**Oral-NeXF: 3D Oral Reconstruction with Neural X-ray Field from Panoramic Imaging.** [21st Mar., 2023] [arxiv] <br>
+*Weinan Song, Haoxin Zheng, Jiawei Yang, Chengwen Liang, Lei He.*<br>
+[[PDF](https://arxiv.org/abs/2303.12123)]
+
  **3D reconstructions of brain from MRI scans using neural radiance fields.** [24th Apr., 2023] [Preprint, 2023]<br>
 *Khadija Iddrisu, Sylwia Malec, Alessandro Crimi.*<br>
  [[PDF](https://www.biorxiv.org/content/10.1101/2023.04.24.538160v1#:~:text=The%20development%20of%20neural%20radiance,2D%20slices%20of%20MRI%20scans.)]
@@ -328,6 +332,10 @@ https://www.computer.org/csdl/journal/tg/2023/05/10051634/1L03a1rPCCY
  **EndoSurf: Neural Surface Reconstruction of Deformable Tissues with Stereo Endoscope Videos.** [21st Jul., 2023] [MICCAI 2023]<br>
  *Ruyi Zha, Xuelian Cheng, Hongdong Li, Mehrtash Harandi, Zongyuan Ge.*<br>
  [[PDF](https://arxiv.org/abs/2307.11307)] [[Github](https://github.com/ruyi-zha/endosurf)]
+
+ **Robust Single-view Cone-beam X-ray Pose Estimation with Neural Tuned Tomography (NeTT) and Masked Neural Radiance Fields (mNeRF).** [1st Aug., 2023] [arxiv] <br>
+*Chaochao Zhou, Syed Hasib Akhter Faruqui, Abhinav Patel, Ramez N. Abdalla, Michael C. Hurley, Ali Shaibani, Matthew B. Potts, Babak S. Jahromi, Leon Cho, Sameer A. Ansari, Donald R. Cantrell.*<br>
+[[PDF](https://arxiv.org/abs/2308.00214)]
 
  
 <img src="Figures/Neural Rendering.jpg" alt="Neural Rendering" width="1016" height="5"><br>
