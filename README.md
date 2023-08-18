@@ -174,10 +174,9 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 *Hai Li , Hongjia Zhai , Xingrui Yang , Zhirong Wu , Jianchao Wu , Hujun Bao , Yihao Zheng , Haofan Wang , Guofeng Zhang.*<br>
 [[PDF](https://ieeexplore.ieee.org/document/10051634)]
 
-https://www.computer.org/csdl/journal/tg/2023/05/10051634/1L03a1rPCCY
 **NAISR: A 3D Neural Additive Model for Interpretable Shape Representation.** [16th Mar., 2023] [arXiv preprint]<br>
 *Yining Jiao, Carlton Zdanski, Julia Kimbell, Andrew Prince, Cameron Worden, Samuel Kirse, Christopher Rutter, Benjamin Shields, William Dunn, Jisan Mahmud, Marc Niethammer.*<br>
-[[PDF](https://arxiv.org/abs/2303.09234#:~:text=NAISR%20is%20the%20first%20approach,representing%2C%20and%20investigating%20shape%20populations.)] [[Github](https://github.com/uncbiag/naisr)]
+[[PDF](https://arxiv.org/abs/2303.09234)] [[Github](https://github.com/uncbiag/naisr)]
 
 **Multi-contrast MRI Super-resolution via Implicit Neural Representations.** [27th Mar., 2023] [arXiv preprint]<br>
 *Julian McGinnis, Suprosanna Shit, Hongwei Bran Li, Vasiliki Sideri-Lampretsa, Robert Graf, Maik Dannecker, Jiazhen Pan, Nil Stolt Ansó, Mark Mühlau, Jan S. Kirschke, Daniel Rueckert, Benedikt Wiestler.*<br>
