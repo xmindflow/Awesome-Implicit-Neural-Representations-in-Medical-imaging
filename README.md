@@ -111,7 +111,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 **UncertaINR: Uncertainty Quantification of End-to-End Implicit Neural Representations for Computed Tomography.** [3th Jun., 2022] [arXiv preprint, 2022]<br>
 *Francisca Vasconcelos, Bobby He, Nalini Singh, Yee Whye Teh.*<br>
- [[PDF](https://arxiv.org/abs/2202.10847)]
+ [[PDF](https://arxiv.org/abs/2202.10847)] [[Github](https://github.com/bobby-he/uncertainr)]
 
 **MRI Super-Resolution using Implicit Neural Representation with Frequency Domain Enhancement.** [Aug., 2022] [arXiv preprint, 2022]<br>
 *Shuangming Mao, Seiichiro Kamata.*<br>
@@ -152,7 +152,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 **OReX: Object Reconstruction from Planar Cross-sections Using Neural Fields.** [23th Nov., 2022] [CVPR, 2023]<br>
 *Haim Sawdayee, Amir Vaxman, Amit H. Bermano.*<br>
-[[PDF](https://arxiv.org/abs/2211.12886)]
+[[PDF](https://arxiv.org/abs/2211.12886)] [[Github](https://github.com/haimsaw/OReX)]
 
 **NeuRec: Incorporating Interpatient prior to Sparse-View Image Reconstruction for Neurorehabilitation.** [21th Feb., 2022] [BioMed Research International, 2022]<br>
 *Cong Liu, Qingbin Wang, Jing Zhang.*<br>
@@ -180,7 +180,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 **Multi-contrast MRI Super-resolution via Implicit Neural Representations.** [27th Mar., 2023] [arXiv preprint]<br>
 *Julian McGinnis, Suprosanna Shit, Hongwei Bran Li, Vasiliki Sideri-Lampretsa, Robert Graf, Maik Dannecker, Jiazhen Pan, Nil Stolt Ansó, Mark Mühlau, Jan S. Kirschke, Daniel Rueckert, Benedikt Wiestler.*<br>
-[[PDF](https://arxiv.org/abs/2303.15065)]
+[[PDF](https://arxiv.org/abs/2303.15065)] [[Github](https://github.com/jqmcginnis/multi_contrast_inr)]
 
 **MiShape: 3D Shape Modelling of Mitochondria in Microscopy.** [2nd Mar., 2023] [arXiv preprint]<br>
 *Abhinanda R. Punnakkal, Suyog S Jadhav, Alexander Horsch, Krishna Agarwal, Dilip K. Prasad.*<br>
