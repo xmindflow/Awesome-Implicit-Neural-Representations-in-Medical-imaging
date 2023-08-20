@@ -262,7 +262,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 **Implicit Anatomical Rendering for Medical Image Segmentation with Stochastic Experts** [6th Apr., 2023] [arXiv preprint, 2023]<br>
 *Chenyu You, Weicheng Dai, Yifei Min, Lawrence Staib, James S. Duncan*<br>
- [[PDF]( https://arxiv.org/abs/2304.03209)] 
+ [[PDF]( https://arxiv.org/abs/2304.03209)] [[Github](https://github.com/charlesyou999648/morse)]
 
 **SwIPE: Efficient and Robust Medical Image Segmentation with Implicit Patch Embeddings** [23rd Jul., 2023] [MICCAI 2023]<br>
 *Yejia Zhang, Pengfei Gu, Nishchal Sapkota, Danny Z. Chen*<br>
