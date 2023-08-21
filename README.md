@@ -29,7 +29,7 @@ The most motivating reasons are the following:
 
 Which all are significantly important for developing an automatic medical system.<br>
 With the aim of providing easier access for researchers, this repo contains a comprehensive paper list of Implicit Neural Representations in Medical Imaging, including papers, codes, and related websites.<br>
-We considered a sum of <ins>**71**</ins> research papers spanning from 2021 to 2023.
+We considered a sum of <ins>**72**</ins> research papers spanning from 2021 to 2023.
 
 ---
 # Introductory Papers
@@ -169,6 +169,10 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 **Implicitatlas: learning deformable shape templates in medical imaging.** [CVPR, 2022]<br>
 *Jiancheng Yang, Udaranga Wickramasinghe, Bingbing Ni, Pascal Fua.*<br>
 [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_ImplicitAtlas_Learning_Deformable_Shape_Templates_in_Medical_Imaging_CVPR_2022_paper.html)]
+
+**Continuous longitudinal fetus brain atlas construction via implicit neural representation.** [14th Sep., 2022] [PIPPI, 2022]<br>
+*Lixuan Chen, Jiangjie Wu, Qing Wu, Hongjiang Wei, Yuyao Zhang.*<br>
+[[PDF](https://arxiv.org/abs/2209.06413)]
 
 **ImTooth: Neural Implicit Tooth for Dental Augmented Reality.** [23rd Feb., 2023] [IEEE Transactions on Visualization and Computer Graphics, 2023]<br>
 *Hai Li , Hongjia Zhai , Xingrui Yang , Zhirong Wu , Jianchao Wu , Hujun Bao , Yihao Zheng , Haofan Wang , Guofeng Zhang.*<br>
