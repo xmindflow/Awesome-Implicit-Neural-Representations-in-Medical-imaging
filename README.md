@@ -1,4 +1,4 @@
-# Implicit Neural Representation in Medical Imaging: A Comparative Survey <br> <span style="float: right"><sub><sup>$\text{(\textcolor{#00CED1}{ICCV 2023 CVAMD Workshop})}$</sup></sub></span> 
+# Implicit Neural Representation in Medical Imaging: A Comparative Survey <br> <span style="float: right"><sub><sup>$\text{(\textcolor{#40E0D0}{ICCV 2023 CVAMD Workshop})}$</sup></sub></span> 
 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
