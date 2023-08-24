@@ -29,7 +29,7 @@ The most motivating reasons are the following:
 
 Which all are significantly important for developing an automatic medical system.<br>
 With the aim of providing easier access for researchers, this repo contains a comprehensive paper list of Implicit Neural Representations in Medical Imaging, including papers, codes, and related websites.<br>
-We considered a sum of <ins>**72**</ins> research papers spanning from 2021 to 2023.
+We considered a sum of <ins>**73**</ins> research papers spanning from 2021 to 2023.
 
 ---
 # Introductory Papers
@@ -299,6 +299,10 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 **Implicit neural representations for joint decomposition and registration of gene expression images in the marmoset brain.** [8th Aug., 2023] [arxiv preprint]<br>
 *Michal Byra, Charissa Poon, Tomomi Shimogori, Henrik Skibbe*<br>
 [[PDF](https://arxiv.org/abs/2308.04039)]
+
+**INR-LDDMM: Fluid-based Medical Image Registration Integrating Implicit Neural Representation and Large Deformation Diffeomorphic Metric Mapping.** [18th Aug., 2023] [arxiv]<br>
+*Chulong Zhang, Xiaokun Liang.*<br>
+[[PDF](https://arxiv.org/abs/2308.09473)]
 
 
 <img src="Figures/Registration.jpg" alt="Registration" width="1016" height="5"><br>
