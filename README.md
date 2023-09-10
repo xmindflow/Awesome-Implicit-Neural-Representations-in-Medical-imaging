@@ -346,6 +346,10 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 *Chaochao Zhou, Syed Hasib Akhter Faruqui, Abhinav Patel, Ramez N. Abdalla, Michael C. Hurley, Ali Shaibani, Matthew B. Potts, Babak S. Jahromi, Leon Cho, Sameer A. Ansari, Donald R. Cantrell.*<br>
 [[PDF](https://arxiv.org/abs/2308.00214)]
 
+**TiAVox: Time-aware Attenuation Voxels for Sparse-view 4D DSA Reconstruction.** [5th Sep., 2023] [arxiv]<br>
+*Zhenghong Zhou, Huangxuan Zhao, Jiemin Fang, Dongqiao Xiang, Lei Chen, Lingxia Wu, Feihong Wu, Wenyu Liu, Chuansheng Zheng, Xinggang Wang*<br>
+[[PDF](https://arxiv.org/abs/2309.02318)]
+
  
 <img src="Figures/Neural Rendering.jpg" alt="Neural Rendering" width="1016" height="5"><br>
 <img src="Figures/Compression.jpg" alt="Compression" width="1016" height="5"><br> 
