@@ -210,6 +210,41 @@ Here, we taxonomize studies that integrate implicit representations into buildin
    - 📄 [PDF](https://arxiv.org/abs/2303.15065)
    - 💻 [GitHub](https://github.com/jqmcginnis/multi_contrast_inr)
 
+---
+### CT and MRI
+
+24. 📜 **NeRP: Implicit Neural Representation Learning with Prior Embedding for Sparsely Sampled Image Reconstruction**
+- 🗓️ Published on: *24th Aug. 2021*
+- 📖 Preprint: *IEEE Transactions on Neural Networks and Learning Systems, 2022*
+- 🧑‍🔬 Authors: *Liyue Shen, John Pauly, Lei Xing.*
+- 📄 [PDF](https://arxiv.org/abs/2108.10991)
+- 💻 [Github](https://github.com/liyues/nerp)
+
+---
+### Ultrasound
+
+25. 📜 **ImplicitVol: Sensorless 3D Ultrasound Reconstruction with Deep Implicit Representation**
+- 🗓️ Published on: *24th Sep. 2021*
+- 📖 Preprint: arXiv
+- 🧑‍🔬 Authors: *Pak-Hei Yeung, Linde Hesse, Moska Aliasi, Monique Haak, the INTERGROWTH-21st Consortium, Weidi Xie, Ana I.L. Namburete*
+- 📄 [PDF](https://arxiv.org/abs/2109.12108)
+
+
+
+26. 📜 **Going Off-Grid: Continuous Implicit Neural Representations for 3D Vascular Modeling**
+- 🗓️ Published on: *16th Sep. 2022*
+- 📖 Preprint: arXiv
+- 🧑‍🔬 Authors: *Dieuwertje Alblas, Christoph Brune, Kak Khee Yeung, Jelmer M. Wolterink*
+- 📄 [PDF](https://arxiv.org/abs/2207.14663)
+
+
+27 📜 **Representing 3D Ultrasound with Neural Fields**
+- 🗓️ Published on: *21st Apr. 2022*
+- 📖 Conference: *Medical Imaging with Deep Learning, 2022*
+- 🧑‍🔬 Authors: *Ang Nan Gu, Purang Abolmaesumi, Christina Luong, Kwang Moo Yi*
+- 📄 [PDF](https://openreview.net/forum?id=1EDRk-CyQou)
+
+
 
  **ImplicitVol: Sensorless 3D Ultrasound Reconstruction with Deep Implicit Representation.** [24th Sep., 2021] [arXiv, 2021]<br>
 *Pak-Hei Yeung, Linde Hesse, Moska Aliasi, Monique Haak, the INTERGROWTH-21st Consortium, Weidi Xie, Ana I.L. Namburete.*<br>
@@ -222,10 +257,6 @@ Here, we taxonomize studies that integrate implicit representations into buildin
  **Joint Rigid Motion Correction and Sparse-View CT via Self-Calibrating Neural Field.** [23th Oct., 2022] [arXiv, 2022]<br>
 *Qing Wu, Xin Li, Hongjiang Wei, Jingyi Yu, Yuyao Zhang.*<br>
  [[PDF](https://arxiv.org/abs/2210.12731)] 
-
-**NeRP: Implicit Neural Representation Learning with Prior Embedding for Sparsely Sampled Image Reconstruction.** [24th Aug., 2021] [IEEE Transactions on Neural Networks and Learning Systems, 2022]<br>
-*Liyue Shen, John Pauly, Lei Xing.*<br>
- [[PDF](https://arxiv.org/abs/2108.10991)]  [[Github](https://github.com/liyues/nerp)]
 
  
 **Streak artifacts reduction algorithm using an implicit neural representation in sparse-view CT.** [4th Apr., 2022] [Medical Imaging 2022: Physics of Medical Imaging, 2022]<br>
