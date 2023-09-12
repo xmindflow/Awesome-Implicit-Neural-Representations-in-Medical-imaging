@@ -158,11 +158,6 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 🧑‍🔬 Authors: Hai Li, Hongjia Zhai, Xingrui Yang, Zhirong Wu, Jianchao Wu, Hujun Bao, Yihao Zheng, Haofan Wang, Guofeng Zhang
     - 📄 [Download PDF](https://ieeexplore.ieee.org/document/10051634)
 
-
- 
- **CoIL: Coordinate-based Internal Learning for Imaging Inverse Problems.** [9th Feb., 2021] [IEEE Transactions on Computational Imaging, 2021]<br>
-*Yu Sun, Jiaming Liu, Mingyang Xie, Brendt Wohlberg, Ulugbek S. Kamilov.*<br>
- [[PDF](https://arxiv.org/abs/2102.05181)] [[Github](https://github.com/wustl-cig/Cooridnate-based-Internal-Learning)]
  
  **ImplicitVol: Sensorless 3D Ultrasound Reconstruction with Deep Implicit Representation.** [24th Sep., 2021] [arXiv, 2021]<br>
 *Pak-Hei Yeung, Linde Hesse, Moska Aliasi, Monique Haak, the INTERGROWTH-21st Consortium, Weidi Xie, Ana I.L. Namburete.*<br>
@@ -183,11 +178,6 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 **NeRP: Implicit Neural Representation Learning with Prior Embedding for Sparsely Sampled Image Reconstruction.** [24th Aug., 2021] [IEEE Transactions on Neural Networks and Learning Systems, 2022]<br>
 *Liyue Shen, John Pauly, Lei Xing.*<br>
  [[PDF](https://arxiv.org/abs/2108.10991)]  [[Github](https://github.com/liyues/nerp)]
-
- 
-**Dynamic CT Reconstruction from Limited Views with Implicit Neural Representations and Parametric Motion Fields.** [23th Apr., 2021] [Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021]<br>
-*Albert W. Reed, Hyojin Kim, Rushil Anirudh, K. Aditya Mohan, Kyle Champley, Jingu Kang, Suren Jayasuriya.*<br>
- [[PDF](https://arxiv.org/abs/2104.11745)]
  
 **IREM: High-Resolution Magnetic Resonance (MR) Image Reconstruction via Implicit Neural Representation.** [29th Jun., 2021] [International Conference on Medical Image Computing and Computer-Assisted Intervention, 2021]<br>
 *Qing Wu, Yuwei Li, Lan Xu, Ruiming Feng, Hongjiang Wei, Qing Yang, Boliang Yu, Xiaozhao Liu, Jingyi Yu, Yuyao Zhang.*<br>
@@ -200,11 +190,6 @@ Here, we taxonomize studies that integrate implicit representations into buildin
  **Representing 3D Ultrasound with Neural Fields.** [21th Apr., 2022] [Medical Imaging with Deep Learning, 2022]<br>
 *Ang Nan Gu, Purang Abolmaesumi, Christina Luong, Kwang Moo Yi.*<br>
  [[PDF](https://openreview.net/forum?id=1EDRk-CyQou)]
- 
- **A Memory-Efficient Dynamic Image Reconstruction Method using Neural Fields.** [11th May., 2022] [arXiv, 2022]<br>
-*Luke Lozenski, Mark A. Anastasio, Umberto Villa.*<br>
- [[PDF](https://arxiv.org/abs/2205.05585?context=eess)] 
-
 
 **UncertaINR: Uncertainty Quantification of End-to-End Implicit Neural Representations for Computed Tomography.** [3th Jun., 2022] [arXiv preprint, 2022]<br>
 *Francisca Vasconcelos, Bobby He, Nalini Singh, Yee Whye Teh.*<br>
@@ -222,10 +207,6 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 *Junshen Xu, Daniel Moyer, Borjan Gagoski, Juan Eugenio Iglesias, P. Ellen Grant, Polina Golland,Elfar Adalsteinsson.*<br>
  [[PDF](https://www.techrxiv.org/articles/preprint/NeSVoR_Implicit_Neural_Representation_for_Slice-to-Volume_Reconstruction_in_MRI/21398868)] [[Github](https://github.com/daviddmc/NeSVoR)]
 
- **Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction.** [27th Jun., 2023] [arXiv preprint]<br>
- *Qing Wu, Lixuan Chen, Ce Wang, Hongjiang Wei, S. Kevin Zhou, Jingyi Yu, Yuyao Zhang.*<br>
- [[PDF](https://arxiv.org/abs/2306.15203)]
-
  **Topology-Preserving Shape Reconstruction and Registration via Neural Diffeomorphic Flow.** [16th Mar., 2022] [Proceedings of the IEEE/CVF Conference on CVPR]
  *Shanlin Sun, Kun Han, Deying Kong, Hao Tang, Xiangyi Yan, Xiaohui Xie.*<br>
  [[PDF](https://arxiv.org/abs/2203.08652)] [[Github](https://github.com/Siwensun/Neural_Diffeomorphic_Flow--NDF)]
@@ -238,30 +219,9 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 *Xin Wang, Sheng Wang, Honglin Xiong, Kai Xuan, Zixu Zhuang, Mengjun Liu, Zhenrong Shen, Xiangyu Zhao, Lichi Zhang, Qian Wang.*<br>
 [[PDF](https://arxiv.org/abs/2205.11346)]
 
-**Self-Supervised Coordinate Projection Network for Sparse-View Computed Tomography.** [12th Sep., 2022] [IEEE Transactions on Computational Imaging, 2023]<br>
-*Qing Wu, Ruimin Feng, Hongjiang Wei, Jingyi Yu, Yuyao Zhang.*<br>
-[[PDF](https://ieeexplore.ieee.org/document/10143286)] [[Github](https://github.com/iwuqing/SCOPE)]
-
 **Self-supervised arbitrary scale super-resolution framework for anisotropic MRI.** [2th May., 2023] [arXiv preprint]<br>
 *Haonan Zhang, Yuhan Zhang, Qing Wu, Jiangjie Wu, Zhiming Zhen, Feng Shi, Jianmin Yuan, Hongjiang Wei, Chen Liu, Yuyao Zhang.*<br>
 [[PDF](https://arxiv.org/abs/2305.01360)]
-
-
-**OReX: Object Reconstruction from Planar Cross-sections Using Neural Fields.** [23th Nov., 2022] [CVPR, 2023]<br>
-*Haim Sawdayee, Amir Vaxman, Amit H. Bermano.*<br>
-[[PDF](https://arxiv.org/abs/2211.12886)] [[Github](https://github.com/haimsaw/OReX)]
-
-**NeuRec: Incorporating Interpatient prior to Sparse-View Image Reconstruction for Neurorehabilitation.** [21th Feb., 2022] [BioMed Research International, 2022]<br>
-*Cong Liu, Qingbin Wang, Jing Zhang.*<br>
-[[PDF](https://www.hindawi.com/journals/bmri/2022/5426643/)]
-
-**Neural Implicit k-Space for Binning-free Non-Cartesian Cardiac MR Imaging.** [16th Dec., 2022] [International Conference on Information Processing in Medical Imaging, 2023] <br>
-*Wenqi Huang, Hongwei Li, Jiazhen Pan, Gastao Cruz, Daniel Rueckert, Kerstin Hammernik.* <br>
-[[PDF](https://arxiv.org/abs/2212.08479)]
-
-**Neural Computed Tomography.** [17th Jan., 2022] [arXiv preprint, 2022]<br>
-*Kunal Gupta, Brendan Colvert, Francisco Contijoch.* <br>
-[[PDF](https://arxiv.org/abs/2201.06574)] [[Github](https://github.com/KunalMGupta/DIFIR-CT)]
 
 **Implicitatlas: learning deformable shape templates in medical imaging.** [CVPR, 2022]<br>
 *Jiancheng Yang, Udaranga Wickramasinghe, Bingbing Ni, Pascal Fua.*<br>
@@ -270,14 +230,6 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 **Continuous longitudinal fetus brain atlas construction via implicit neural representation.** [14th Sep., 2022] [PIPPI, 2022]<br>
 *Lixuan Chen, Jiangjie Wu, Qing Wu, Hongjiang Wei, Yuyao Zhang.*<br>
 [[PDF](https://arxiv.org/abs/2209.06413)]
-
-**ImTooth: Neural Implicit Tooth for Dental Augmented Reality.** [23rd Feb., 2023] [IEEE Transactions on Visualization and Computer Graphics, 2023]<br>
-*Hai Li , Hongjia Zhai , Xingrui Yang , Zhirong Wu , Jianchao Wu , Hujun Bao , Yihao Zheng , Haofan Wang , Guofeng Zhang.*<br>
-[[PDF](https://ieeexplore.ieee.org/document/10051634)]
-
-**NAISR: A 3D Neural Additive Model for Interpretable Shape Representation.** [16th Mar., 2023] [arXiv preprint]<br>
-*Yining Jiao, Carlton Zdanski, Julia Kimbell, Andrew Prince, Cameron Worden, Samuel Kirse, Christopher Rutter, Benjamin Shields, William Dunn, Jisan Mahmud, Marc Niethammer.*<br>
-[[PDF](https://arxiv.org/abs/2303.09234)] [[Github](https://github.com/uncbiag/naisr)]
 
 **Multi-contrast MRI Super-resolution via Implicit Neural Representations.** [27th Mar., 2023] [arXiv preprint]<br>
 *Julian McGinnis, Suprosanna Shit, Hongwei Bran Li, Vasiliki Sideri-Lampretsa, Robert Graf, Maik Dannecker, Jiazhen Pan, Nil Stolt Ansó, Mark Mühlau, Jan S. Kirschke, Daniel Rueckert, Benedikt Wiestler.*<br>
