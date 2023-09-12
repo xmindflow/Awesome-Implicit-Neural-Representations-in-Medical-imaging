@@ -281,31 +281,32 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 --- 
 ### General and Miscellaneous
 
-33. 📜 **Going Off-Grid: Continuous Implicit Neural Representations for 3D Vascular Modeling**
+33. **Going Off-Grid: Continuous Implicit Neural Representations for 3D Vascular Modeling**
    - 🗓️ Publication Date: 16th Sep. 2022
    - 🧑‍🔬 Authors: Dieuwertje Alblas, Christoph Brune, Kak Khee Yeung, Jelmer M. Wolterink
    - 📄 [PDF](https://arxiv.org/abs/2207.14663)
 
-34. 📜 **Joint Rigid Motion Correction and Sparse-View CT via Self-Calibrating Neural Field**
+34. **Joint Rigid Motion Correction and Sparse-View CT via Self-Calibrating Neural Field**
    - 🗓️ Publication Date: 23rd Oct. 2022
    - 🧑‍🔬 Authors: Qing Wu, Xin Li, Hongjiang Wei, Jingyi Yu, Yuyao Zhang
    - 📄 [PDF](https://arxiv.org/abs/2210.12731)
 
-35. 📜 **Representing 3D Ultrasound with Neural Fields**
+35. **Representing 3D Ultrasound with Neural Fields**
    - 🗓️ Publication Date: 21st Apr. 2022
    - 🧑‍🔬 Authors: Ang Nan Gu, Purang Abolmaesumi, Christina Luong, Kwang Moo Yi
    - 📄 [PDF](https://openreview.net/forum?id=1EDRk-CyQou)
 
-36. 📜 **UncertaINR: Uncertainty Quantification of End-to-End Implicit Neural Representations for Computed Tomography**
+36. **UncertaINR: Uncertainty Quantification of End-to-End Implicit Neural Representations for Computed Tomography**
    - 🗓️ Publication Date: 3rd Jun. 2022
    - 🧑‍🔬 Authors: Francisca Vasconcelos, Bobby He, Nalini Singh, Yee Whye Teh
    - 📄 [PDF](https://arxiv.org/abs/2202.10847)
    - 💻 [GitHub](https://github.com/bobby-he/uncertainr)
 
-37. 📜 **Spatial Attention-based Implicit Neural Representation for Arbitrary Reduction of MRI Slice Spacing**
+37. **Spatial Attention-based Implicit Neural Representation for Arbitrary Reduction of MRI Slice Spacing**
    - 🗓️ Publication Date: 23rd May. 2022
    - 🧑‍🔬 Authors: Xin Wang, Sheng Wang, Honglin Xiong, Kai Xuan, Zixu Zhuang, Mengjun Liu, Zhenrong Shen, Xiangyu Zhao, Lichi Zhang, Qian Wang
    - 📄 [PDF](https://arxiv.org/abs/2205.11346)
+
 
 38. 📜 **Implicitatlas: learning deformable shape templates in medical imaging**
    - 🗓️ Publication Date: CVPR, 2022
