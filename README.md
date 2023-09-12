@@ -157,15 +157,15 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 ### MRI
 
 14. 📜 **An Arbitrary Scale Super-Resolution Approach for 3-Dimensional Magnetic Resonance Image using Implicit Neural Representation**
-   - 🗓️ Publication Date: 29th Oct. 2021
-   - 🧑‍🔬 Authors: Qing Wu, Yuwei Li, Yawen Sun, Yan Zhou, Hongjiang Wei, Jingyi Yu, Yuyao Zhang
-   - 📄 [PDF]([Link to PDF](https://arxiv.org/abs/2110.14476))
-   - 💻 [GitHub]([Link to GitHub](https://github.com/iwuqing/arssr))
+     - 🗓️ Publication Date: 29th Oct. 2021
+     - 🧑‍🔬 Authors: Qing Wu, Yuwei Li, Yawen Sun, Yan Zhou, Hongjiang Wei, Jingyi Yu, Yuyao Zhang
+     - 📄 [PDF]([Link to PDF](https://arxiv.org/abs/2110.14476))
+     - 💻 [GitHub]([Link to GitHub](https://github.com/iwuqing/arssr))
 
 15. 📜 **IREM: High-Resolution Magnetic Resonance (MR) Image Reconstruction via Implicit Neural Representation**
-   - 🗓️ Publication Date: 29th Jun. 2021
-   - 🧑‍🔬 Authors: Qing Wu, Yuwei Li, Lan Xu, Ruiming Feng, Hongjiang Wei, Qing Yang, Boliang Yu, Xiaozhao Liu, Jingyi Yu, Yuyao Zhang
-   - 📄 [PDF](https://arxiv.org/abs/2106.15097)
+     - 🗓️ Publication Date: 29th Jun. 2021
+     - 🧑‍🔬 Authors: Qing Wu, Yuwei Li, Lan Xu, Ruiming Feng, Hongjiang Wei, Qing Yang, Boliang Yu, Xiaozhao Liu, Jingyi Yu, Yuyao Zhang
+     - 📄 [PDF](https://arxiv.org/abs/2106.15097)
 
 16. 📜 **MRI Super-Resolution using Implicit Neural Representation with Frequency Domain Enhancement**
    - 🗓️ Publication Date: Aug. 2022
