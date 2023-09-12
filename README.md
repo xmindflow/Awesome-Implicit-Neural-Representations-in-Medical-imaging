@@ -307,58 +307,58 @@ Here, we taxonomize studies that integrate implicit representations into buildin
    - 🧑‍🔬 Authors: Xin Wang, Sheng Wang, Honglin Xiong, Kai Xuan, Zixu Zhuang, Mengjun Liu, Zhenrong Shen, Xiangyu Zhao, Lichi Zhang, Qian Wang
    - 📄 [PDF](https://arxiv.org/abs/2205.11346)
 
-
-38. 📜 **Implicitatlas: learning deformable shape templates in medical imaging**
+38. **Implicitatlas: learning deformable shape templates in medical imaging**
    - 🗓️ Publication Date: CVPR, 2022
    - 🧑‍🔬 Authors: Jiancheng Yang, Udaranga Wickramasinghe, Bingbing Ni, Pascal Fua
    - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_ImplicitAtlas_Learning_Deformable_Shape_Templates_in_Medical_Imaging_CVPR_2022_paper.html)
 
-39. 📜 **MiShape: 3D Shape Modelling of Mitochondria in Microscopy**
+39. **MiShape: 3D Shape Modelling of Mitochondria in Microscopy**
    - 🗓️ Publication Date: 2nd Mar. 2023
    - 🧑‍🔬 Authors: Abhinanda R. Punnakkal, Suyog S Jadhav, Alexander Horsch, Krishna Agarwal, Dilip K. Prasad
    - 📄 [PDF](https://arxiv.org/abs/2303.01546)
 
-40. 📜 **A Novel Implicit Neural Representation for Volume Data**
+40. **A Novel Implicit Neural Representation for Volume Data**
    - 🗓️ Publication Date: 27th Feb. 2023
    - 🧑‍🔬 Authors: Armin Sheibanifard, Hongchuan Yu
    - 📄 [PDF](https://www.mdpi.com/2076-3417/13/5/3242)
 
-41. 📜 **A scan-specific unsupervised method for parallel MRI reconstruction via implicit neural representation**
+41. **A scan-specific unsupervised method for parallel MRI reconstruction via implicit neural representation**
    - 🗓️ Publication Date: 19th Oct. 2022
    - 🧑‍🔬 Authors: Ruimin Feng, Qing Wu, Yuyao Zhang, Hongjiang Wei
    - 📄 [PDF](https://arxiv.org/abs/2210.10439)
 
-42. 📜 **CuNeRF: Cube-Based Neural Radiance Field for Zero-Shot Medical Image Arbitrary-Scale Super Resolution**
+42. **CuNeRF: Cube-Based Neural Radiance Field for Zero-Shot Medical Image Arbitrary-Scale Super Resolution**
    - 🗓️ Publication Date: 28th Mar. 2023
    - 🧑‍🔬 Authors: Zixuan Chen, Jianhuang Lai, Lingxiao Yang, Xiaohua Xie
    - 📄 [PDF](https://arxiv.org/abs/2303.16242)
 
-43. 📜 **Hybrid Neural Diffeomorphic Flow for Shape Representation and Generation via Triplane**
+43. **Hybrid Neural Diffeomorphic Flow for Shape Representation and Generation via Triplane**
    - 🗓️ Publication Date: 4th Jul. 2023
    - 🧑‍🔬 Authors: Kun Han, Shanlin Sun, Xiaohui Xie
    - 📄 [PDF](https://arxiv.org/abs/2307.01957)
 
-44. 📜 **Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI**
+44. **Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI**
    - 🗓️ Publication Date: 5th Jul. 2023
    - 🧑‍🔬 Authors: Jiamiao Zhang, Yichen Chi, Jun Lyu, Wenming Yang, Yapeng Tian
    - 📄 [PDF](https://arxiv.org/abs/2307.02334)
    - 💻 [GitHub](https://github.com/jmzhang79/dual-arbnet)
 
-45. 📜 **Implicit Neural Networks with Fourier-Feature Inputs for Free-breathing Cardiac MRI Reconstruction**
+45. **Implicit Neural Networks with Fourier-Feature Inputs for Free-breathing Cardiac MRI Reconstruction**
    - 🗓️ Publication Date: 11th May. 2023
    - 🧑‍🔬 Authors: Johannes F. Kunz, Stefan Ruschke, Reinhard Heckel
    - 📄 [PDF](https://arxiv.org/abs/2305.06822)
    - 💻 [GitHub](https://github.com/mli-lab/cinemri)
 
-46. 📜 **Implicit neural representations for unsupervised super-resolution and denoising of 4D flow MRI**
+46. **Implicit neural representations for unsupervised super-resolution and denoising of 4D flow MRI**
    - 🗓️ Publication Date: 24th Feb. 2023
    - 🧑‍🔬 Authors: Simone Saitta, Marcello Carioni, Subhadip Mukherjee, Carola-Bibiane Schönlieb, Alberto Redaelli
    - 📄 [PDF](https://arxiv.org/abs/2302.12835)
 
-47. 📜 **Hybrid-CSR: Coupling Explicit and Implicit Shape Representation for Cortical Surface Reconstruction**
+47. **Hybrid-CSR: Coupling Explicit and Implicit Shape Representation for Cortical Surface Reconstruction**
    - 🗓️ Publication Date: 23rd Jul. 2023
    - 🧑‍🔬 Authors: Shanlin Sun, Thanh-Tung Le, Chenyu You, Hao Tang, Kun Han, Haoyu Ma, Deying Kong, Xiangyi Yan, Xiaohui Xie
    - 📄 [PDF](https://arxiv.org/abs/2307.12299)
+
 
 
 
