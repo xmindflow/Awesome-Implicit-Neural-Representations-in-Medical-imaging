@@ -30,7 +30,7 @@ The most motivating reasons are the following:
 
 Which all are significantly important for developing an automatic medical system.<br>
 With the aim of providing easier access for researchers, this repo contains a comprehensive paper list of Implicit Neural Representations in Medical Imaging, including papers, codes, and related websites.<br>
-We considered a sum of <ins>**74**</ins> research papers spanning from 2021 to 2023.
+We considered a sum of <ins>**75**</ins> research papers spanning from 2021 to 2023.
 
 ---
 # Introductory Papers
@@ -216,10 +216,17 @@ Here, we taxonomize studies that integrate implicit representations into buildin
       - 🧑‍🔬 Authors: *Byeongjoon Kim, Hyunjung Shim, Jongduk Baek.*
       - 📄 [PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12031/120312N/Streak-artifacts-reduction-algorithm-using-an-implicit-neural-representation-in/10.1117/12.2610722.short)
 
+25. 📜 **CoNeS: Conditional neural fields with shift modulation for multi-sequence MRI translation.**
+      - 📅 Publication Date: *4th Apr., 2022*
+      - 📖 Preprint: *arxiv*
+      - 🧑‍🔬 Authors: *Yunjie Chen, Marius Staring, Olaf M. Neve, Stephan R. Romeijn, Erik F. Hensen, Berit M. Verbist, Jelmer M. Wolterink, Qian Tao.*
+      - 📄 [PDF](https://arxiv.org/abs/2309.03320)
+      - 💻 [GitHub](https://github.com/cyjdswx/cones)
+
 ---
 ### CT and MRI
 
-25. 📜 **NeRP: Implicit Neural Representation Learning with Prior Embedding for Sparsely Sampled Image Reconstruction**
+26. 📜 **NeRP: Implicit Neural Representation Learning with Prior Embedding for Sparsely Sampled Image Reconstruction**
     - 🗓️ Publication Date: *24th Aug. 2021*
     - 📖 Preprint: *IEEE Transactions on Neural Networks and Learning Systems, 2022*
     - 🧑‍🔬 Authors: *Liyue Shen, John Pauly, Lei Xing.*
@@ -229,20 +236,20 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 ---
 ### Ultrasound
 
-26. 📜 **ImplicitVol: Sensorless 3D Ultrasound Reconstruction with Deep Implicit Representation**
+27. 📜 **ImplicitVol: Sensorless 3D Ultrasound Reconstruction with Deep Implicit Representation**
     - 🗓️ Publication Date: *24th Sep. 2021*
     - 📖 Preprint: arXiv
     - 🧑‍🔬 Authors: *Pak-Hei Yeung, Linde Hesse, Moska Aliasi, Monique Haak, the INTERGROWTH-21st Consortium, Weidi Xie, Ana I.L. Namburete*
     - 📄 [PDF](https://arxiv.org/abs/2109.12108)
 
-27. 📜 **Going Off-Grid: Continuous Implicit Neural Representations for 3D Vascular Modeling**
+28. 📜 **Going Off-Grid: Continuous Implicit Neural Representations for 3D Vascular Modeling**
     - 🗓️ Publication Date: *16th Sep. 2022*
     - 📖 Preprint: arXiv
     - 🧑‍🔬 Authors: *Dieuwertje Alblas, Christoph Brune, Kak Khee Yeung, Jelmer M. Wolterink*
     - 📄 [PDF](https://arxiv.org/abs/2207.14663)
 
 
-28. 📜 **Representing 3D Ultrasound with Neural Fields**
+29. 📜 **Representing 3D Ultrasound with Neural Fields**
     - 🗓️ Publication Date: *21st Apr. 2022*
     - 📖 Conference: *Medical Imaging with Deep Learning, 2022*
     - 🧑‍🔬 Authors: *Ang Nan Gu, Purang Abolmaesumi, Christina Luong, Kwang Moo Yi*
