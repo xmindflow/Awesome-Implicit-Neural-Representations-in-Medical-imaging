@@ -49,6 +49,11 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 - [Image Segmentation](#image-segmentation)
 - [Image Reconstruction](#image-reconstruction)
+  - [Tomography and CT](#tomography-and-ct)
+  - [MRI](#mri)
+  - [Ultrasound](#ultrasound)
+  - [Dental and Maxillofacial](#dental-and-maxillofacial)
+  - [General and Miscellaneous](#general-and-miscellaneous)
 - [Image Registration](#image-registration)
 - [Neural Rendering](#neural-rendering)
 - [Image Compression](#image-compression)
@@ -60,12 +65,6 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 <img src="Figures/Reconstruction.jpg" alt="reconstruction" width="1000" height="5"><br>
 
 ## Image Reconstruction
-
-- [Tomography and CT](#tomography-and-ct)
-- [MRI](#mri)
-- [Ultrasound](#ultrasound)
-- [Dental and Maxillofacial](#dental-and-maxillofacial)
-- [General and Miscellaneous](#general-and-miscellaneous)
 
 ---
 
@@ -189,7 +188,6 @@ Here, we taxonomize studies that integrate implicit representations into buildin
    - 🧑‍🔬 Authors: Xin Wang, Sheng Wang, Honglin Xiong, Kai Xuan, Zixu Zhuang, Mengjun Liu, Zhenrong Shen, Xiangyu Zhao, Lichi Zhang, Qian Wang
    - 📄 [PDF](https://arxiv.org/abs/2301.00127)
 
-
 20. 📜 **Neural Implicit k-Space for Binning-free Non-Cartesian Cardiac MR Imaging**
     - 🗓️ Publication Date: 16th Dec. 2022
     - 📖 Conference: International Conference on Information Processing in Medical Imaging, 2023
@@ -209,8 +207,8 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 23. 📜 **Multi-contrast MRI Super-resolution via Implicit Neural Representations**
    - 🗓️ Publication Date: 27th Mar. 2023
    - 🧑‍🔬 Authors: Julian McGinnis, Suprosanna Shit, Hongwei Bran Li, Vasiliki Sideri-Lampretsa, Robert Graf, Maik Dannecker, Jiazhen Pan, Nil Stolt Ansö, Mark Mühlau, Jan S. Kirschke, Daniel Rueckert, Benedikt Wiestler
-   - 📄 [PDF]([Link to PDF](https://arxiv.org/abs/2303.15065))
-   - 💻 [GitHub]([Link to GitHub](https://github.com/jqmcginnis/multi_contrast_inr))
+   - 📄 [PDF](https://arxiv.org/abs/2303.15065)
+   - 💻 [GitHub](https://github.com/jqmcginnis/multi_contrast_inr)
 
 
  **ImplicitVol: Sensorless 3D Ultrasound Reconstruction with Deep Implicit Representation.** [24th Sep., 2021] [arXiv, 2021]<br>
