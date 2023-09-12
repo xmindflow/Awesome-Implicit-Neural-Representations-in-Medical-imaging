@@ -70,11 +70,11 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 ---
 
-### IntraTomo: Self-supervised Learning-based Tomography via Sinogram Synthesis and Prediction
+**IntraTomo: Self-supervised Learning-based Tomography via Sinogram Synthesis and Prediction.**
 
 - 🗓️ Publication Date: *9th Feb. 2021*
-- 📖 Source: [Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021](https://neuralfields.cs.brown.edu/paper_243.html)
-- 🧪 [Download PDF](https://neuralfields.cs.brown.edu/paper_243.html)
+-  🧪 [Download PDF](https://neuralfields.cs.brown.edu/paper_243.html)
+- 📖 [Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021](https://neuralfields.cs.brown.edu/paper_243.html)
 - 🧑‍🔬 Authors: Guangming Zang, Ramzi Idoughi, Rui Li, Peter Wonka, Wolfgang Heidrich
 
 ### [Next Paper Title]
