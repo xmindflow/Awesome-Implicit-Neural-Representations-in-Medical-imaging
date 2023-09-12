@@ -205,15 +205,21 @@ Here, we taxonomize studies that integrate implicit representations into buildin
    - 📄 [PDF](https://arxiv.org/abs/2209.06413)
 
 23. 📜 **Multi-contrast MRI Super-resolution via Implicit Neural Representations**
-   - 🗓️ Publication Date: 27th Mar. 2023
-   - 🧑‍🔬 Authors: Julian McGinnis, Suprosanna Shit, Hongwei Bran Li, Vasiliki Sideri-Lampretsa, Robert Graf, Maik Dannecker, Jiazhen Pan, Nil Stolt Ansö, Mark Mühlau, Jan S. Kirschke, Daniel Rueckert, Benedikt Wiestler
-   - 📄 [PDF](https://arxiv.org/abs/2303.15065)
-   - 💻 [GitHub](https://github.com/jqmcginnis/multi_contrast_inr)
+    - 🗓️ Publication Date: 27th Mar. 2023
+    - 🧑‍🔬 Authors: Julian McGinnis, Suprosanna Shit, Hongwei Bran Li, Vasiliki Sideri-Lampretsa, Robert Graf, Maik Dannecker, Jiazhen Pan, Nil Stolt Ansö, Mark Mühlau, Jan S. Kirschke, Daniel Rueckert, Benedikt Wiestler
+    - 📄 [PDF](https://arxiv.org/abs/2303.15065)
+    - 💻 [GitHub](https://github.com/jqmcginnis/multi_contrast_inr)
+
+24. 📜 **Streak artifacts reduction algorithm using an implicit neural representation in sparse-view CT.**
+    - 📅 Publication Date: *4th Apr., 2022*
+    - 📖 Journal: *Medical Imaging 2022: Physics of Medical Imaging, 2022*
+    - 🧑‍🔬 Authors: *Byeongjoon Kim, Hyunjung Shim, Jongduk Baek.*
+    - 📄 [PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12031/120312N/Streak-artifacts-reduction-algorithm-using-an-implicit-neural-representation-in/10.1117/12.2610722.short)
 
 ---
 ### CT and MRI
 
-24. 📜 **NeRP: Implicit Neural Representation Learning with Prior Embedding for Sparsely Sampled Image Reconstruction**
+25. 📜 **NeRP: Implicit Neural Representation Learning with Prior Embedding for Sparsely Sampled Image Reconstruction**
   - 🗓️ Publication Date: *24th Aug. 2021*
   - 📖 Preprint: *IEEE Transactions on Neural Networks and Learning Systems, 2022*
   - 🧑‍🔬 Authors: *Liyue Shen, John Pauly, Lei Xing.*
@@ -223,7 +229,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 ---
 ### Ultrasound
 
-25. 📜 **ImplicitVol: Sensorless 3D Ultrasound Reconstruction with Deep Implicit Representation**
+26. 📜 **ImplicitVol: Sensorless 3D Ultrasound Reconstruction with Deep Implicit Representation**
   - 🗓️ Publication Date: *24th Sep. 2021*
   - 📖 Preprint: arXiv
   - 🧑‍🔬 Authors: *Pak-Hei Yeung, Linde Hesse, Moska Aliasi, Monique Haak, the INTERGROWTH-21st Consortium, Weidi Xie, Ana I.L. Namburete*
@@ -231,14 +237,14 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 
 
-26. 📜 **Going Off-Grid: Continuous Implicit Neural Representations for 3D Vascular Modeling**
+27. 📜 **Going Off-Grid: Continuous Implicit Neural Representations for 3D Vascular Modeling**
   - 🗓️ Publication Date: *16th Sep. 2022*
   - 📖 Preprint: arXiv
   - 🧑‍🔬 Authors: *Dieuwertje Alblas, Christoph Brune, Kak Khee Yeung, Jelmer M. Wolterink*
   - 📄 [PDF](https://arxiv.org/abs/2207.14663)
 
 
-27. 📜 **Representing 3D Ultrasound with Neural Fields**
+28. 📜 **Representing 3D Ultrasound with Neural Fields**
   - 🗓️ Publication Date: *21st Apr. 2022*
   - 📖 Conference: *Medical Imaging with Deep Learning, 2022*
   - 🧑‍🔬 Authors: *Ang Nan Gu, Purang Abolmaesumi, Christina Luong, Kwang Moo Yi*
@@ -246,12 +252,6 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
   ---
 ### Dental and Maxillofacial
-
-28. 📜 **Streak artifacts reduction algorithm using an implicit neural representation in sparse-view CT.** 
-   - 📅 Publication Date: *4th Apr., 2022*
-   - 📖 Journal: *Medical Imaging 2022: Physics of Medical Imaging, 2022*
-   - 🧑‍🔬 Authors: *Byeongjoon Kim, Hyunjung Shim, Jongduk Baek.*
-   - 📄 [PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12031/120312N/Streak-artifacts-reduction-algorithm-using-an-implicit-neural-representation-in/10.1117/12.2610722.short)
 
 29. **Learning Deep Intensity Field for Extremely Sparse-View CBCT Reconstruction.** 
    - 📅 Publication Date: *12th Mar., 2023*
