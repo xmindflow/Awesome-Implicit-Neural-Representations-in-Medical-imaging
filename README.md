@@ -47,13 +47,13 @@ We considered a sum of <ins>**74**</ins> research papers spanning from 2021 to 2
 <img src="Figures/Taxonomy.png" alt="Taxonomy" width="816">
 Here, we taxonomize studies that integrate implicit representations into building medical analysis models.<br>
 
-- [Image Segmentation](#image-segmentation)
 - [Image Reconstruction](#image-reconstruction)
   - [Tomography and CT](#tomography-and-ct)
   - [MRI](#mri)
   - [Ultrasound](#ultrasound)
   - [Dental and Maxillofacial](#dental-and-maxillofacial)
   - [General and Miscellaneous](#general-and-miscellaneous)
+- [Image Segmentation](#image-segmentation)
 - [Image Registration](#image-registration)
 - [Neural Rendering](#neural-rendering)
 - [Image Compression](#image-compression)
