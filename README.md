@@ -58,11 +58,26 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 
 <img src="Figures/Reconstruction.jpg" alt="reconstruction" width="1000" height="5"><br>
+
+---
 ## Image Reconstruction
 
- **IntraTomo: Self-supervised Learning-based Tomography via Sinogram Synthesis and Prediction.** [9th Feb., 2021] [Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021]<br>
-*Guangming Zang, Ramzi Idoughi, Rui Li, Peter Wonka, Wolfgang Heidrich.*<br>
- [[PDF](https://neuralfields.cs.brown.edu/paper_243.html)]
+- [Tomography and CT](#tomography-and-ct)
+- [MRI](#mri)
+- [Ultrasound](#ultrasound)
+- [Dental and Maxillofacial](#dental-and-maxillofacial)
+- [General and Miscellaneous](#general-and-miscellaneous)
+
+---
+
+### IntraTomo: Self-supervised Learning-based Tomography via Sinogram Synthesis and Prediction
+
+- 🗓️ Publication Date: *9th Feb. 2021*
+- 📖 Source: [Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021](https://neuralfields.cs.brown.edu/paper_243.html)
+- 🧪 [Download PDF](https://neuralfields.cs.brown.edu/paper_243.html)
+- 🧑‍🔬 Authors: Guangming Zang, Ramzi Idoughi, Rui Li, Peter Wonka, Wolfgang Heidrich
+
+### [Next Paper Title]
  
  **CoIL: Coordinate-based Internal Learning for Imaging Inverse Problems.** [9th Feb., 2021] [IEEE Transactions on Computational Imaging, 2021]<br>
 *Yu Sun, Jiaming Liu, Mingyang Xie, Brendt Wohlberg, Ulugbek S. Kamilov.*<br>
