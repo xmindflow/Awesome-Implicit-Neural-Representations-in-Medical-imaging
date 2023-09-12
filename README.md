@@ -69,94 +69,95 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 ### Tomography and CT
 
-**📜 IntraTomo: Self-supervised Learning-based Tomography via Sinogram Synthesis and Prediction**
-- 🗓️ Publication Date: 9th Feb. 2021
-- 🧪 Download PDF
-- 📖 [Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021]
-- 🧑‍🔬 Authors: Guangming Zang, Ramzi Idoughi, Rui Li, Peter Wonka, Wolfgang Heidrich
+1. 📜 **IntraTomo: Self-supervised Learning-based Tomography via Sinogram Synthesis and Prediction**
+   - 🗓️ Publication Date: 9th Feb. 2021
+   - 📖 Proceedings: IEEE/CVF International Conference on Computer Vision, 2021
+   - 🧑‍🔬 Authors: Guangming Zang, Ramzi Idoughi, Rui Li, Peter Wonka, Wolfgang Heidrich
+   - 📄 [Download PDF](https://neuralfields.cs.brown.edu/paper_243.html)
 
-**📜 CoIL: Coordinate-based Internal Learning for Imaging Inverse Problems**
-- 🗓️ Publication Date: 9th Feb. 2021
-- 🧪 Download PDF
-Github
-- 📖 [IEEE Transactions on Computational Imaging, 2021]
-- 🧑‍🔬 Authors: Yu Sun, Jiaming Liu, Mingyang Xie, Brendt Wohlberg, Ulugbek S. Kamilov
+2. 📜 **CoIL: Coordinate-based Internal Learning for Imaging Inverse Problems**
+   - 🗓️ Publication Date: 9th Feb. 2021
+   - 📖 Journal: IEEE Transactions on Computational Imaging, 2021
+   - 🧑‍🔬 Authors: Yu Sun, Jiaming Liu, Mingyang Xie, Brendt Wohlberg, Ulugbek S. Kamilov
+   - 📄 [Download PDF](https://arxiv.org/abs/2102.05181)
+   - 💻 [GitHub](https://github.com/wustl-cig/Cooridnate-based-I)
 
-📜 Dynamic CT Reconstruction from Limited Views with Implicit Neural Representations and Parametric Motion Fields
-🗓️ Publication Date: 23th Apr. 2021
-🧪 Download PDF
-📖 [Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021]
-🧑‍🔬 Authors: Albert W. Reed, Hyojin Kim, Rushil Anirudh, K. Aditya Mohan, Kyle Champley, Jingu Kang, Suren Jayasuriya
+3. 📜 **Dynamic CT Reconstruction from Limited Views with Implicit Neural Representations and Parametric Motion Fields**
+   - 🗓️ Publication Date: 23th Apr. 2021
+   - 📖 Proceedings: IEEE/CVF International Conference on Computer Vision, 2021
+   - 🧑‍🔬 Authors: Albert W. Reed, Hyojin Kim, Rushil Anirudh, K. Aditya Mohan, Kyle Champley, Jingu Kang, Suren Jayasuriya
+   - 📄 [Download PDF](https://arxiv.org/abs/2104.11745)
 
-📜 Streak artifacts reduction algorithm using an implicit neural representation in sparse-view CT
-🗓️ Publication Date: 4th Apr. 2022
-🧪 Download PDF
-📖 [Medical Imaging 2022: Physics of Medical Imaging, 2022]
-🧑‍🔬 Authors: Byeongjoon Kim, Hyunjung Shim, Jongduk Baek
+4. 📜 **Streak artifacts reduction algorithm using an implicit neural representation in sparse-view CT**
+   - 🗓️ Publication Date: 4th Apr. 2022
+   - 📖 Conference: Medical Imaging 2022: Physics of Medical Imaging, 2022
+   - 🧑‍🔬 Authors: Byeongjoon Kim, Hyunjung Shim, Jongduk Baek
+   - 📄 [Download PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12031/120312N/Streak-artifacts-reduction-algorithm-using-an-implicit-neural-representation-in/10.1117/12.2610722.short)
 
-📜 Dynamic Cone-beam CT Reconstruction using Spatial and Temporal Implicit Neural Representation Learning (STINR)
-🗓️ Publication Date: Sep. 2022
-🧪 Download PDF
-📖 [Physics in Medicine and Biology, 2023]
-🧑‍🔬 Authors: You Zhang, Hua-Chieh Shao, Tinsu Pan, Tielige Mengke
+5. 📜 **Dynamic Cone-beam CT Reconstruction using Spatial and Temporal Implicit Neural Representation Learning (STINR)**
+   - 🗓️ Publication Date: Sep. 2022
+   - 📖 Journal: Physics in Medicine and Biology, 2023
+   - 🧑‍🔬 Authors: You Zhang, Hua-Chieh Shao, Tinsu Pan, Tielige Mengke
+   - 📄 [Download PDF](https://pubmed.ncbi.nlm.nih.gov/36638543/)
 
-📜 A Memory-Efficient Dynamic Image Reconstruction Method using Neural Fields
-🗓️ Publication Date: 11th May 2022
-🧪 Download PDF
-📖 [arXiv, 2022]
-🧑‍🔬 Authors: Luke Lozenski, Mark A. Anastasio, Umberto Villa
+6. 📜 **A Memory-Efficient Dynamic Image Reconstruction Method using Neural Fields**
+   - 🗓️ Publication Date: 11th May 2022
+   - 📖 Preprint: arXiv, 2022
+   - 🧑‍🔬 Authors: Luke Lozenski, Mark A. Anastasio, Umberto Villa
+   - 📄 [Download PDF](https://arxiv.org/abs/2205.05585?context=eess)
 
-📜 Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction
-🗓️ Publication Date: 27th Jun. 2023
-🧪 Download PDF
-📖 [arXiv preprint]
-🧑‍🔬 Authors: Qing Wu, Lixuan Chen, Ce Wang, Hongjiang Wei, S. Kevin Zhou, Jingyi Yu, Yuyao Zhang
+7. 📜 **Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**
+   - 🗓️ Publication Date: 27th Jun. 2023
+   - 📖 Preprint: arXiv
+   - 🧑‍🔬 Authors: Qing Wu, Lixuan Chen, Ce Wang, Hongjiang Wei, S. Kevin Zhou, Jingyi Yu, Yuyao Zhang
+   - 📄 [Download PDF](https://arxiv.org/abs/2306.15203)
 
-📜 Self-Supervised Coordinate Projection Network for Sparse-View Computed Tomography
-🗓️ Publication Date: 12th Sep. 2022
-🧪 Download PDF
-Github
-📖 [IEEE Transactions on Computational Imaging, 2023]
-🧑‍🔬 Authors: Qing Wu, Ruimin Feng, Hongjiang Wei, Jingyi Yu, Yuyao Zhang
+8. 📜 **Self-Supervised Coordinate Projection Network for Sparse-View Computed Tomography**
+   - 🗓️ Publication Date: 12th Sep. 2022
+   - 📖 Journal: IEEE Transactions on Computational Imaging, 2023
+   - 🧑‍🔬 Authors: Qing Wu, Ruimin Feng, Hongjiang Wei, Jingyi Yu, Yuyao Zhang
+   - 📄 [Download PDF](https://ieeexplore.ieee.org/document/10143286)
+   - 💻 [GitHub](https://github.com/iwuqing/SCOPE)
 
-📜 OReX: Object Reconstruction from Planar Cross-sections Using Neural Fields
-🗓️ Publication Date: 23th Nov. 2022
-🧪 Download PDF
-Github
-📖 [CVPR, 2023]
-🧑‍🔬 Authors: Haim Sawdayee, Amir Vaxman, Amit H. Bermano
+9. 📜 **OReX: Object Reconstruction from Planar Cross-sections Using Neural Fields**
+   - 🗓️ Publication Date: 23th Nov. 2022
+   - 📖 Conference: CVPR, 2023
+   - 🧑‍🔬 Authors: Haim Sawdayee, Amir Vaxman, Amit H. Bermano
+   - 📄 [Download PDF](https://arxiv.org/abs/2211.12886)
+   - 💻 [GitHub](https://github.com/haimsaw/OReX)
 
-📜 Neural Computed Tomography
-🗓️ Publication Date: 17th Jan. 2022
-🧪 Download PDF
-Github
-📖 [arXiv preprint, 2022]
-🧑‍🔬 Authors: Kunal Gupta, Brendan Colvert, Francisco Contijoch
+10. 📜 **Neural Computed Tomography**
+    - 🗓️ Publication Date: 17th Jan. 2022
+    - 📖 Preprint: arXiv, 2022
+    - 🧑‍🔬 Authors: Kunal Gupta, Brendan Colvert, Francisco Contijoch
+    - 📄 [Download PDF](https://arxiv.org/abs/2201.06574)
+    - 💻 [GitHub](https://github.com/KunalMGupta/DIFIR-CT)
 
-📜 Neural Implicit k-Space for Binning-free Non-Cartesian Cardiac MR Imaging
-🗓️ Publication Date: 16th Dec. 2022
-🧪 Download PDF
-📖 [International Conference on Information Processing in Medical Imaging, 2023]
-🧑‍🔬 Authors: Wenqi Huang, Hongwei Li, Jiazhen Pan, Gastao Cruz, Daniel Rueckert, Kerstin Hammernik
+11. 📜 **Neural Implicit k-Space for Binning-free Non-Cartesian Cardiac MR Imaging**
+    - 🗓️ Publication Date: 16th Dec. 2022
+    - 📖 Conference: International Conference on Information Processing in Medical Imaging, 2023
+    - 🧑‍🔬 Authors: Wenqi Huang, Hongwei Li, Jiazhen Pan, Gastao Cruz, Daniel Rueckert, Kerstin Hammernik
+    - 📄 [Download PDF](https://arxiv.org/abs/2212.08479)
 
-📜 NeuRec: Incorporating Interpatient prior to Sparse-View Image Reconstruction for Neurorehabilitation
-🗓️ Publication Date: 21th Feb. 2022
-🧪 Download PDF
-📖 [BioMed Research International, 2022]
-🧑‍🔬 Authors: Cong Liu, Qingbin Wang, Jing Zhang
+12. 📜 **NeuRec: Incorporating Interpatient prior to Sparse-View Image Reconstruction for Neurorehabilitation**
+    - 🗓️ Publication Date: 21th Feb. 2022
+    - 📖 Journal: BioMed Research International, 2022
+    - 🧑‍🔬 Authors: Cong Liu, Qingbin Wang, Jing Zhang
+    - 📄 [Download PDF](https://www.hindawi.com/journals/bmri/2022/5426643/)
+    
+13. 📜 **NAISR: A 3D Neural Additive Model for Interpretable Shape Representation**
+    - 🗓️ Publication Date: 16th Mar. 2023
+    - 📖 Preprint: arXiv
+    - 🧑‍🔬 Authors: Yining Jiao, Carlton Zdanski, Julia Kimbell, Andrew Prince, Cameron Worden, Samuel Kirse, Christopher Rutter, Benjamin Shields, William Dunn, Jisan Mahmud, Marc Niethammer
+    - 📄 [Download PDF](https://arxiv.org/abs/2303.09234)
+    - 💻 [GitHub](https://github.com/uncbiag/naisr)
 
-📜 NAISR: A 3D Neural Additive Model for Interpretable Shape Representation
-🗓️ Publication Date: 16th Mar. 2023
-🧪 Download PDF
-Github
-📖 [arXiv preprint]
-🧑‍🔬 Authors: Yining Jiao, Carlton Zdanski, Julia Kimbell, Andrew Prince, Cameron Worden, Samuel Kirse, Christopher Rutter, Benjamin Shields, William Dunn, Jisan Mahmud, Marc Niethammer
+14. 📜 **ImTooth: Neural Implicit Tooth for Dental Augmented Reality**
+    - 🗓️ Publication Date: 23rd Feb. 2023
+    - 📖 Journal: IEEE Transactions on Visualization and Computer Graphics, 2023
+    - 🧑‍🔬 Authors: Hai Li, Hongjia Zhai, Xingrui Yang, Zhirong Wu, Jianchao Wu, Hujun Bao, Yihao Zheng, Haofan Wang, Guofeng Zhang
+    - 📄 [Download PDF](https://ieeexplore.ieee.org/document/10051634)
 
-📜 ImTooth: Neural Implicit Tooth for Dental Augmented Reality
-🗓️ Publication Date: 23rd Feb. 2023
-🧪 Download PDF
-📖 [IEEE Transactions on Visualization and Computer Graphics, 2023]
-🧑‍🔬 Authors: Hai Li, Hongjia Zhai, Xingrui Yang, Zhirong Wu, Jianchao Wu, Hujun Bao, Yihao Zheng, Haofan Wang, Guofeng Zhang
 
  
  **CoIL: Coordinate-based Internal Learning for Imaging Inverse Problems.** [9th Feb., 2021] [IEEE Transactions on Computational Imaging, 2021]<br>
