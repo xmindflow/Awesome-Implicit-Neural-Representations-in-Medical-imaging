@@ -58,7 +58,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
   - [Cardiac and Heart Structures](#cardiac-and-heart-structures)
   - [Retinal Blood Vessels](#retinal-blood-vessels)
   - [3D Anatomical Structures](#3d-anatomical-structures)
-  - [Boundary and HighFrequency Region Refinement](#boundary-and highfrequency-region-refinement)
+  - [Boundary Refinement](#boundary-refinement)
   - [Patch Level Segmentation](#patch-level-segmentation)
 - [Image Registration](#image-registration)
 - [Neural Rendering](#neural-rendering)
@@ -416,7 +416,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 ---
 
-### Boundary and High-Frequency Region Refinement:
+### Boundary Refinement:
 
 51. 📜 **Implicit Anatomical Rendering for Medical Image Segmentation with Stochastic Experts**
 - 📅 Publication Date: *6th Apr., 2023*
@@ -424,7 +424,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 - 🧑‍🔬 Authors: *Chenyu You, Weicheng Dai, Yifei Min, Lawrence Staib, James S. Duncan*
 - 📄 [PDF](https://arxiv.org/abs/2304.03209)
 - 🖥️ [GitHub](https://github.com/charlesyou999648/morse)
-- 📌 Highlight: Introduces the MORSE framework, which emphasizes refining the boundary regions of segmented medical images.
+- 📌 Highlight: Emphasizes refining the boundary regions of segmented medical images.
 
 ---
 ### Patch Level Segmentation:
