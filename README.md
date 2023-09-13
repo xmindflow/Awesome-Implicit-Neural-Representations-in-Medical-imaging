@@ -57,7 +57,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
   - [Brain Structures and Lesions](#brain-structures-and-lesions)
   - [Cardiac and Heart Structures](#cardiac-and-heart-structures)
   - [Retinal Blood Vessels](#retinal-blood-vessels)
-  - [3D Anatomical Structures](#3d-anatomical-structures)
+  - [3D Segmentation](#3d-segmentation)
   - [Boundary Refinement](#boundary-refinement)
   - [Patch Level Segmentation](#patch-level-segmentation)
 - [Image Registration](#image-registration)
@@ -397,7 +397,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 ---
 
-### 3D Anatomical Structures:
+### 3D Segmentation:
 
 49. 📜 **Deep Implicit Statistical Shape Models for 3D Medical Image Delineation**
 - 📅 Publication Date: *28th Jun., 2022*
