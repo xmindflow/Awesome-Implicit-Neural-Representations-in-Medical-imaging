@@ -354,87 +354,87 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 ### Brain Structures and Lesions:
 
 44. 📜 **NeRD: Neural Representation of Distribution for Medical Image Segmentation**
-- 📅 Publication Date: *6th Mar., 2021*
-- 📖 Preprint: *arXiv, 2021*
-- 🧑‍🔬 Authors: *Hang Zhang, Rongguang Wang, Jinwei Zhang, Chao Li, Gufeng Yang, Pascal Spincemaille, Thanh Nguyen, Yi Wang*
-- 📄 [PDF](https://arxiv.org/abs/2103.04020)
-- 📌 Highlight: Addresses white matter lesion segmentation and left atrial segmentation.
+    - 📅 Publication Date: *6th Mar., 2021*
+    - 📖 Preprint: *arXiv, 2021*
+    - 🧑‍🔬 Authors: *Hang Zhang, Rongguang Wang, Jinwei Zhang, Chao Li, Gufeng Yang, Pascal Spincemaille, Thanh Nguyen, Yi Wang*
+    - 📄 [PDF](https://arxiv.org/abs/2103.04020)
+    - 📌 Highlight: Addresses white matter lesion segmentation and left atrial segmentation.
 
 45. 📜 **Implicit field learning for unsupervised anomaly detection in medical images**
-- 📅 Publication Date: *9th Jun., 2021*
-- 📖 Conference: *MICCAI 2021*
-- 🧑‍🔬 Authors: *Sergio Naval Marimont, Giacomo Tarroni*
-- 📄 [PDF](https://arxiv.org/abs/2106.05214)
-- 📌 Highlight: Aims to localize gliomas on brain MR images using an unsupervised out-of-distribution detection method.
+    - 📅 Publication Date: *9th Jun., 2021*
+    - 📖 Conference: *MICCAI 2021*
+    - 🧑‍🔬 Authors: *Sergio Naval Marimont, Giacomo Tarroni*
+    - 📄 [PDF](https://arxiv.org/abs/2106.05214)
+    - 📌 Highlight: Aims to localize gliomas on brain MR images using an unsupervised out-of-distribution detection method.
 
 46. 📜 **Direct localization and delineation of human pedunculopontine nucleus based on a self-supervised magnetic resonance image super-resolution method**
-- 📅 Publication Date: *25th Apr., 2023*
-- 📖 Journal: *Human Brain Mapping, 2023*
-- 🧑‍🔬 Authors: *Jun Li, Xiaojun Guan, Qing Wu, Chenyu He, Weimin Zhang, Xiyue Lin, Chunlei Liu, Hongjiang Wei, Xiaojun Xu, Yuyao Zhang*
-- 📄 [PDF](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.26311)
-- 📌 Highlight: Focuses on delineating the pedunculopontine nucleus (PPN).
+    - 📅 Publication Date: *25th Apr., 2023*
+    - 📖 Journal: *Human Brain Mapping, 2023*
+    - 🧑‍🔬 Authors: *Jun Li, Xiaojun Guan, Qing Wu, Chenyu He, Weimin Zhang, Xiyue Lin, Chunlei Liu, Hongjiang Wei, Xiaojun Xu, Yuyao Zhang*
+    - 📄 [PDF](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.26311)
+    - 📌 Highlight: Focuses on delineating the pedunculopontine nucleus (PPN).
 
 ---
 
 ### Cardiac and Heart Structures
 47. 📜 **Binary segmentation of medical images using implicit spline representations and deep learning**
-- 📅 Publication Date: *19th Mar., 2021*
-- 📖 Journal: *Computer Aided Geometric Design, 2021*
-- 🧑‍🔬 Authors: *Oliver J.D. Barrowclough, Georg Muntingh, Varatharajan Nainamalai, Ivar Stangeby*
-- 📄 [PDF](https://arxiv.org/abs/2102.12759)
-- 📌 Highlight: Tackles image segmentation for a congenital heart disease computed tomography medical imaging dataset.
+    - 📅 Publication Date: *19th Mar., 2021*
+    - 📖 Journal: *Computer Aided Geometric Design, 2021*
+    - 🧑‍🔬 Authors: *Oliver J.D. Barrowclough, Georg Muntingh, Varatharajan Nainamalai, Ivar Stangeby*
+    - 📄 [PDF](https://arxiv.org/abs/2102.12759)
+    - 📌 Highlight: Tackles image segmentation for a congenital heart disease computed tomography medical imaging dataset.
 
 ---
 
 ### Retinal Blood Vessels:
 
 48. 📜 **Retinal vessel segmentation based on self-distillation and implicit neural representation**
-- 📅 Publication Date: *8th Nov., 2022*
-- 📖 Journal: *Applied Intelligence, 2022*
-- 🧑‍🔬 Authors: *Jia Gu, Fangzheng Tian & Il-Seok Oh*
-- 📄 [PDF](https://link.springer.com/article/10.1007/s10489-022-04252-2)
-- 📌 Highlight: Concentrates on segmenting retinal blood vessels from retinal images.
+    - 📅 Publication Date: *8th Nov., 2022*
+    - 📖 Journal: *Applied Intelligence, 2022*
+    - 🧑‍🔬 Authors: *Jia Gu, Fangzheng Tian & Il-Seok Oh*
+    - 📄 [PDF](https://link.springer.com/article/10.1007/s10489-022-04252-2)
+    - 📌 Highlight: Concentrates on segmenting retinal blood vessels from retinal images.
 
 ---
 
 ### 3D Segmentation:
 
 49. 📜 **Deep Implicit Statistical Shape Models for 3D Medical Image Delineation**
-- 📅 Publication Date: *28th Jun., 2022*
-- 📖 Conference: *AAAI, 2022*
-- 🧑‍🔬 Authors: *Ashwin Raju, Shun Miao, Dakai Jin, Le Lu, Junzhou Huang, Adam P. Harrison*
-- 📄 [PDF](https://arxiv.org/abs/2104.02847)
-- 🖥️ [GitHub](https://github.com/ashstuff/dissm)
-- 📌 Highlight: Presents a methodology that emphasizes 3D delineation of anatomical structures using deep implicit statistical shape models.
+    - 📅 Publication Date: *28th Jun., 2022*
+    - 📖 Conference: *AAAI, 2022*
+    - 🧑‍🔬 Authors: *Ashwin Raju, Shun Miao, Dakai Jin, Le Lu, Junzhou Huang, Adam P. Harrison*
+    - 📄 [PDF](https://arxiv.org/abs/2104.02847)
+    - 🖥️ [GitHub](https://github.com/ashstuff/dissm)
+    - 📌 Highlight: Presents a methodology that emphasizes 3D delineation of anatomical structures using deep implicit statistical shape models.
 
 50. 📜 **Implicit Neural Representations for Medical Imaging Segmentation**
-- 📅 Publication Date: *16th Sep., 2022*
-- 📖 Conference: *International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022*
-- 🧑‍🔬 Authors: *Muhammad Osama Khan & Yi Fang*
-- 📄 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_42)
-- 📌 Highlight: Specifically mentions 3D signals in medical imaging, hinting at 3D anatomical structures.
+    - 📅 Publication Date: *16th Sep., 2022*
+    - 📖 Conference: *International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022*
+    - 🧑‍🔬 Authors: *Muhammad Osama Khan & Yi Fang*
+    - 📄 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_42)
+    - 📌 Highlight: Specifically mentions 3D signals in medical imaging, hinting at 3D anatomical structures.
 
 ---
 
 ### Boundary Refinement:
 
 51. 📜 **Implicit Anatomical Rendering for Medical Image Segmentation with Stochastic Experts**
-- 📅 Publication Date: *6th Apr., 2023*
-- 📖 Preprint: *arXiv, 2023*
-- 🧑‍🔬 Authors: *Chenyu You, Weicheng Dai, Yifei Min, Lawrence Staib, James S. Duncan*
-- 📄 [PDF](https://arxiv.org/abs/2304.03209)
-- 🖥️ [GitHub](https://github.com/charlesyou999648/morse)
-- 📌 Highlight: Emphasizes refining the boundary regions of segmented medical images.
+    - 📅 Publication Date: *6th Apr., 2023*
+    - 📖 Preprint: *arXiv, 2023*
+    - 🧑‍🔬 Authors: *Chenyu You, Weicheng Dai, Yifei Min, Lawrence Staib, James S. Duncan*
+    - 📄 [PDF](https://arxiv.org/abs/2304.03209)
+    - 🖥️ [GitHub](https://github.com/charlesyou999648/morse)
+    - 📌 Highlight: Emphasizes refining the boundary regions of segmented medical images.
 
 ---
 ### Patch Level Segmentation:
 
 52. 📜 **SwIPE: Efficient and Robust Medical Image Segmentation with Implicit Patch Embeddings**
-- 📅 Publication Date: *23rd Jul., 2023*
-- 📖 Conference: *MICCAI 2023*
-- 🧑‍🔬 Authors: *Yejia Zhang, Pengfei Gu, Nishchal Sapkota, Danny Z. Chen*
-- 📄 [PDF](https://arxiv.org/abs/2307.12429)
-- 📌 Highlight: Uses implicit neural representations to predict shapes at the patch level, balancing both local boundary delineation and global shape coherence.
+    - 📅 Publication Date: *23rd Jul., 2023*
+    - 📖 Conference: *MICCAI 2023*
+    - 🧑‍🔬 Authors: *Yejia Zhang, Pengfei Gu, Nishchal Sapkota, Danny Z. Chen*
+    - 📄 [PDF](https://arxiv.org/abs/2307.12429)
+    - 📌 Highlight: Uses implicit neural representations to predict shapes at the patch level, balancing both local boundary delineation and global shape coherence.
 
 
 <img src="Figures/Segmentation.jpg" alt="Segmentation" width="1016" height="5"><br>
