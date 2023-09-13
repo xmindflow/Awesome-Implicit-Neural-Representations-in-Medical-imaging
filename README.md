@@ -441,33 +441,59 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 <img src="Figures/Registration.jpg" alt="Registration" width="1016" height="5"><br>
 ## Image Registration
 
-**Implicit Neural Representations for Deformable Image Registration.** [22th Jun., 2022] [Medical Imaging with Deep Learning, 2022]<br>
-*Jelmer M. Wolterink, Jesse C. Zwienenberg, Christoph Brune.*<br>
- [[PDF](https://openreview.net/forum?id=BP29eKzQBu3)] [[Github](https://github.com/MIAGroupUT/IDIR)]
- 
-**Medical Image Registration via Neural Fields.** [22th Jun., 2022] [arXiv, 2022]<br>
-*Shanlin Sun, Kun Han, Hao Tang, Deying Kong, Junayed Naushad, Xiangyi Yan, Xiaohui Xie.*<br>
- [[PDF](https://arxiv.org/abs/2206.03111)]
+### Deformable Registration
 
- **Learning Homeomorphic Image Registration via Conformal-Invariant Hyperelastic Regularisation** [30 th Jun., 2023 ] [arXiv preprint, 2023 ]<br>
-*Jing Zou, Noémie Debroux, Lihao Liu, Jing Qin, Carola-Bibiane Schönlieb, Angelica I Aviles-Rivero*<br>
- [[PDF]( https://arxiv.org/abs/2303.08113)] 
+53. 📜 **Implicit Neural Representations for Deformable Image Registration**
+- 📅 Publication Date: *22th Jun., 2022*
+- 📖 Conference: *Medical Imaging with Deep Learning, 2022*
+- 🧑‍🔬 Authors: *Jelmer M. Wolterink, Jesse C. Zwienenberg, Christoph Brune*
+- 📄 [PDF](https://openreview.net/forum?id=BP29eKzQBu3)
+- 🖥️ [GitHub](https://github.com/MIAGroupUT/IDIR)
+- 📌 Highlight: Implicit deformable image registration using a neural network to represent continuous transformations
 
-**Diffeomorphic Image Registration with Neural Velocity Field** [2023] [IEEE/CVF Winter Conference on Applications of Computer Vision, 2023]<br>
-*Kun Han, Shanlin sun, Xiangyi Yan, Chenyu You, Hao Tang, Junayed Naushad, Haoyu Ma, Deying Kong, Xiaohui Xie*<br>
- [[PDF]( https://arxiv.org/abs/2202.12498)]
+54. 📜 **Learning Homeomorphic Image Registration via Conformal-Invariant Hyperelastic Regularisation**
+- 📅 Publication Date: *30th Jun., 2023*
+- 📖 Preprint: *arXiv, 2023*
+- 🧑‍🔬 Authors: *Jing Zou, Noémie Debroux, Lihao Liu, Jing Qin, Carola-Bibiane Schönlieb, Angelica I Aviles-Rivero*
+- 📄 [PDF](https://arxiv.org/abs/2303.08113)
+- 📌 Highlight: Topology-preserving deformable image registration. It discusses a novel regularizer based on conformal-invariant properties.
 
- **Deformable Image Registration with Geometry-informed Implicit Neural Representations** [13 th Apr., 2023] [Medical Imaging with Deep Learning, 2023]<br>
-*Louis van Harten, Rudolf Leonardus Mirjam Van Herten, Jaap Stoker, Ivana Isgum*<br>
-[[PDF](https://openreview.net/forum?id=Pj9vtDIzSCE)]
+55. 📜 **Deformable Image Registration with Geometry-informed Implicit Neural Representations**
+- 📅 Publication Date: *13th Apr., 2023*
+- 📖 Conference: *Medical Imaging with Deep Learning, 2023*
+- 🧑‍🔬 Authors: *Louis van Harten, Rudolf Leonardus Mirjam Van Herten, Jaap Stoker, Ivana Isgum*
+- 📄 [PDF](https://openreview.net/forum?id=Pj9vtDIzSCE)
+- 📌 Highlight: Parameterizes the deformation field by incorporating the geometry encoding of anatomical structures to guide the deformation process.
 
-**Implicit neural representations for joint decomposition and registration of gene expression images in the marmoset brain.** [8th Aug., 2023] [arxiv preprint]<br>
-*Michal Byra, Charissa Poon, Tomomi Shimogori, Henrik Skibbe*<br>
-[[PDF](https://arxiv.org/abs/2308.04039)]
+56. 📜 **Implicit neural representations for joint decomposition and registration of gene expression images in the marmoset brain.**
+- 📅 Publication Date: *8th Aug., 2023*
+- 📖 Preprint: *arXiv*
+- 🧑‍🔬 Authors: *Michal Byra, Charissa Poon, Tomomi Shimogori, Henrik Skibbe*
+- 📄 [PDF](https://arxiv.org/abs/2308.04039)
+- 📌 Highlight: Addresses the registration of brain images with added features or artifacts by emphasizing the decomposition of images into support and residual components.
 
-**INR-LDDMM: Fluid-based Medical Image Registration Integrating Implicit Neural Representation and Large Deformation Diffeomorphic Metric Mapping.** [18th Aug., 2023] [arxiv]<br>
-*Chulong Zhang, Xiaokun Liang.*<br>
-[[PDF](https://arxiv.org/abs/2308.09473)]
+57. 📜 **INR-LDDMM: Fluid-based Medical Image Registration Integrating Implicit Neural Representation and Large Deformation Diffeomorphic Metric Mapping.**
+- 📅 Publication Date: *18th Aug., 2023*
+- 📖 Preprint: *arXiv*
+- 🧑‍🔬 Authors: *Chulong Zhang, Xiaokun Liang*
+- 📄 [PDF](https://arxiv.org/abs/2308.09473)
+- 📌 Highlight: Combines implicit neural representation with Large Deformable Diffeomorphic Metric Mapping (LDDMM) in a coarse-to-fine approach.
+
+### Diffeomorphic Registration
+
+58. 📜 **Medical Image Registration via Neural Fields**
+- 📅 Publication Date: *22th Jun., 2022*
+- 📖 Preprint: *arXiv, 2022*
+- 🧑‍🔬 Authors: *Shanlin Sun, Kun Han, Hao Tang, Deying Kong, Junayed Naushad, Xiangyi Yan, Xiaohui Xie*
+- 📄 [PDF](https://arxiv.org/abs/2206.03111)
+- 📌 Highlight: Introduces a distinction between general deformable registration and diffeomorphic image registration using neural fields.
+
+59. 📜 **Diffeomorphic Image Registration with Neural Velocity Field**
+- 📅 Publication Date: *2023*
+- 📖 Conference: *IEEE/CVF Winter Conference on Applications of Computer Vision, 2023*
+- 🧑‍🔬 Authors: *Kun Han, Shanlin Sun, Xiangyi Yan, Chenyu You, Hao Tang, Junayed Naushad, Haoyu Ma, Deying Kong, Xiaohui Xie*
+- 📄 [PDF](https://arxiv.org/abs/2202.12498)
+- 📌 Highlight: Introduces a cascaded framework for diffeomorphic Image Registration with Neural Velocity Field (DNVF) by modeling the space of transformations.
 
 
 <img src="Figures/Registration.jpg" alt="Registration" width="1016" height="5"><br>
