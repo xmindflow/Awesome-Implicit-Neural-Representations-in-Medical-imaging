@@ -198,44 +198,44 @@ Here, we taxonomize studies that integrate implicit representations into buildin
       - 🧑‍🔬 Authors: Wenqi Huang, Hongwei Li, Jiazhen Pan, Gastao Cruz, Daniel Rueckert, Kerstin Hammernik
       - 📄 [PDF](https://arxiv.org/abs/2212.08479)
 
-20. 📜 **Self-supervised arbitrary scale super-resolution framework for anisotropic MRI**
-     - 🗓️ Publication Date: 2th May. 2023
-     - 🧑‍🔬 Authors: Haonan Zhang, Yuhan Zhang, Qing Wu, Jiangjie Wu, Zhiming Zhen, Feng Shi, Jianmin Yuan, Hongjiang Wei, Chen Liu, Yuyao Zhang
-     - 📄 [PDF](https://arxiv.org/abs/2305.01360)
-
-22. 📜 **Continuous longitudinal fetus brain atlas construction via implicit neural representation**
+20. 📜 **Continuous longitudinal fetus brain atlas construction via implicit neural representation**
      - 🗓️ Publication Date: 14th Sep. 2022
      - 🧑‍🔬 Authors: Lixuan Chen, Jiangjie Wu, Qing Wu, Hongjiang Wei, Yuyao Zhang
      - 📄 [PDF](https://arxiv.org/abs/2209.06413)
 
-23. 📜 **Multi-contrast MRI Super-resolution via Implicit Neural Representations**
+21. 📜 **Multi-contrast MRI Super-resolution via Implicit Neural Representations**
       - 🗓️ Publication Date: 27th Mar. 2023
       - 🧑‍🔬 Authors: Julian McGinnis, Suprosanna Shit, Hongwei Bran Li, Vasiliki Sideri-Lampretsa, Robert Graf, Maik Dannecker, Jiazhen Pan, Nil Stolt Ansö, Mark Mühlau, Jan S. Kirschke, Daniel Rueckert, Benedikt Wiestler
       - 📄 [PDF](https://arxiv.org/abs/2303.15065)
       - 💻 [GitHub](https://github.com/jqmcginnis/multi_contrast_inr)
 
-23. 📜 **Streak artifacts reduction algorithm using an implicit neural representation in sparse-view CT.**
+22. 📜 **Streak artifacts reduction algorithm using an implicit neural representation in sparse-view CT.**
       - 📅 Publication Date: *4th Apr., 2022*
       - 📖 Journal: *Medical Imaging 2022: Physics of Medical Imaging, 2022*
       - 🧑‍🔬 Authors: *Byeongjoon Kim, Hyunjung Shim, Jongduk Baek.*
       - 📄 [PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12031/120312N/Streak-artifacts-reduction-algorithm-using-an-implicit-neural-representation-in/10.1117/12.2610722.short)
    
-24. 📜 **Spatial Attention-based Implicit Neural Representation for Arbitrary Reduction of MRI Slice Spacing**
+23. 📜 **Spatial Attention-based Implicit Neural Representation for Arbitrary Reduction of MRI Slice Spacing**
      - 🗓️ Publication Date: 23rd May. 2022
      - 🧑‍🔬 Authors: Xin Wang, Sheng Wang, Honglin Xiong, Kai Xuan, Zixu Zhuang, Mengjun Liu, Zhenrong Shen, Xiangyu Zhao, Lichi Zhang, Qian Wang
      - 📄 [PDF](https://arxiv.org/abs/2205.11346)
    
-25. 📜 **A scan-specific unsupervised method for parallel MRI reconstruction via implicit neural representation**
+24. 📜 **A scan-specific unsupervised method for parallel MRI reconstruction via implicit neural representation**
      - 🗓️ Publication Date: 19th Oct. 2022
      - 🧑‍🔬 Authors: Ruimin Feng, Qing Wu, Yuyao Zhang, Hongjiang Wei
      - 📄 [PDF](https://arxiv.org/abs/2210.10439)
    
-26. 📜 **Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI**
+25. 📜 **Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI**
      - 🗓️ Publication Date: 5th Jul. 2023
      - 🧑‍🔬 Authors: Jiamiao Zhang, Yichen Chi, Jun Lyu, Wenming Yang, Yapeng Tian
      - 📄 [PDF](https://arxiv.org/abs/2307.02334)
      - 💻 [GitHub](https://github.com/jmzhang79/dual-arbnet)
 
+26. 📜 **Self-supervised arbitrary scale super-resolution framework for anisotropic MRI**
+     - 🗓️ Publication Date: 2th May. 2023
+     - 🧑‍🔬 Authors: Haonan Zhang, Yuhan Zhang, Qing Wu, Jiangjie Wu, Zhiming Zhen, Feng Shi, Jianmin Yuan, Hongjiang Wei, Chen Liu, Yuyao Zhang
+     - 📄 [PDF](https://arxiv.org/abs/2305.01360)
+      
 27. 📜 **Implicit Neural Networks with Fourier-Feature Inputs for Free-breathing Cardiac MRI Reconstruction**
      - 🗓️ Publication Date: 11th May. 2023
      - 🧑‍🔬 Authors: Johannes F. Kunz, Stefan Ruschke, Reinhard Heckel
