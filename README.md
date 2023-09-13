@@ -45,7 +45,7 @@ We considered a sum of <ins>**75**</ins> research papers spanning from 2021 to 2
 ---
 # Main papers
 <img src="Figures/Taxonomy.png" alt="Taxonomy" width="816">
-Here, we taxonomize studies that integrate implicit representations into building medical analysis models (Each section is ordered by their publication data).<br>
+Here, we taxonomize studies that integrate implicit representations into building medical analysis models.<br>
 
 - [Image Reconstruction](#image-reconstruction)
   - [Tomography and CT](#tomography-and-ct)
@@ -61,7 +61,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 
 
-
+(Each section is ordered by their publication data)
 <img src="Figures/Reconstruction.jpg" alt="reconstruction" width="1000" height="5"><br>
 
 ## Image Reconstruction
