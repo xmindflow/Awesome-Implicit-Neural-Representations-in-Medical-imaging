@@ -69,7 +69,6 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 ---
 
 ### Tomography and CT
-<br>
 
 1. 📜 **IntraTomo: Self-supervised Learning-based Tomography via Sinogram Synthesis and Prediction**
    - 🗓️ Publication Date: 9th Feb. 2021
@@ -154,7 +153,6 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 ---
 ### MRI
-<br>
 
 13. 📜 **An Arbitrary Scale Super-Resolution Approach for 3-Dimensional Magnetic Resonance Image using Implicit Neural Representation**
      - 🗓️ Publication Date: 29th Oct. 2021
@@ -223,29 +221,29 @@ Here, we taxonomize studies that integrate implicit representations into buildin
       - 📄 [PDF](https://arxiv.org/abs/2309.03320)
       - 💻 [GitHub](https://github.com/cyjdswx/cones)
    
-25. **Spatial Attention-based Implicit Neural Representation for Arbitrary Reduction of MRI Slice Spacing**
+25. 📜 **Spatial Attention-based Implicit Neural Representation for Arbitrary Reduction of MRI Slice Spacing**
      - 🗓️ Publication Date: 23rd May. 2022
      - 🧑‍🔬 Authors: Xin Wang, Sheng Wang, Honglin Xiong, Kai Xuan, Zixu Zhuang, Mengjun Liu, Zhenrong Shen, Xiangyu Zhao, Lichi Zhang, Qian Wang
      - 📄 [PDF](https://arxiv.org/abs/2205.11346)
    
-26. **A scan-specific unsupervised method for parallel MRI reconstruction via implicit neural representation**
+26. 📜 **A scan-specific unsupervised method for parallel MRI reconstruction via implicit neural representation**
      - 🗓️ Publication Date: 19th Oct. 2022
      - 🧑‍🔬 Authors: Ruimin Feng, Qing Wu, Yuyao Zhang, Hongjiang Wei
      - 📄 [PDF](https://arxiv.org/abs/2210.10439)
    
-27. **Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI**
+27. 📜 **Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI**
      - 🗓️ Publication Date: 5th Jul. 2023
      - 🧑‍🔬 Authors: Jiamiao Zhang, Yichen Chi, Jun Lyu, Wenming Yang, Yapeng Tian
      - 📄 [PDF](https://arxiv.org/abs/2307.02334)
      - 💻 [GitHub](https://github.com/jmzhang79/dual-arbnet)
 
-28. **Implicit Neural Networks with Fourier-Feature Inputs for Free-breathing Cardiac MRI Reconstruction**
+28. 📜 **Implicit Neural Networks with Fourier-Feature Inputs for Free-breathing Cardiac MRI Reconstruction**
      - 🗓️ Publication Date: 11th May. 2023
      - 🧑‍🔬 Authors: Johannes F. Kunz, Stefan Ruschke, Reinhard Heckel
      - 📄 [PDF](https://arxiv.org/abs/2305.06822)
      - 💻 [GitHub](https://github.com/mli-lab/cinemri)
 
-29. **Implicit neural representations for unsupervised super-resolution and denoising of 4D flow MRI**
+29. 📜 **Implicit neural representations for unsupervised super-resolution and denoising of 4D flow MRI**
      - 🗓️ Publication Date: 24th Feb. 2023
      - 🧑‍🔬 Authors: Simone Saitta, Marcello Carioni, Subhadip Mukherjee, Carola-Bibiane Schönlieb, Alberto Redaelli
      - 📄 [PDF](https://arxiv.org/abs/2302.12835)
@@ -260,7 +258,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 📄 [PDF](https://arxiv.org/abs/2108.10991)
     - 💻 [Github](https://github.com/liyues/nerp)
    
-31. **CuNeRF: Cube-Based Neural Radiance Field for Zero-Shot Medical Image Arbitrary-Scale Super Resolution**
+31. 📜 **CuNeRF: Cube-Based Neural Radiance Field for Zero-Shot Medical Image Arbitrary-Scale Super Resolution**
      - 🗓️ Publication Date: 28th Mar. 2023
      - 🧑‍🔬 Authors: Zixuan Chen, Jianhuang Lai, Lingxiao Yang, Xiaohua Xie
      - 📄 [PDF](https://arxiv.org/abs/2303.16242)
@@ -296,8 +294,6 @@ Here, we taxonomize studies that integrate implicit representations into buildin
      - 🧑‍🔬 Authors: *Yiqun Lin, Zhongjin Luo, Wei Zhao, Xiaomeng Li.*
      - 📄 [PDF](https://arxiv.org/abs/2303.06681)
      - 🖥️ [GitHub](https://github.com/xmed-lab/dif-net)
-
-
 
 36. 📜 **Topology-Preserving Shape Reconstruction and Registration via Neural Diffeomorphic Flow.** 
      - 📅 Publication Date: *16th Mar., 2022*
