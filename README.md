@@ -61,7 +61,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 
 
-(Each section is ordered by their publication data)
+(Each section is ordered by the publication dates)
 <img src="Figures/Reconstruction.jpg" alt="reconstruction" width="1000" height="5"><br>
 
 ## Image Reconstruction
