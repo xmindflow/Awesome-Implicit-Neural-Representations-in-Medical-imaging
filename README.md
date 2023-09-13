@@ -58,7 +58,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
   - [Cardiac and Heart Structures](#cardiac-and-heart-structures)
   - [Retinal Blood Vessels](#retinal-blood-vessels)
   - [3D Anatomical Structures](#3d-anatomical-structures)
-  - [Boundary and High-Frequency Region Refinement](#boundary-and high-frequency-region-refinement)
+  - [Boundary and HighFrequency Region Refinement](#boundary-and highfrequency-region-refinement)
   - [Patch Level Segmentation](#patch-level-segmentation)
 - [Image Registration](#image-registration)
 - [Neural Rendering](#neural-rendering)
@@ -374,6 +374,8 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 - 📄 [PDF](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.26311)
 - 📌 Highlight: Focuses on delineating the pedunculopontine nucleus (PPN).
 
+---
+
 ### Cardiac and Heart Structures
 47. 📜 **Binary segmentation of medical images using implicit spline representations and deep learning**
 - 📅 Publication Date: *19th Mar., 2021*
@@ -381,6 +383,8 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 - 🧑‍🔬 Authors: *Oliver J.D. Barrowclough, Georg Muntingh, Varatharajan Nainamalai, Ivar Stangeby*
 - 📄 [PDF](https://arxiv.org/abs/2102.12759)
 - 📌 Highlight: Tackles image segmentation for a congenital heart disease computed tomography medical imaging dataset.
+
+---
 
 ### Retinal Blood Vessels:
 
@@ -390,6 +394,9 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 - 🧑‍🔬 Authors: *Jia Gu, Fangzheng Tian & Il-Seok Oh*
 - 📄 [PDF](https://link.springer.com/article/10.1007/s10489-022-04252-2)
 - 📌 Highlight: Concentrates on segmenting retinal blood vessels from retinal images.
+
+---
+
 ### 3D Anatomical Structures:
 
 49. 📜 **Deep Implicit Statistical Shape Models for 3D Medical Image Delineation**
@@ -406,7 +413,9 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 - 🧑‍🔬 Authors: *Muhammad Osama Khan & Yi Fang*
 - 📄 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_42)
 - 📌 Highlight: Specifically mentions 3D signals in medical imaging, hinting at 3D anatomical structures.
-- 
+
+---
+
 ### Boundary and High-Frequency Region Refinement:
 
 51. 📜 **Implicit Anatomical Rendering for Medical Image Segmentation with Stochastic Experts**
@@ -416,7 +425,8 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 - 📄 [PDF](https://arxiv.org/abs/2304.03209)
 - 🖥️ [GitHub](https://github.com/charlesyou999648/morse)
 - 📌 Highlight: Introduces the MORSE framework, which emphasizes refining the boundary regions of segmented medical images.
-- 
+
+---
 ### Patch Level Segmentation:
 
 52. 📜 **SwIPE: Efficient and Robust Medical Image Segmentation with Implicit Patch Embeddings**
