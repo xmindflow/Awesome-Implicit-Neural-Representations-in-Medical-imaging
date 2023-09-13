@@ -69,6 +69,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 ---
 
 ### Tomography and CT
+<br>
 
 1. 📜 **IntraTomo: Self-supervised Learning-based Tomography via Sinogram Synthesis and Prediction**
    - 🗓️ Publication Date: 9th Feb. 2021
@@ -89,72 +90,71 @@ Here, we taxonomize studies that integrate implicit representations into buildin
    - 🧑‍🔬 Authors: Albert W. Reed, Hyojin Kim, Rushil Anirudh, K. Aditya Mohan, Kyle Champley, Jingu Kang, Suren Jayasuriya
    - 📄 [Download PDF](https://arxiv.org/abs/2104.11745)
 
-4. 📜 **Streak artifacts reduction algorithm using an implicit neural representation in sparse-view CT**
+4. 📜 **Neural Computed Tomography**
+   - 🗓️ Publication Date: 17th Jan. 2022
+   - 📖 Preprint: arXiv, 2022
+   - 🧑‍🔬 Authors: Kunal Gupta, Brendan Colvert, Francisco Contijoch
+   - 📄 [Download PDF](https://arxiv.org/abs/2201.06574)
+   - 💻 [GitHub](https://github.com/KunalMGupta/DIFIR-CT)
+
+5. 📜 **Streak artifacts reduction algorithm using an implicit neural representation in sparse-view CT**
    - 🗓️ Publication Date: 4th Apr. 2022
    - 📖 Conference: Medical Imaging 2022: Physics of Medical Imaging, 2022
    - 🧑‍🔬 Authors: Byeongjoon Kim, Hyunjung Shim, Jongduk Baek
    - 📄 [Download PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12031/120312N/Streak-artifacts-reduction-algorithm-using-an-implicit-neural-representation-in/10.1117/12.2610722.short)
 
-5. 📜 **Dynamic Cone-beam CT Reconstruction using Spatial and Temporal Implicit Neural Representation Learning (STINR)**
-   - 🗓️ Publication Date: Sep. 2022
-   - 📖 Journal: Physics in Medicine and Biology, 2023
-   - 🧑‍🔬 Authors: You Zhang, Hua-Chieh Shao, Tinsu Pan, Tielige Mengke
-   - 📄 [Download PDF](https://pubmed.ncbi.nlm.nih.gov/36638543/)
-
-6. 📜 **A Memory-Efficient Dynamic Image Reconstruction Method using Neural Fields**
-   - 🗓️ Publication Date: 11th May 2022
-   - 📖 Preprint: arXiv, 2022
-   - 🧑‍🔬 Authors: Luke Lozenski, Mark A. Anastasio, Umberto Villa
-   - 📄 [Download PDF](https://arxiv.org/abs/2205.05585?context=eess)
-
-7. 📜 **Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**
-   - 🗓️ Publication Date: 27th Jun. 2023
-   - 📖 Preprint: arXiv
-   - 🧑‍🔬 Authors: Qing Wu, Lixuan Chen, Ce Wang, Hongjiang Wei, S. Kevin Zhou, Jingyi Yu, Yuyao Zhang
-   - 📄 [Download PDF](https://arxiv.org/abs/2306.15203)
-
-8. 📜 **Self-Supervised Coordinate Projection Network for Sparse-View Computed Tomography**
+6. 📜 **Self-Supervised Coordinate Projection Network for Sparse-View Computed Tomography**
    - 🗓️ Publication Date: 12th Sep. 2022
    - 📖 Journal: IEEE Transactions on Computational Imaging, 2023
    - 🧑‍🔬 Authors: Qing Wu, Ruimin Feng, Hongjiang Wei, Jingyi Yu, Yuyao Zhang
    - 📄 [Download PDF](https://ieeexplore.ieee.org/document/10143286)
    - 💻 [GitHub](https://github.com/iwuqing/SCOPE)
 
-9. 📜 **OReX: Object Reconstruction from Planar Cross-sections Using Neural Fields**
+7. 📜 **OReX: Object Reconstruction from Planar Cross-sections Using Neural Fields**
    - 🗓️ Publication Date: 23th Nov. 2022
    - 📖 Conference: CVPR, 2023
    - 🧑‍🔬 Authors: Haim Sawdayee, Amir Vaxman, Amit H. Bermano
    - 📄 [Download PDF](https://arxiv.org/abs/2211.12886)
    - 💻 [GitHub](https://github.com/haimsaw/OReX)
 
-10. 📜 **Neural Computed Tomography**
-    - 🗓️ Publication Date: 17th Jan. 2022
-    - 📖 Preprint: arXiv, 2022
-    - 🧑‍🔬 Authors: Kunal Gupta, Brendan Colvert, Francisco Contijoch
-    - 📄 [Download PDF](https://arxiv.org/abs/2201.06574)
-    - 💻 [GitHub](https://github.com/KunalMGupta/DIFIR-CT)
+8. 📜 **NeuRec: Incorporating Interpatient prior to Sparse-View Image Reconstruction for Neurorehabilitation**
+   - 🗓️ Publication Date: 21th Feb. 2022
+   - 📖 Journal: BioMed Research International, 2022
+   - 🧑‍🔬 Authors: Cong Liu, Qingbin Wang, Jing Zhang
+   - 📄 [Download PDF](https://www.hindawi.com/journals/bmri/2022/5426643/)
 
-11. 📜 **NeuRec: Incorporating Interpatient prior to Sparse-View Image Reconstruction for Neurorehabilitation**
-    - 🗓️ Publication Date: 21th Feb. 2022
-    - 📖 Journal: BioMed Research International, 2022
-    - 🧑‍🔬 Authors: Cong Liu, Qingbin Wang, Jing Zhang
-    - 📄 [Download PDF](https://www.hindawi.com/journals/bmri/2022/5426643/)
-    
+9. 📜 **MEPNet: A Model-Driven Equivariant Proximal Network for Joint Sparse-View Reconstruction and Metal Artifact Reduction in CT Images.**
+   - 🗓️ Publication Date: 25th Jun. 2023
+   - 📖 Preprint: arXiv
+   - 🧑‍🔬 Authors: Hong Wang, Minghao Zhou, Dong Wei, Yuexiang Li, Yefeng Zheng
+   - 📄 [PDF](https://ui.adsabs.harvard.edu/abs/2023arXiv230614274W/abstract)
+   - 🖥️ [GitHub](https://github.com/hongwang01/mepnet)
+
+10. 📜 **UncertaINR: Uncertainty Quantification of End-to-End Implicit Neural Representations for Computed Tomography**
+    - 🗓️ Publication Date: 3rd Jun. 2022
+    - 📖 Authors: Francisca Vasconcelos, Bobby He, Nalini Singh, Yee Whye Teh
+    - 📄 [PDF](https://arxiv.org/abs/2202.10847)
+    - 💻 [GitHub](https://github.com/bobby-he/uncertainr)
+
+11. 📜 **Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**
+    - 🗓️ Publication Date: 27th Jun. 2023
+    - 📖 Preprint: arXiv
+    - 🧑‍🔬 Authors: Qing Wu, Lixuan Chen, Ce Wang, Hongjiang Wei, S. Kevin Zhou, Jingyi Yu, Yuyao Zhang
+    - 📄 [Download PDF](https://arxiv.org/abs/2306.15203)
+
 12. 📜 **NAISR: A 3D Neural Additive Model for Interpretable Shape Representation**
     - 🗓️ Publication Date: 16th Mar. 2023
     - 📖 Preprint: arXiv
-    - 🧑‍🔬 Authors: Yining Jiao, Carlton Zdanski, Julia Kimbell, Andrew Prince, Cameron Worden, Samuel Kirse, Christopher Rutter, Benjamin Shields, William Dunn, Jisan Mahmud, Marc Niethammer
+    - 🧑‍🔬 Authors: Yining Jiao, Carlton Zdanski, Julia Kimbell, Andrew Prince, Cameron Worden, Samuel Kirse, Christopher Rutter, Benjamin Shields, William Dunn
     - 📄 [Download PDF](https://arxiv.org/abs/2303.09234)
     - 💻 [GitHub](https://github.com/uncbiag/naisr)
+   
 
-13. 📜 **ImTooth: Neural Implicit Tooth for Dental Augmented Reality**
-    - 🗓️ Publication Date: 23rd Feb. 2023
-    - 📖 Journal: IEEE Transactions on Visualization and Computer Graphics, 2023
-    - 🧑‍🔬 Authors: Hai Li, Hongjia Zhai, Xingrui Yang, Zhirong Wu, Jianchao Wu, Hujun Bao, Yihao Zheng, Haofan Wang, Guofeng Zhang
-    - 📄 [Download PDF](https://ieeexplore.ieee.org/document/10051634)
+<br>
 
 ---
 ### MRI
+<br>
 
 14. 📜 **An Arbitrary Scale Super-Resolution Approach for 3-Dimensional Magnetic Resonance Image using Implicit Neural Representation**
      - 🗓️ Publication Date: 29th Oct. 2021
@@ -222,6 +222,33 @@ Here, we taxonomize studies that integrate implicit representations into buildin
       - 🧑‍🔬 Authors: *Yunjie Chen, Marius Staring, Olaf M. Neve, Stephan R. Romeijn, Erik F. Hensen, Berit M. Verbist, Jelmer M. Wolterink, Qian Tao.*
       - 📄 [PDF](https://arxiv.org/abs/2309.03320)
       - 💻 [GitHub](https://github.com/cyjdswx/cones)
+   
+26. **Spatial Attention-based Implicit Neural Representation for Arbitrary Reduction of MRI Slice Spacing**
+     - 🗓️ Publication Date: 23rd May. 2022
+     - 🧑‍🔬 Authors: Xin Wang, Sheng Wang, Honglin Xiong, Kai Xuan, Zixu Zhuang, Mengjun Liu, Zhenrong Shen, Xiangyu Zhao, Lichi Zhang, Qian Wang
+     - 📄 [PDF](https://arxiv.org/abs/2205.11346)
+   
+27. **A scan-specific unsupervised method for parallel MRI reconstruction via implicit neural representation**
+     - 🗓️ Publication Date: 19th Oct. 2022
+     - 🧑‍🔬 Authors: Ruimin Feng, Qing Wu, Yuyao Zhang, Hongjiang Wei
+     - 📄 [PDF](https://arxiv.org/abs/2210.10439)
+   
+44. **Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI**
+     - 🗓️ Publication Date: 5th Jul. 2023
+     - 🧑‍🔬 Authors: Jiamiao Zhang, Yichen Chi, Jun Lyu, Wenming Yang, Yapeng Tian
+     - 📄 [PDF](https://arxiv.org/abs/2307.02334)
+     - 💻 [GitHub](https://github.com/jmzhang79/dual-arbnet)
+
+45. **Implicit Neural Networks with Fourier-Feature Inputs for Free-breathing Cardiac MRI Reconstruction**
+     - 🗓️ Publication Date: 11th May. 2023
+     - 🧑‍🔬 Authors: Johannes F. Kunz, Stefan Ruschke, Reinhard Heckel
+     - 📄 [PDF](https://arxiv.org/abs/2305.06822)
+     - 💻 [GitHub](https://github.com/mli-lab/cinemri)
+
+46. **Implicit neural representations for unsupervised super-resolution and denoising of 4D flow MRI**
+     - 🗓️ Publication Date: 24th Feb. 2023
+     - 🧑‍🔬 Authors: Simone Saitta, Marcello Carioni, Subhadip Mukherjee, Carola-Bibiane Schönlieb, Alberto Redaelli
+     - 📄 [PDF](https://arxiv.org/abs/2302.12835)
 
 ---
 ### CT and MRI
@@ -232,6 +259,11 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 🧑‍🔬 Authors: *Liyue Shen, John Pauly, Lei Xing.*
     - 📄 [PDF](https://arxiv.org/abs/2108.10991)
     - 💻 [Github](https://github.com/liyues/nerp)
+   
+42. **CuNeRF: Cube-Based Neural Radiance Field for Zero-Shot Medical Image Arbitrary-Scale Super Resolution**
+     - 🗓️ Publication Date: 28th Mar. 2023
+     - 🧑‍🔬 Authors: Zixuan Chen, Jianhuang Lai, Lingxiao Yang, Xiaohua Xie
+     - 📄 [PDF](https://arxiv.org/abs/2303.16242)
 
 ---
 ### Ultrasound
@@ -265,12 +297,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
      - 📄 [PDF](https://arxiv.org/abs/2303.06681)
      - 🖥️ [GitHub](https://github.com/xmed-lab/dif-net)
 
-30. 📜 **MEPNet: A Model-Driven Equivariant Proximal Network for Joint Sparse-View Reconstruction and Metal Artifact Reduction in CT Images.** 
-     - 📅 Publication Date: *25th Jun., 2023*
-     - 📖 Preprint: *arXiv*
-     - 🧑‍🔬 Authors: *Hong Wang, Minghao Zhou, Dong Wei, Yuexiang Li, Yefeng Zheng.*
-     - 📄 [PDF](https://ui.adsabs.harvard.edu/abs/2023arXiv230614274W/abstract)
-     - 🖥️ [GitHub](https://github.com/hongwang01/mepnet)
+
 
 31. 📜 **Topology-Preserving Shape Reconstruction and Registration via Neural Diffeomorphic Flow.** 
      - 📅 Publication Date: *16th Mar., 2022*
@@ -293,26 +320,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
      - 🧑‍🔬 Authors: Dieuwertje Alblas, Christoph Brune, Kak Khee Yeung, Jelmer M. Wolterink
      - 📄 [PDF](https://arxiv.org/abs/2207.14663)
 
-34. **Joint Rigid Motion Correction and Sparse-View CT via Self-Calibrating Neural Field**
-     - 🗓️ Publication Date: 23rd Oct. 2022
-     - 🧑‍🔬 Authors: Qing Wu, Xin Li, Hongjiang Wei, Jingyi Yu, Yuyao Zhang
-     - 📄 [PDF](https://arxiv.org/abs/2210.12731)
 
-35. **Representing 3D Ultrasound with Neural Fields**
-     - 🗓️ Publication Date: 21st Apr. 2022
-     - 🧑‍🔬 Authors: Ang Nan Gu, Purang Abolmaesumi, Christina Luong, Kwang Moo Yi
-     - 📄 [PDF](https://openreview.net/forum?id=1EDRk-CyQou)
-
-36. **UncertaINR: Uncertainty Quantification of End-to-End Implicit Neural Representations for Computed Tomography**
-     - 🗓️ Publication Date: 3rd Jun. 2022
-     - 🧑‍🔬 Authors: Francisca Vasconcelos, Bobby He, Nalini Singh, Yee Whye Teh
-     - 📄 [PDF](https://arxiv.org/abs/2202.10847)
-     - 💻 [GitHub](https://github.com/bobby-he/uncertainr)
-
-37. **Spatial Attention-based Implicit Neural Representation for Arbitrary Reduction of MRI Slice Spacing**
-     - 🗓️ Publication Date: 23rd May. 2022
-     - 🧑‍🔬 Authors: Xin Wang, Sheng Wang, Honglin Xiong, Kai Xuan, Zixu Zhuang, Mengjun Liu, Zhenrong Shen, Xiangyu Zhao, Lichi Zhang, Qian Wang
-     - 📄 [PDF](https://arxiv.org/abs/2205.11346)
 
 38. **Implicitatlas: learning deformable shape templates in medical imaging**
      - 🗓️ Publication Date: CVPR, 2022
@@ -329,37 +337,16 @@ Here, we taxonomize studies that integrate implicit representations into buildin
      - 🧑‍🔬 Authors: Armin Sheibanifard, Hongchuan Yu
      - 📄 [PDF](https://www.mdpi.com/2076-3417/13/5/3242)
 
-41. **A scan-specific unsupervised method for parallel MRI reconstruction via implicit neural representation**
-     - 🗓️ Publication Date: 19th Oct. 2022
-     - 🧑‍🔬 Authors: Ruimin Feng, Qing Wu, Yuyao Zhang, Hongjiang Wei
-     - 📄 [PDF](https://arxiv.org/abs/2210.10439)
 
-42. **CuNeRF: Cube-Based Neural Radiance Field for Zero-Shot Medical Image Arbitrary-Scale Super Resolution**
-     - 🗓️ Publication Date: 28th Mar. 2023
-     - 🧑‍🔬 Authors: Zixuan Chen, Jianhuang Lai, Lingxiao Yang, Xiaohua Xie
-     - 📄 [PDF](https://arxiv.org/abs/2303.16242)
+
+
 
 43. **Hybrid Neural Diffeomorphic Flow for Shape Representation and Generation via Triplane**
      - 🗓️ Publication Date: 4th Jul. 2023
      - 🧑‍🔬 Authors: Kun Han, Shanlin Sun, Xiaohui Xie
      - 📄 [PDF](https://arxiv.org/abs/2307.01957)
 
-44. **Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI**
-     - 🗓️ Publication Date: 5th Jul. 2023
-     - 🧑‍🔬 Authors: Jiamiao Zhang, Yichen Chi, Jun Lyu, Wenming Yang, Yapeng Tian
-     - 📄 [PDF](https://arxiv.org/abs/2307.02334)
-     - 💻 [GitHub](https://github.com/jmzhang79/dual-arbnet)
 
-45. **Implicit Neural Networks with Fourier-Feature Inputs for Free-breathing Cardiac MRI Reconstruction**
-     - 🗓️ Publication Date: 11th May. 2023
-     - 🧑‍🔬 Authors: Johannes F. Kunz, Stefan Ruschke, Reinhard Heckel
-     - 📄 [PDF](https://arxiv.org/abs/2305.06822)
-     - 💻 [GitHub](https://github.com/mli-lab/cinemri)
-
-46. **Implicit neural representations for unsupervised super-resolution and denoising of 4D flow MRI**
-     - 🗓️ Publication Date: 24th Feb. 2023
-     - 🧑‍🔬 Authors: Simone Saitta, Marcello Carioni, Subhadip Mukherjee, Carola-Bibiane Schönlieb, Alberto Redaelli
-     - 📄 [PDF](https://arxiv.org/abs/2302.12835)
 
 47. **Hybrid-CSR: Coupling Explicit and Implicit Shape Representation for Cortical Surface Reconstruction**
      - 🗓️ Publication Date: 23rd Jul. 2023
