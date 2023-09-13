@@ -213,40 +213,40 @@ Here, we taxonomize studies that integrate implicit representations into buildin
       - 📖 Journal: *Medical Imaging 2022: Physics of Medical Imaging, 2022*
       - 🧑‍🔬 Authors: *Byeongjoon Kim, Hyunjung Shim, Jongduk Baek.*
       - 📄 [PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12031/120312N/Streak-artifacts-reduction-algorithm-using-an-implicit-neural-representation-in/10.1117/12.2610722.short)
-
-24. 📜 **CoNeS: Conditional neural fields with shift modulation for multi-sequence MRI translation.**
-      - 📅 Publication Date: *4th Apr., 2022*
-      - 📖 Preprint: *arxiv*
-      - 🧑‍🔬 Authors: *Yunjie Chen, Marius Staring, Olaf M. Neve, Stephan R. Romeijn, Erik F. Hensen, Berit M. Verbist, Jelmer M. Wolterink, Qian Tao.*
-      - 📄 [PDF](https://arxiv.org/abs/2309.03320)
-      - 💻 [GitHub](https://github.com/cyjdswx/cones)
    
-25. 📜 **Spatial Attention-based Implicit Neural Representation for Arbitrary Reduction of MRI Slice Spacing**
+24. 📜 **Spatial Attention-based Implicit Neural Representation for Arbitrary Reduction of MRI Slice Spacing**
      - 🗓️ Publication Date: 23rd May. 2022
      - 🧑‍🔬 Authors: Xin Wang, Sheng Wang, Honglin Xiong, Kai Xuan, Zixu Zhuang, Mengjun Liu, Zhenrong Shen, Xiangyu Zhao, Lichi Zhang, Qian Wang
      - 📄 [PDF](https://arxiv.org/abs/2205.11346)
    
-26. 📜 **A scan-specific unsupervised method for parallel MRI reconstruction via implicit neural representation**
+25. 📜 **A scan-specific unsupervised method for parallel MRI reconstruction via implicit neural representation**
      - 🗓️ Publication Date: 19th Oct. 2022
      - 🧑‍🔬 Authors: Ruimin Feng, Qing Wu, Yuyao Zhang, Hongjiang Wei
      - 📄 [PDF](https://arxiv.org/abs/2210.10439)
    
-27. 📜 **Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI**
+26. 📜 **Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI**
      - 🗓️ Publication Date: 5th Jul. 2023
      - 🧑‍🔬 Authors: Jiamiao Zhang, Yichen Chi, Jun Lyu, Wenming Yang, Yapeng Tian
      - 📄 [PDF](https://arxiv.org/abs/2307.02334)
      - 💻 [GitHub](https://github.com/jmzhang79/dual-arbnet)
 
-28. 📜 **Implicit Neural Networks with Fourier-Feature Inputs for Free-breathing Cardiac MRI Reconstruction**
+27. 📜 **Implicit Neural Networks with Fourier-Feature Inputs for Free-breathing Cardiac MRI Reconstruction**
      - 🗓️ Publication Date: 11th May. 2023
      - 🧑‍🔬 Authors: Johannes F. Kunz, Stefan Ruschke, Reinhard Heckel
      - 📄 [PDF](https://arxiv.org/abs/2305.06822)
      - 💻 [GitHub](https://github.com/mli-lab/cinemri)
 
-29. 📜 **Implicit neural representations for unsupervised super-resolution and denoising of 4D flow MRI**
+28. 📜 **Implicit neural representations for unsupervised super-resolution and denoising of 4D flow MRI**
      - 🗓️ Publication Date: 24th Feb. 2023
      - 🧑‍🔬 Authors: Simone Saitta, Marcello Carioni, Subhadip Mukherjee, Carola-Bibiane Schönlieb, Alberto Redaelli
      - 📄 [PDF](https://arxiv.org/abs/2302.12835)
+   
+29. 📜 **CoNeS: Conditional neural fields with shift modulation for multi-sequence MRI translation.**
+      - 📅 Publication Date: *6th Sep., 2023*
+      - 📖 Preprint: *arxiv*
+      - 🧑‍🔬 Authors: *Yunjie Chen, Marius Staring, Olaf M. Neve, Stephan R. Romeijn, Erik F. Hensen, Berit M. Verbist, Jelmer M. Wolterink, Qian Tao.*
+      - 📄 [PDF](https://arxiv.org/abs/2309.03320)
+      - 💻 [GitHub](https://github.com/cyjdswx/cones)
 
 ---
 ### CT and MRI
@@ -272,42 +272,42 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 🧑‍🔬 Authors: *Pak-Hei Yeung, Linde Hesse, Moska Aliasi, Monique Haak, the INTERGROWTH-21st Consortium, Weidi Xie, Ana I.L. Namburete*
     - 📄 [PDF](https://arxiv.org/abs/2109.12108)
 
-33. 📜 **Going Off-Grid: Continuous Implicit Neural Representations for 3D Vascular Modeling**
-    - 🗓️ Publication Date: *16th Sep. 2022*
-    - 📖 Preprint: arXiv
-    - 🧑‍🔬 Authors: *Dieuwertje Alblas, Christoph Brune, Kak Khee Yeung, Jelmer M. Wolterink*
-    - 📄 [PDF](https://arxiv.org/abs/2207.14663)
 
-
-34. 📜 **Representing 3D Ultrasound with Neural Fields**
+33. 📜 **Representing 3D Ultrasound with Neural Fields**
     - 🗓️ Publication Date: *21st Apr. 2022*
     - 📖 Conference: *Medical Imaging with Deep Learning, 2022*
     - 🧑‍🔬 Authors: *Ang Nan Gu, Purang Abolmaesumi, Christina Luong, Kwang Moo Yi*
     - 📄 [PDF](https://openreview.net/forum?id=1EDRk-CyQou)
 
+34. 📜 **Going Off-Grid: Continuous Implicit Neural Representations for 3D Vascular Modeling**
+    - 🗓️ Publication Date: *16th Sep. 2022*
+    - 📖 Preprint: arXiv
+    - 🧑‍🔬 Authors: *Dieuwertje Alblas, Christoph Brune, Kak Khee Yeung, Jelmer M. Wolterink*
+    - 📄 [PDF](https://arxiv.org/abs/2207.14663)
+      
   ---
 ### Dental and Maxillofacial
 
-35. 📜 **Learning Deep Intensity Field for Extremely Sparse-View CBCT Reconstruction.** 
-     - 📅 Publication Date: *12th Mar., 2023*
-     - 📖 Preprint: *arXiv*
-     - 🧑‍🔬 Authors: *Yiqun Lin, Zhongjin Luo, Wei Zhao, Xiaomeng Li.*
-     - 📄 [PDF](https://arxiv.org/abs/2303.06681)
-     - 🖥️ [GitHub](https://github.com/xmed-lab/dif-net)
-
-36. 📜 **Topology-Preserving Shape Reconstruction and Registration via Neural Diffeomorphic Flow.** 
+35. 📜 **Topology-Preserving Shape Reconstruction and Registration via Neural Diffeomorphic Flow.** 
      - 📅 Publication Date: *16th Mar., 2022*
      - 📖 Conference: *Proceedings of the IEEE/CVF Conference on CVPR*
      - 🧑‍🔬 Authors: *Shanlin Sun, Kun Han, Deying Kong, Hao Tang, Xiangyi Yan, Xiaohui Xie.*
      - 📄 [PDF](https://arxiv.org/abs/2203.08652)
      - 🖥️ [GitHub](https://github.com/Siwensun/Neural_Diffeomorphic_Flow--NDF)
 
-37. 📜 **Dynamic Cone-beam CT Reconstruction using Spatial and Temporal Implicit Neural Representation Learning (STINR).**
+36. 📜 **Dynamic Cone-beam CT Reconstruction using Spatial and Temporal Implicit Neural Representation Learning (STINR).**
     - 📅 Publication Date: *Sep., 2022*
     - 📖 Journal: *Physics in Medicine and Biology, 2023*
     - 🧑‍🔬 Authors: *You Zhang, Hua-Chieh Shao, Tinsu Pan, Tielige Mengke.*
     - 📄 [PDF](https://pubmed.ncbi.nlm.nih.gov/36638543/)
 
+37. 📜 **Learning Deep Intensity Field for Extremely Sparse-View CBCT Reconstruction.** 
+     - 📅 Publication Date: *12th Mar., 2023*
+     - 📖 Preprint: *arXiv*
+     - 🧑‍🔬 Authors: *Yiqun Lin, Zhongjin Luo, Wei Zhao, Xiaomeng Li.*
+     - 📄 [PDF](https://arxiv.org/abs/2303.06681)
+     - 🖥️ [GitHub](https://github.com/xmed-lab/dif-net)
+    
 --- 
 ### General and Miscellaneous
 
@@ -315,8 +315,6 @@ Here, we taxonomize studies that integrate implicit representations into buildin
      - 🗓️ Publication Date: 16th Sep. 2022
      - 🧑‍🔬 Authors: Dieuwertje Alblas, Christoph Brune, Kak Khee Yeung, Jelmer M. Wolterink
      - 📄 [PDF](https://arxiv.org/abs/2207.14663)
-
-
 
 39. 📜 **Implicitatlas: learning deformable shape templates in medical imaging**
      - 🗓️ Publication Date: CVPR, 2022
