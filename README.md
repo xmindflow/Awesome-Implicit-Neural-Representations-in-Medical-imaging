@@ -311,34 +311,34 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 --- 
 ### General and Miscellaneous
 
-38. **Going Off-Grid: Continuous Implicit Neural Representations for 3D Vascular Modeling**
+38. 📜 **Going Off-Grid: Continuous Implicit Neural Representations for 3D Vascular Modeling**
      - 🗓️ Publication Date: 16th Sep. 2022
      - 🧑‍🔬 Authors: Dieuwertje Alblas, Christoph Brune, Kak Khee Yeung, Jelmer M. Wolterink
      - 📄 [PDF](https://arxiv.org/abs/2207.14663)
 
 
 
-39. **Implicitatlas: learning deformable shape templates in medical imaging**
+39. 📜 **Implicitatlas: learning deformable shape templates in medical imaging**
      - 🗓️ Publication Date: CVPR, 2022
      - 🧑‍🔬 Authors: Jiancheng Yang, Udaranga Wickramasinghe, Bingbing Ni, Pascal Fua
      - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_ImplicitAtlas_Learning_Deformable_Shape_Templates_in_Medical_Imaging_CVPR_2022_paper.html)
 
-40. **MiShape: 3D Shape Modelling of Mitochondria in Microscopy**
+40. 📜 **MiShape: 3D Shape Modelling of Mitochondria in Microscopy**
      - 🗓️ Publication Date: 2nd Mar. 2023
      - 🧑‍🔬 Authors: Abhinanda R. Punnakkal, Suyog S Jadhav, Alexander Horsch, Krishna Agarwal, Dilip K. Prasad
      - 📄 [PDF](https://arxiv.org/abs/2303.01546)
 
-41. **A Novel Implicit Neural Representation for Volume Data**
+41. 📜 **A Novel Implicit Neural Representation for Volume Data**
      - 🗓️ Publication Date: 27th Feb. 2023
      - 🧑‍🔬 Authors: Armin Sheibanifard, Hongchuan Yu
      - 📄 [PDF](https://www.mdpi.com/2076-3417/13/5/3242)
 
-42. **Hybrid Neural Diffeomorphic Flow for Shape Representation and Generation via Triplane**
+42. 📜 **Hybrid Neural Diffeomorphic Flow for Shape Representation and Generation via Triplane**
      - 🗓️ Publication Date: 4th Jul. 2023
      - 🧑‍🔬 Authors: Kun Han, Shanlin Sun, Xiaohui Xie
      - 📄 [PDF](https://arxiv.org/abs/2307.01957)
 
-43. **Hybrid-CSR: Coupling Explicit and Implicit Shape Representation for Cortical Surface Reconstruction**
+43. 📜 **Hybrid-CSR: Coupling Explicit and Implicit Shape Representation for Cortical Surface Reconstruction**
      - 🗓️ Publication Date: 23rd Jul. 2023
      - 🧑‍🔬 Authors: Shanlin Sun, Thanh-Tung Le, Chenyu You, Hao Tang, Kun Han, Haoyu Ma, Deying Kong, Xiangyi Yan, Xiaohui Xie
      - 📄 [PDF](https://arxiv.org/abs/2307.12299)
