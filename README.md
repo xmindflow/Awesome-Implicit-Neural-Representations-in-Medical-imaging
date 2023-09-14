@@ -61,6 +61,8 @@ Here, we taxonomize studies that integrate implicit representations into buildin
   - [Boundary Refinement](#boundary-refinement)
   - [Patch Level Segmentation](#patch-level-segmentation)
 - [Image Registration](#image-registration)
+  - [Deformable Registration](#deformable-registration)
+  - [Diffeomorphic Registration](#diffeomorphic-registration)
 - [Neural Rendering](#neural-rendering)
 - [Image Compression](#image-compression)
 - [Image Synthesis](#image-synthesis)
@@ -478,6 +480,8 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 - 🧑‍🔬 Authors: *Chulong Zhang, Xiaokun Liang*
 - 📄 [PDF](https://arxiv.org/abs/2308.09473)
 - 📌 Highlight: Combines implicit neural representation with Large Deformable Diffeomorphic Metric Mapping (LDDMM) in a coarse-to-fine approach.
+
+---
 
 ### Diffeomorphic Registration
 
