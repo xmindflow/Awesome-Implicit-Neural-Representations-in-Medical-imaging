@@ -48,7 +48,7 @@ We considered a sum of <ins>**76**</ins> research papers spanning from 2021 to 2
 Here, we taxonomize studies that integrate implicit representations into building medical analysis models.<br>
 
 <details>
-<summary><span>📂⬇️ Image Reconstruction</span></summary>
+<summary><span>▶️ Image Reconstruction</span></summary>
 
 - [Tomography and CT](#tomography-and-ct)
 - [MRI](#mri)
@@ -58,7 +58,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 </details>
 
 <details>
-<summary><span>📂⬇️ Image Segmentation</span></summary>
+<summary><span>▶️ Image Segmentation</span></summary>
 
 - [Brain Structures and Lesions](#brain-structures-and-lesions)
 - [Cardiac and Heart Structures](#cardiac-and-heart-structures)
@@ -69,14 +69,14 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 </details>
 
 <details>
-<summary><span>📂⬇️ Image Registration</span></summary>
+<summary><span>▶️ Image Registration</span></summary>
 
 - [Deformable Registration](#deformable-registration)
 - [Diffeomorphic Registration](#diffeomorphic-registration)
 </details>
 
 <details>
-<summary><span>📂⬇️ Neural Rendering</span></summary>
+<summary><span>▶️ Neural Rendering</span></summary>
 
 - [Reconstruction from Limited or Sparse Views](#reconstruction-from-limited-or-sparse-views)
   - [Computed Tomography (CT)](#computed-tomography-ct)
