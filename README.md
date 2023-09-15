@@ -64,10 +64,18 @@ Here, we taxonomize studies that integrate implicit representations into buildin
   - [Deformable Registration](#deformable-registration)
   - [Diffeomorphic Registration](#diffeomorphic-registration)
 - [Neural Rendering](#neural-rendering)
+  - [Reconstruction from Limited or Sparse Views](#reconstruction-from-limited-or-sparse-views)
+    - [Computed Tomography (CT)](#computed-tomography-ct)
+    - [Cone Beam Computed Tomography (CBCT)](#cone-beam-computed-tomography-cbct)
+    - [Magnetic Resonance Imaging (MRI)](#magnetic-resonance-imaging-mri)
+    - [Digital Subtraction Angiography (DSA)](#digital-subtraction-angiography-dsa)
+  - [Surgical Scene Reconstruction](#surgical-scene-reconstruction)
+    - [Robotic Surgery](#robotic-surgery)
+    - [Endoscopic Surgery](#endoscopic-surgery)
+  - [Dental and Maxillofacial](#dental-and-maxillofacial)
+  - [Pose Estimation](#pose-estimation)
 - [Image Compression](#image-compression)
 - [Image Synthesis](#image-synthesis)
-
-
 
 (Each section is ordered by the publication dates)
 <img src="Figures/Reconstruction.jpg" alt="reconstruction" width="1000" height="5"><br>
@@ -561,7 +569,6 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 📄 [PDF](https://arxiv.org/abs/2309.02318)
     - 📌 Highlight: A method for high-quality sparse-view 4D DSA reconstruction, reducing the required radiation dose and increasing the efficiency of 4D imaging in diagnosing vascular diseases.
 
-
 ### Surgical Scene Reconstruction
 #### Robotic Surgery
  66. 📜 **Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery.**
@@ -581,7 +588,6 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 📄 [PDF](https://arxiv.org/abs/2307.11307)
     - 🖥️ [Github](https://github.com/ruyi-zha/endosurf)
     - 📌 Highlight: Learns and represents a deforming surface from RGBD sequences captured via endoscope, offering improvements in high-fidelity shape reconstructions.
-
 ### Ultrasound Imaging
 
  68. 📜 **Ultra-NeRF: Neural Radiance Fields for Ultrasound Imaging.**
@@ -599,7 +605,6 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 🧑‍🔬 Authors: *Weinan Song, Haoxin Zheng, Jiawei Yang, Chengwen Liang, Lei He.*
     - 📄 [PDF](https://arxiv.org/abs/2303.12123)
     - 📌 Highlight: Proposes a solution for 3D reconstruction of oral structures using a single panoramic X-ray, with a model that learns to represent the 3D oral structure implicitly
-
 
 ### Pose Estimation
 
