@@ -33,17 +33,7 @@ With the aim of providing easier access for researchers, this repo contains a co
 We considered a sum of <ins>**76**</ins> research papers spanning from 2021 to 2023.
 
 ---
-# Introductory Papers
-**Implicit Neural Representations with Periodic Activation Functions.** [17th Jun., 2020] [Advances in Neural Information Processing Systems, 2020]<br>
-*Vincent Sitzmann, Julien N. P. Martel, Alexander W. Bergman, David B. Lindell, Gordon Wetzstein.*<br>
- [[PDF](https://arxiv.org/abs/2006.09661)]
-
-**NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis.** [19th Mar., 2020] [Communications of the ACM, 2021]<br>
-*Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng.*<br>
-[[PDF](https://dl.acm.org/doi/abs/10.1145/3503250)]
-
----
-# Main papers
+# papers
 <img src="Figures/Taxonomy.png" alt="Taxonomy" width="816">
 Here, we taxonomize studies that integrate implicit representations into building medical analysis models.<br>
 <br>
