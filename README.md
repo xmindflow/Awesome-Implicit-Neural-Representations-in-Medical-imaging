@@ -89,6 +89,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 - [Dental and Oral Imaging](#dental-and-oral-imaging)
 - [Pose Estimation](#pose-estimation)
 </details>
+
 - [Image Compression](#image-compression)
 - [Image-Synthesis](#image-synthesis)
 
