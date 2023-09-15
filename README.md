@@ -48,7 +48,7 @@ We considered a sum of <ins>**76**</ins> research papers spanning from 2021 to 2
 Here, we taxonomize studies that integrate implicit representations into building medical analysis models.<br>
 <br>
 <details>
-<summary><span>▶️ Image Reconstruction (Click to expand) </span></summary>
+<summary><span><span>▶️ Image Reconstruction <sub>(click to expand)</sub></span></summary>
 
 - [Tomography and CT](#tomography-and-ct)
 - [MRI](#mri)
