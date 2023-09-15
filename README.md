@@ -36,7 +36,7 @@ We considered a sum of <ins>**76**</ins> research papers spanning from 2021 to 2
 # papers
 <img src="Figures/Taxonomy.png" alt="Taxonomy" width="816">
 Here, we taxonomize studies that integrate implicit representations into building medical analysis models.<br>
-<br>
+[return-to-list]: #
 <details>
 <summary><span><span>▶️ Image Reconstruction <sub>(click to expand ⬇️)</sub></span></summary>
 
@@ -88,7 +88,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 <img src="Figures/Reconstruction.jpg" alt="reconstruction" width="1000" height="5"><br>
 
 ## Image Reconstruction
-
+[<sub>Return to List</sub>](#return-to-list)
 ---
 
 ### Tomography and CT
@@ -376,7 +376,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 <img src="Figures/Reconstruction.jpg" alt="reconstruction" width="1016" height="5"><br>
 <img src="Figures/Segmentation.jpg" alt="Segmentation" width="1016" height="5"><br>
 ## Image Segmentation
-
+[<sub>Return to List</sub>](#return-to-list)
 ### Brain Structures and Lesions:
 
 45. 📜 **NeRD: Neural Representation of Distribution for Medical Image Segmentation**
@@ -466,7 +466,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 <img src="Figures/Segmentation.jpg" alt="Segmentation" width="1016" height="5"><br>
 <img src="Figures/Registration.jpg" alt="Registration" width="1016" height="5"><br>
 ## Image Registration
-
+[<sub>Return to List</sub>](#return-to-list)
 ### Deformable Registration
 
 54. 📜 **Implicit Neural Representations for Deformable Image Registration**
@@ -527,7 +527,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 <img src="Figures/Registration.jpg" alt="Registration" width="1016" height="5"><br>
 <img src="Figures/Neural Rendering.jpg" alt="Neural Rendering" width="1016" height="5"><br>
 ## Neural Rendering
-
+[<sub>Return to List</sub>](#return-to-list)
 ### Reconstruction from Limited or Sparse Views
 
 #### Computed Tomography (CT)
@@ -626,7 +626,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 <img src="Figures/Neural Rendering.jpg" alt="Neural Rendering" width="1016" height="5"><br>
 <img src="Figures/Compression.jpg" alt="Compression" width="1016" height="5"><br> 
 ## Image Compression
-
+[<sub>Return to List</sub>](#return-to-list)
 **SCI: A Spectrum Concentrated Implicit Neural Compression for Biomedical Data.** [23th Nov., 2022] [AAAI, 2023]<br>
 *Runzhao Yang, Tingxiong Xiao, Yuxiao Cheng, Qianni Cao, Jinyuan Qu, Jinli Suo, Qionghai Dai.*<br>
  [[PDF](https://arxiv.org/abs/2209.15180)] [[Github](https://github.com/MIAGroupUT/IDIR)]
@@ -646,7 +646,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 <img src="Figures/Compression.jpg" alt="Compression" width="1016" height="5"><br> 
 <img src="Figures/Synthesis.jpg" alt="Synthesis" width="1016" height="5"><br> 
  ## Image Synthesis
-
+[<sub>Return to List</sub>](#return-to-list)
 **Implicit Neural Representations for Generative Modeling of Living Cell Shapes.** [6th Oct., 2022] [International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022]<br>
 *David Wiesner, Julian Suk, Sven Dummer, David Svoboda, Jelmer M. Wolterink.*<br>
  [[PDF](https://arxiv.org/abs/2207.06283)] 
