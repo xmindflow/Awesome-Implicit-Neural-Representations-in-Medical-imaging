@@ -513,47 +513,104 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 <img src="Figures/Neural Rendering.jpg" alt="Neural Rendering" width="1016" height="5"><br>
 ## Neural Rendering
 
-**MedNeRF: Medical Neural Radiance Fields for Reconstructing 3D-aware CT-Projections from a Single X-ray.** [2nd Feb., 2022] [IEEE EMBC, 2022]<br>
-*Abril Corona-Figueroa, Jonathan Frawley, Sam Bond-Taylor, Sarath Bethapudi, Hubert P. H. Shum, Chris G. Willcocks.*<br>
- [[PDF](https://arxiv.org/abs/2202.01020)] [[Github](https://github.com/abrilcf/mednerf)]
+### Reconstruction from Limited or Sparse Views
 
- **Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery.** [30th Jun., 2022] [MICCAI, 2022]<br>
-*Yuehao Wang, Yonghao Long, Siu Hin Fan, Qi Dou.*<br>
- [[PDF](https://arxiv.org/abs/2206.15255)] [[Github](https://github.com/med-air/endonerf)]
- 
- **NAF: Neural Attenuation Fields for Sparse-View CBCT Reconstruction.** [29th Sep., 2022] [	MICCAI, 2022]<br>
-*Ruyi Zha, Yanhao Zhang, Hongdong Li.*<br>
- [[PDF](https://arxiv.org/abs/2209.14540)] [[Github](https://github.com/ruyi-zha/naf_cbct)]
+#### Computed Tomography (CT)
 
- **SNAF: Sparse-view CBCT Reconstruction with Neural Attenuation Fields.** [30th Nov., 2022] [	arXiv preprint, 2022]<br>
-*Yu Fang, Lanzhuju Mei, Changjian Li, Yuan Liu, Wenping Wang, Zhiming Cui, Dinggang Shen.*<br>
-[[PDF](https://arxiv.org/abs/2211.17048)]
+61. 📜 **MedNeRF: Medical Neural Radiance Fields for Reconstructing 3D-aware CT-Projections from a Single X-ray.**
+    - 📅 Publication Date: *2nd Feb., 2022*
+    - 📖 Conference: *IEEE EMBC, 2022*
+    - 🧑‍🔬 Authors: *Abril Corona-Figueroa, Jonathan Frawley, Sam Bond-Taylor, Sarath Bethapudi, Hubert P. H. Shum, Chris G. Willcocks.*
+    - 📄 [PDF](https://arxiv.org/abs/2202.01020)
+    - 🖥️ [Github](https://github.com/abrilcf/mednerf)
+    - 📌 Highlight: Reconstruct CT projections from a few or a single-view X-ray, based on neural radiance fields. The proposed technique minimizes patients' exposure to ionizing radiation.
 
-**Ultra-NeRF: Neural Radiance Fields for Ultrasound Imaging.** [25th Jan., 2023] [MIDL, 2023]<br>
-*Magdalena Wysocki, Mohammad Farid Azampour, Christine Eilers, Benjamin Busam, Mehrdad Salehi, Nassir Navab.*<br>
-[[PDF](https://arxiv.org/abs/2301.10520)]
+#### Cone Beam Computed Tomography (CBCT)
 
-**Oral-NeXF: 3D Oral Reconstruction with Neural X-ray Field from Panoramic Imaging.** [21st Mar., 2023] [arxiv] <br>
-*Weinan Song, Haoxin Zheng, Jiawei Yang, Chengwen Liang, Lei He.*<br>
-[[PDF](https://arxiv.org/abs/2303.12123)]
+ 62. 📜  **NAF: Neural Attenuation Fields for Sparse-View CBCT Reconstruction.**
+    - 📅 Publication Date: *29th Sep., 2022*
+    - 📖 Conference: *MICCAI, 2022*
+    - 🧑‍🔬 Authors: *Ruyi Zha, Yanhao Zhang, Hongdong Li.*
+    - 📄 [PDF](https://arxiv.org/abs/2209.14540)
+    - 🖥️ [Github](https://github.com/ruyi-zha/naf_cbct)
+    - 📌 Highlight: A self-supervised approach for CBCT reconstruction that requires no external training data, using a deep neural network to represent attenuation coefficients.
 
- **3D reconstructions of brain from MRI scans using neural radiance fields.** [24th Apr., 2023] [Preprint, 2023]<br>
-*Khadija Iddrisu, Sylwia Malec, Alessandro Crimi.*<br>
- [[PDF](https://www.biorxiv.org/content/10.1101/2023.04.24.538160v1#:~:text=The%20development%20of%20neural%20radiance,2D%20slices%20of%20MRI%20scans.)]
+ 63. 📜 **SNAF: Sparse-view CBCT Reconstruction with Neural Attenuation Fields.**
+    - 📅 Publication Date: *30th Nov., 2022*
+    - 📖 Preprint: *arXiv*
+    - 🧑‍🔬 Authors: *Yu Fang, Lanzhuju Mei, Changjian Li, Yuan Liu, Wenping Wang, Zhiming Cui, Dinggang Shen.*
+    - 📄 [PDF](https://arxiv.org/abs/2211.17048)
+    - 📌 Highlight: Can reconstruct high-quality CBCT images from limited 2D projections, addressing concerns about radiation dose and image quality in dental applications.
 
- **EndoSurf: Neural Surface Reconstruction of Deformable Tissues with Stereo Endoscope Videos.** [21st Jul., 2023] [MICCAI 2023]<br>
- *Ruyi Zha, Xuelian Cheng, Hongdong Li, Mehrtash Harandi, Zongyuan Ge.*<br>
- [[PDF](https://arxiv.org/abs/2307.11307)] [[Github](https://github.com/ruyi-zha/endosurf)]
+#### Magnetic Resonance Imaging (MRI)
 
- **Robust Single-view Cone-beam X-ray Pose Estimation with Neural Tuned Tomography (NeTT) and Masked Neural Radiance Fields (mNeRF).** [1st Aug., 2023] [arxiv] <br>
-*Chaochao Zhou, Syed Hasib Akhter Faruqui, Abhinav Patel, Ramez N. Abdalla, Michael C. Hurley, Ali Shaibani, Matthew B. Potts, Babak S. Jahromi, Leon Cho, Sameer A. Ansari, Donald R. Cantrell.*<br>
-[[PDF](https://arxiv.org/abs/2308.00214)]
+ 64. 📜 **3D reconstructions of brain from MRI scans using neural radiance fields.**
+    - 📅 Publication Date: *24th Apr., 2023*
+    - 📖 Preprint: *arXiv*
+    - 🧑‍🔬 Authors: *Khadija Iddrisu, Sylwia Malec, Alessandro Crimi.*
+    - 📄 [PDF](https://www.biorxiv.org/content/10.1101/2023.04.24.538160v1#:~:text=The%20development%20of%20neural%20radiance,2D%20slices%20of%20MRI%20scans.)
+    - 📌 Highlight: Uses neural radiance fields to reconstruct 3D MRI images from 2D MRI slices, aiming to reduce scan acquisition times and potential motion artifacts.
 
-**TiAVox: Time-aware Attenuation Voxels for Sparse-view 4D DSA Reconstruction.** [5th Sep., 2023] [arxiv]<br>
-*Zhenghong Zhou, Huangxuan Zhao, Jiemin Fang, Dongqiao Xiang, Lei Chen, Lingxia Wu, Feihong Wu, Wenyu Liu, Chuansheng Zheng, Xinggang Wang*<br>
-[[PDF](https://arxiv.org/abs/2309.02318)]
 
- 
+#### Digital Subtraction Angiography (DSA)
+
+ 65. 📜 **TiAVox: Time-aware Attenuation Voxels for Sparse-view 4D DSA Reconstruction.**
+    - 📅 Publication Date: *5th Sep., 2023*
+    - 📖 Preprint: *arXiv*
+    - 🧑‍🔬 Authors: *Zhenghong Zhou, Huangxuan Zhao, Jiemin Fang, Dongqiao Xiang, Lei Chen, Lingxia Wu, Feihong Wu, Wenyu Liu, Chuansheng Zheng, Xinggang Wang.*
+    - 📄 [PDF](https://arxiv.org/abs/2309.02318)
+    - 📌 Highlight: A method for high-quality sparse-view 4D DSA reconstruction, reducing the required radiation dose and increasing the efficiency of 4D imaging in diagnosing vascular diseases.
+
+
+### Surgical Scene Reconstruction
+#### Robotic Surgery
+ 66. 📜 **Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery.**
+    - 📅 Publication Date: *30th Jun., 2022*
+    - 📖 Conferenc: *MICCAI, 2022*
+    - 🧑‍🔬 Authors: *Yuehao Wang, Yonghao Long, Siu Hin Fan, Qi Dou.*
+    - 📄 [PDF](https://arxiv.org/abs/2206.15255)
+    - 🖥️ [Github](https://github.com/med-air/endonerf)
+    - 📌 Highlight: Uses dynamic neural radiance fields to reconstruct deformable tissues during robotic surgery from stereo video captures 
+
+#### Endoscopic Surgery
+
+ 67. 📜 **EndoSurf: Neural Surface Reconstruction of Deformable Tissues with Stereo Endoscope Videos.**
+    - 📅 Publication Date: *21st Jul., 2023*
+    - 📖 Conferenc: *MICCAI 2023*
+    - 🧑‍🔬 Authors: *Ruyi Zha, Xuelian Cheng, Hongdong Li, Mehrtash Harandi, Zongyuan Ge.*
+    - 📄 [PDF](https://arxiv.org/abs/2307.11307)
+    - 🖥️ [Github](https://github.com/ruyi-zha/endosurf)
+    - 📌 Highlight: Learns and represents a deforming surface from RGBD sequences captured via endoscope, offering improvements in high-fidelity shape reconstructions.
+
+### Ultrasound Imaging
+
+ 68. 📜 **Ultra-NeRF: Neural Radiance Fields for Ultrasound Imaging.**
+    - 📅 Publication Date: *25th Jan., 2023*
+    - 📖 Conferenc: *MIDL, 2023*
+    - 🧑‍🔬 Authors: *Magdalena Wysocki, Mohammad Farid Azampour, Christine Eilers, Benjamin Busam, Mehrdad Salehi, Nassir Navab.*
+    - 📄 [PDF](https://arxiv.org/abs/2301.10520)
+    - 📌 Highlight: Introduces a physics-enhanced implicit neural representation for ultrasound imaging which accounts for view-dependent changes in appearance and geometry, improving the quality of synthesized ultrasound images.
+
+### Dental and Oral Imaging
+
+ 69. 📜 **Oral-NeXF: 3D Oral Reconstruction with Neural X-ray Field from Panoramic Imaging.**
+    - 📅 Publication Date: *21st Mar., 2023*
+    - 📖 Preprint: *arxiv*
+    - 🧑‍🔬 Authors: *Weinan Song, Haoxin Zheng, Jiawei Yang, Chengwen Liang, Lei He.*
+    - 📄 [PDF](https://arxiv.org/abs/2303.12123)
+    - 📌 Highlight: Proposes a solution for 3D reconstruction of oral structures using a single panoramic X-ray, with a model that learns to represent the 3D oral structure implicitly
+
+
+### Pose Estimation
+
+ 70. 📜 **Robust Single-view Cone-beam X-ray Pose Estimation with Neural Tuned Tomography (NeTT) and Masked Neural Radiance Fields (mNeRF).**
+    - 📅 Publication Date: *1st Aug., 2023*
+    - 📖 Preprint: *arxiv*
+    - 🧑‍🔬 Authors: *Chaochao Zhou, Syed Hasib Akhter Faruqui, Abhinav Patel, Ramez N. Abdalla, Michael C. Hurley, Ali Shaibani, Matthew B. Potts, Babak S. Jahromi, Leon Cho, Sameer A. Ansari, Donald R. Cantrell.*
+    - 📄 [PDF](https://arxiv.org/abs/2308.00214)
+    - 📌 Highlight: A method for pose estimation of radiolucent objects via X-ray projections. Two high-fidelity view synthesis methods (NeTT and mNeRF) are introduced, with NeTT being highlighted for its computational efficiency and generalization capabilities.
+
+
 <img src="Figures/Neural Rendering.jpg" alt="Neural Rendering" width="1016" height="5"><br>
 <img src="Figures/Compression.jpg" alt="Compression" width="1016" height="5"><br> 
 ## Image Compression
