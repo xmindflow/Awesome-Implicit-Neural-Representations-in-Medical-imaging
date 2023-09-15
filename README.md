@@ -90,8 +90,6 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 <img src="Figures/Reconstruction.jpg" alt="reconstruction" width="1000" height="5"><br>
 
 ## Image Reconstruction
-[Return to List](#return-to-list)
-
 ---
 
 ### Tomography and CT
@@ -376,10 +374,12 @@ Here, we taxonomize studies that integrate implicit representations into buildin
      - 🧑‍🔬 Authors: Shanlin Sun, Thanh-Tung Le, Chenyu You, Hao Tang, Kun Han, Haoyu Ma, Deying Kong, Xiangyi Yan, Xiaohui Xie
      - 📄 [PDF](https://arxiv.org/abs/2307.12299)
 
+[<sub>Return to List</sub>](#return-to-list)
+
 <img src="Figures/Reconstruction.jpg" alt="reconstruction" width="1016" height="5"><br>
 <img src="Figures/Segmentation.jpg" alt="Segmentation" width="1016" height="5"><br>
 ## Image Segmentation
-[<sub>Return to List</sub>](#return-to-list)
+
 ### Brain Structures and Lesions:
 
 45. 📜 **NeRD: Neural Representation of Distribution for Medical Image Segmentation**
@@ -465,11 +465,11 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 📄 [PDF](https://arxiv.org/abs/2307.12429)
     - 📌 Highlight: Uses implicit neural representations to predict shapes at the patch level, balancing both local boundary delineation and global shape coherence.
 
-
+[<sub>Return to List</sub>](#return-to-list)
 <img src="Figures/Segmentation.jpg" alt="Segmentation" width="1016" height="5"><br>
 <img src="Figures/Registration.jpg" alt="Registration" width="1016" height="5"><br>
 ## Image Registration
-[<sub>Return to List</sub>](#return-to-list)
+
 ### Deformable Registration
 
 54. 📜 **Implicit Neural Representations for Deformable Image Registration**
@@ -526,11 +526,11 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 📄 [PDF](https://arxiv.org/abs/2202.12498)
     - 📌 Highlight: Introduces a cascaded framework for diffeomorphic Image Registration with Neural Velocity Field (DNVF) by modeling the space of transformations.
 
-
+[<sub>Return to List</sub>](#return-to-list)
 <img src="Figures/Registration.jpg" alt="Registration" width="1016" height="5"><br>
 <img src="Figures/Neural Rendering.jpg" alt="Neural Rendering" width="1016" height="5"><br>
 ## Neural Rendering
-[<sub>Return to List</sub>](#return-to-list)
+
 ### Reconstruction from Limited or Sparse Views
 
 #### Computed Tomography (CT)
@@ -625,11 +625,11 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 📄 [PDF](https://arxiv.org/abs/2308.00214)
     - 📌 Highlight: A method for pose estimation of radiolucent objects via X-ray projections. Two high-fidelity view synthesis methods (NeTT and mNeRF) are introduced, with NeTT being highlighted for its computational efficiency and generalization capabilities.
 
-
+[<sub>Return to List</sub>](#return-to-list)
 <img src="Figures/Neural Rendering.jpg" alt="Neural Rendering" width="1016" height="5"><br>
 <img src="Figures/Compression.jpg" alt="Compression" width="1016" height="5"><br> 
 ## Image Compression
-[<sub>Return to List</sub>](#return-to-list)
+
 **SCI: A Spectrum Concentrated Implicit Neural Compression for Biomedical Data.** [23th Nov., 2022] [AAAI, 2023]<br>
 *Runzhao Yang, Tingxiong Xiao, Yuxiao Cheng, Qianni Cao, Jinyuan Qu, Jinli Suo, Qionghai Dai.*<br>
  [[PDF](https://arxiv.org/abs/2209.15180)] [[Github](https://github.com/MIAGroupUT/IDIR)]
@@ -646,10 +646,11 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 *Harry Gao, Weijie Gan, Zhixin Sun, Ulugbek S. Kamilov*<br>
  [[PDF]( https://arxiv.org/abs/2210.14974)]
 
+[<sub>Return to List</sub>](#return-to-list)
 <img src="Figures/Compression.jpg" alt="Compression" width="1016" height="5"><br> 
 <img src="Figures/Synthesis.jpg" alt="Synthesis" width="1016" height="5"><br> 
  ## Image Synthesis
-[<sub>Return to List</sub>](#return-to-list)
+
 **Implicit Neural Representations for Generative Modeling of Living Cell Shapes.** [6th Oct., 2022] [International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022]<br>
 *David Wiesner, Julian Suk, Sven Dummer, David Svoboda, Jelmer M. Wolterink.*<br>
  [[PDF](https://arxiv.org/abs/2207.06283)] 
