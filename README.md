@@ -47,22 +47,36 @@ We considered a sum of <ins>**76**</ins> research papers spanning from 2021 to 2
 <img src="Figures/Taxonomy.png" alt="Taxonomy" width="816">
 Here, we taxonomize studies that integrate implicit representations into building medical analysis models.<br>
 
-- [Image Reconstruction](#image-reconstruction)
-  - [Tomography and CT](#tomography-and-ct)
-  - [MRI](#mri)
-  - [Ultrasound](#ultrasound)
-  - [Dental and Maxillofacial](#dental-and-maxillofacial)
-  - [General and Miscellaneous](#general-and-miscellaneous)
-- [Image Segmentation](#image-segmentation)
-  - [Brain Structures and Lesions](#brain-structures-and-lesions)
-  - [Cardiac and Heart Structures](#cardiac-and-heart-structures)
-  - [Retinal Blood Vessels](#retinal-blood-vessels)
-  - [3D Segmentation](#3d-segmentation)
-  - [Boundary Refinement](#boundary-refinement)
-  - [Patch Level Segmentation](#patch-level-segmentation)
-- [Image Registration](#image-registration)
-  - [Deformable Registration](#deformable-registration)
-  - [Diffeomorphic Registration](#diffeomorphic-registration)
+<details>
+<summary>Image Reconstruction</summary>
+
+- [Tomography and CT](#tomography-and-ct)
+- [MRI](#mri)
+- [Ultrasound](#ultrasound)
+- [Dental and Maxillofacial](#dental-and-maxillofacial)
+- [General and Miscellaneous](#general-and-miscellaneous)
+
+</details>
+
+<details>
+<summary>Image Segmentation</summary>
+
+- [Brain Structures and Lesions](#brain-structures-and-lesions)
+- [Cardiac and Heart Structures](#cardiac-and-heart-structures)
+- [Retinal Blood Vessels](#retinal-blood-vessels)
+- [3D Segmentation](#3d-segmentation)
+- [Boundary Refinement](#boundary-refinement)
+- [Patch Level Segmentation](#patch-level-segmentation)
+
+</details>
+
+<details>
+<summary>Image Registration</summary>
+
+- [Deformable Registration](#deformable-registration)
+- [Diffeomorphic Registration](#diffeomorphic-registration)
+
+</details>
 - [Neural Rendering](#neural-rendering)
   - [Reconstruction from Limited or Sparse Views](#reconstruction-from-limited-or-sparse-views)
     - [Computed Tomography (CT)](#computed-tomography-ct)
