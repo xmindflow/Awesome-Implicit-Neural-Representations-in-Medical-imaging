@@ -37,7 +37,7 @@ We considered a sum of <ins>**76**</ins> research papers spanning from 2021 to 2
 <img src="Figures/Taxonomy.png" alt="Taxonomy" width="816">
 Here, we taxonomize studies that integrate implicit representations into building medical analysis models.<br>
 
-[return-to-list]: #
+<a name="return-to-list"></a>
 
 <details>
 <summary><span><span>▶️ Image Reconstruction <sub>(click to expand ⬇️)</sub></span></summary>
