@@ -72,7 +72,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
   - [Surgical Scene Reconstruction](#surgical-scene-reconstruction)
     - [Robotic Surgery](#robotic-surgery)
     - [Endoscopic Surgery](#endoscopic-surgery)
-  - [Dental and Maxillofacial](#dental-and-maxillofacial)
+  - [Dental and Oral Imaging](#dental-and-oral-imaging)
   - [Pose Estimation](#pose-estimation)
 - [Image Compression](#image-compression)
 - [Image Synthesis](#image-synthesis)
