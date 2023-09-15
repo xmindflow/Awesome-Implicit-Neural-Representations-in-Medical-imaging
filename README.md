@@ -89,6 +89,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 ## Image Reconstruction
 [<sub>Return to List</sub>](#return-to-list)
+
 ---
 
 ### Tomography and CT
