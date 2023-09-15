@@ -50,7 +50,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 <details>
 <summary><span><span>▶️ Image Reconstruction <sub>(click to expand)</sub></span></summary>
 
-- - [Tomography and CT](#tomography-and-ct)
+  - [Tomography and CT](#tomography-and-ct)
 - [MRI](#mri)
 - [Ultrasound](#ultrasound)
 - [Dental and Maxillofacial](#dental-and-maxillofacial)
