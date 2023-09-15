@@ -48,7 +48,7 @@ We considered a sum of <ins>**76**</ins> research papers spanning from 2021 to 2
 Here, we taxonomize studies that integrate implicit representations into building medical analysis models.<br>
 
 <details>
-<summary><span style="color: blue">📂 Image Reconstruction</span></summary>
+<summary><span>📂 Image Reconstruction</span></summary>
 
 - [Tomography and CT](#tomography-and-ct)
 - [MRI](#mri)
@@ -58,7 +58,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 </details>
 
 <details>
-<summary><span style="color: blue">📂 Image Segmentation</span></summary>
+<summary><span>📂 Image Segmentation</span></summary>
 
 - [Brain Structures and Lesions](#brain-structures-and-lesions)
 - [Cardiac and Heart Structures](#cardiac-and-heart-structures)
@@ -68,22 +68,40 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 - [Patch Level Segmentation](#patch-level-segmentation)
 </details>
 
-- [Image Registration](#image-registration)
-  - [Deformable Registration](#deformable-registration)
-  - [Diffeomorphic Registration](#diffeomorphic-registration)
-- [Neural Rendering](#neural-rendering)
-  - [Reconstruction from Limited or Sparse Views](#reconstruction-from-limited-or-sparse-views)
-    - [Computed Tomography (CT)](#computed-tomography-ct)
-    - [Cone Beam Computed Tomography (CBCT)](#cone-beam-computed-tomography-cbct)
-    - [Magnetic Resonance Imaging (MRI)](#magnetic-resonance-imaging-mri)
-    - [Digital Subtraction Angiography (DSA)](#digital-subtraction-angiography-dsa)
-  - [Surgical Scene Reconstruction](#surgical-scene-reconstruction)
-    - [Robotic Surgery](#robotic-surgery)
-    - [Endoscopic Surgery](#endoscopic-surgery)
-  - [Dental and Oral Imaging](#dental-and-oral-imaging)
-  - [Pose Estimation](#pose-estimation)
-- [Image Compression](#image-compression)
-- [Image Synthesis](#image-synthesis)
+<details>
+<summary><span>📂 Image Registration</span></summary>
+
+- [Deformable Registration](#deformable-registration)
+- [Diffeomorphic Registration](#diffeomorphic-registration)
+</details>
+
+<details>
+<summary><span>📂 Neural Rendering</span></summary>
+
+- [Reconstruction from Limited or Sparse Views](#reconstruction-from-limited-or-sparse-views)
+  - [Computed Tomography (CT)](#computed-tomography-ct)
+  - [Cone Beam Computed Tomography (CBCT)](#cone-beam-computed-tomography-cbct)
+  - [Magnetic Resonance Imaging (MRI)](#magnetic-resonance-imaging-mri)
+  - [Digital Subtraction Angiography (DSA)](#digital-subtraction-angiography-dsa)
+- [Surgical Scene Reconstruction](#surgical-scene-reconstruction)
+  - [Robotic Surgery](#robotic-surgery)
+  - [Endoscopic Surgery](#endoscopic-surgery)
+- [Dental and Oral Imaging](#dental-and-oral-imaging)
+- [Pose Estimation](#pose-estimation)
+</details>
+
+<details>
+<summary><span>📂 Image Compression</span></summary>
+
+- [List your subsections here]
+</details>
+
+<details>
+<summary><span>📂 Image Synthesis</span></summary>
+
+- [List your subsections here]
+</details>
+
 
 (Each section is ordered by the publication dates)
 <img src="Figures/Reconstruction.jpg" alt="reconstruction" width="1000" height="5"><br>
