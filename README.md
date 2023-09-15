@@ -90,7 +90,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 <img src="Figures/Reconstruction.jpg" alt="reconstruction" width="1000" height="5"><br>
 
 ## Image Reconstruction
-[<sub>Return to List</sub>](#return-to-list)
+[Return to List](#return-to-list)
 
 ---
 
