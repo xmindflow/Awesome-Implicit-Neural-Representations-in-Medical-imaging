@@ -79,16 +79,17 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 <summary><span>▶️ Neural Rendering</span></summary>
 
 > - [Reconstruction from Limited or Sparse Views](#reconstruction-from-limited-or-sparse-views)
-  - [Computed Tomography (CT)](#computed-tomography-ct)
-  - [Cone Beam Computed Tomography (CBCT)](#cone-beam-computed-tomography-cbct)
-  - [Magnetic Resonance Imaging (MRI)](#magnetic-resonance-imaging-mri)
-  - [Digital Subtraction Angiography (DSA)](#digital-subtraction-angiography-dsa)
+>   - [Computed Tomography (CT)](#computed-tomography-ct)
+>   - [Cone Beam Computed Tomography (CBCT)](#cone-beam-computed-tomography-cbct)
+>   - [Magnetic Resonance Imaging (MRI)](#magnetic-resonance-imaging-mri)
+>   - [Digital Subtraction Angiography (DSA)](#digital-subtraction-angiography-dsa)
 > - [Surgical Scene Reconstruction](#surgical-scene-reconstruction)
-  - [Robotic Surgery](#robotic-surgery)
-  - [Endoscopic Surgery](#endoscopic-surgery)
+>   - [Robotic Surgery](#robotic-surgery)
+>   - [Endoscopic Surgery](#endoscopic-surgery)
 > - [Dental and Oral Imaging](#dental-and-oral-imaging)
 > - [Pose Estimation](#pose-estimation)
 </details>
+
 
 - [Image Compression](#image-compression)
 - [Image-Synthesis](#image-synthesis)
