@@ -172,8 +172,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 📄 [Download PDF](https://arxiv.org/abs/2303.09234)
     - 💻 [GitHub](https://github.com/uncbiag/naisr)
    
-
-<br>
+[<sub>Return to List</sub>](#return-to-list)
 
 ---
 ### MRI
@@ -280,6 +279,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
       - 📄 [PDF](https://arxiv.org/abs/2309.03320)
       - 💻 [GitHub](https://github.com/cyjdswx/cones)
 
+[<sub>Return to List</sub>](#return-to-list)
 
 ---
 ### CT and MRI
@@ -295,6 +295,8 @@ Here, we taxonomize studies that integrate implicit representations into buildin
      - 🗓️ Publication Date: 28th Mar. 2023
      - 🧑‍🔬 Authors: Zixuan Chen, Jianhuang Lai, Lingxiao Yang, Xiaohua Xie
      - 📄 [PDF](https://arxiv.org/abs/2303.16242)
+       
+[<sub>Return to List</sub>](#return-to-list)
 
 ---
 ### Ultrasound
@@ -317,8 +319,10 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 📖 Preprint: arXiv
     - 🧑‍🔬 Authors: *Dieuwertje Alblas, Christoph Brune, Kak Khee Yeung, Jelmer M. Wolterink*
     - 📄 [PDF](https://arxiv.org/abs/2207.14663)
-      
-  ---
+
+[<sub>Return to List</sub>](#return-to-list)
+
+---
 ### Dental and Maxillofacial
 
 36. 📜 **Topology-Preserving Shape Reconstruction and Registration via Neural Diffeomorphic Flow.** 
@@ -340,7 +344,9 @@ Here, we taxonomize studies that integrate implicit representations into buildin
      - 🧑‍🔬 Authors: *Yiqun Lin, Zhongjin Luo, Wei Zhao, Xiaomeng Li.*
      - 📄 [PDF](https://arxiv.org/abs/2303.06681)
      - 🖥️ [GitHub](https://github.com/xmed-lab/dif-net)
-    
+
+[<sub>Return to List</sub>](#return-to-list)
+
 --- 
 ### General and Miscellaneous
 
