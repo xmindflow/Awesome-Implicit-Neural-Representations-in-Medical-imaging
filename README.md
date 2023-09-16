@@ -30,7 +30,7 @@ The most motivating reasons are the following:
 
 Which all are significantly important for developing an automatic medical system.<br>
 With the aim of providing easier access for researchers, this repo contains a comprehensive paper list of Implicit Neural Representations in Medical Imaging, including papers, codes, and related websites.<br>
-We considered a sum of `77` research papers spanning from 2021 to 2023.
+We considered a sum of `78` research papers spanning from 2021 to 2023.
 
 ---
 # papers
@@ -278,20 +278,27 @@ Here, we taxonomize studies that integrate implicit representations into buildin
       - 🧑‍🔬 Authors: *Yunjie Chen, Marius Staring, Olaf M. Neve, Stephan R. Romeijn, Erik F. Hensen, Berit M. Verbist, Jelmer M. Wolterink, Qian Tao.*
       - 📄 [PDF](https://arxiv.org/abs/2309.03320)
       - 💻 [GitHub](https://github.com/cyjdswx/cones)
+   
+31. 📜 **Batch Implicit Neural Representation for MRI Parallel Reconstruction.**
+      - 📅 Publication Date: *13th Sep., 2023*
+      - 📖 Preprint: *arxiv*
+      - 🧑‍🔬 Authors: *Hao Li, Yusheng Zhou, Jianan Liu, Xiling Liu, Tao Huang, Zhihan Lv.*
+      - 📄 [PDF](https://arxiv.org/abs/2309.06067)
+      - 📌 Highlight: Uses INR to parametrize fully-sampled MRI images as continuous functions, enhanced by a scale-embedded encoder for scale-independent feature production.
 
 [<sub>Return to List</sub>](#return-to-list)
 
 ---
 ### CT and MRI
 
-31. 📜 **NeRP: Implicit Neural Representation Learning with Prior Embedding for Sparsely Sampled Image Reconstruction**
+32. 📜 **NeRP: Implicit Neural Representation Learning with Prior Embedding for Sparsely Sampled Image Reconstruction**
     - 🗓️ Publication Date: *24th Aug. 2021*
     - 📖 Preprint: *IEEE Transactions on Neural Networks and Learning Systems, 2022*
     - 🧑‍🔬 Authors: *Liyue Shen, John Pauly, Lei Xing.*
     - 📄 [PDF](https://arxiv.org/abs/2108.10991)
     - 💻 [Github](https://github.com/liyues/nerp)
    
-32. 📜 **CuNeRF: Cube-Based Neural Radiance Field for Zero-Shot Medical Image Arbitrary-Scale Super Resolution**
+33. 📜 **CuNeRF: Cube-Based Neural Radiance Field for Zero-Shot Medical Image Arbitrary-Scale Super Resolution**
      - 🗓️ Publication Date: 28th Mar. 2023
      - 🧑‍🔬 Authors: Zixuan Chen, Jianhuang Lai, Lingxiao Yang, Xiaohua Xie
      - 📄 [PDF](https://arxiv.org/abs/2303.16242)
@@ -301,20 +308,20 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 ---
 ### Ultrasound
 
-33. 📜 **ImplicitVol: Sensorless 3D Ultrasound Reconstruction with Deep Implicit Representation**
+34. 📜 **ImplicitVol: Sensorless 3D Ultrasound Reconstruction with Deep Implicit Representation**
     - 🗓️ Publication Date: *24th Sep. 2021*
     - 📖 Preprint: arXiv
     - 🧑‍🔬 Authors: *Pak-Hei Yeung, Linde Hesse, Moska Aliasi, Monique Haak, the INTERGROWTH-21st Consortium, Weidi Xie, Ana I.L. Namburete*
     - 📄 [PDF](https://arxiv.org/abs/2109.12108)
 
 
-34. 📜 **Representing 3D Ultrasound with Neural Fields**
+35. 📜 **Representing 3D Ultrasound with Neural Fields**
     - 🗓️ Publication Date: *21st Apr. 2022*
     - 📖 Conference: *Medical Imaging with Deep Learning, 2022*
     - 🧑‍🔬 Authors: *Ang Nan Gu, Purang Abolmaesumi, Christina Luong, Kwang Moo Yi*
     - 📄 [PDF](https://openreview.net/forum?id=1EDRk-CyQou)
 
-35. 📜 **Going Off-Grid: Continuous Implicit Neural Representations for 3D Vascular Modeling**
+36. 📜 **Going Off-Grid: Continuous Implicit Neural Representations for 3D Vascular Modeling**
     - 🗓️ Publication Date: *16th Sep. 2022*
     - 📖 Preprint: arXiv
     - 🧑‍🔬 Authors: *Dieuwertje Alblas, Christoph Brune, Kak Khee Yeung, Jelmer M. Wolterink*
@@ -325,20 +332,20 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 ---
 ### Dental and Maxillofacial
 
-36. 📜 **Topology-Preserving Shape Reconstruction and Registration via Neural Diffeomorphic Flow.** 
+37. 📜 **Topology-Preserving Shape Reconstruction and Registration via Neural Diffeomorphic Flow.** 
      - 📅 Publication Date: *16th Mar., 2022*
      - 📖 Conference: *Proceedings of the IEEE/CVF Conference on CVPR*
      - 🧑‍🔬 Authors: *Shanlin Sun, Kun Han, Deying Kong, Hao Tang, Xiangyi Yan, Xiaohui Xie.*
      - 📄 [PDF](https://arxiv.org/abs/2203.08652)
      - 🖥️ [GitHub](https://github.com/Siwensun/Neural_Diffeomorphic_Flow--NDF)
 
-37. 📜 **Dynamic Cone-beam CT Reconstruction using Spatial and Temporal Implicit Neural Representation Learning (STINR).**
+38. 📜 **Dynamic Cone-beam CT Reconstruction using Spatial and Temporal Implicit Neural Representation Learning (STINR).**
     - 📅 Publication Date: *Sep., 2022*
     - 📖 Journal: *Physics in Medicine and Biology, 2023*
     - 🧑‍🔬 Authors: *You Zhang, Hua-Chieh Shao, Tinsu Pan, Tielige Mengke.*
     - 📄 [PDF](https://pubmed.ncbi.nlm.nih.gov/36638543/)
 
-38. 📜 **Learning Deep Intensity Field for Extremely Sparse-View CBCT Reconstruction.** 
+39. 📜 **Learning Deep Intensity Field for Extremely Sparse-View CBCT Reconstruction.** 
      - 📅 Publication Date: *12th Mar., 2023*
      - 📖 Preprint: *arXiv*
      - 🧑‍🔬 Authors: *Yiqun Lin, Zhongjin Luo, Wei Zhao, Xiaomeng Li.*
@@ -350,37 +357,37 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 --- 
 ### Miscellaneous
 
-39. 📜 **Going Off-Grid: Continuous Implicit Neural Representations for 3D Vascular Modeling**
+40. 📜 **Going Off-Grid: Continuous Implicit Neural Representations for 3D Vascular Modeling**
      - 🗓️ Publication Date: 16th Sep. 2022
      - 🧑‍🔬 Authors: Dieuwertje Alblas, Christoph Brune, Kak Khee Yeung, Jelmer M. Wolterink
      - 📄 [PDF](https://arxiv.org/abs/2207.14663)
 
-40. 📜 **Implicitatlas: learning deformable shape templates in medical imaging**
+41. 📜 **Implicitatlas: learning deformable shape templates in medical imaging**
      - 🗓️ Publication Date: CVPR, 2022
      - 🧑‍🔬 Authors: Jiancheng Yang, Udaranga Wickramasinghe, Bingbing Ni, Pascal Fua
      - 📄 [PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_ImplicitAtlas_Learning_Deformable_Shape_Templates_in_Medical_Imaging_CVPR_2022_paper.html)
 
-41. 📜 **MiShape: 3D Shape Modelling of Mitochondria in Microscopy**
+42. 📜 **MiShape: 3D Shape Modelling of Mitochondria in Microscopy**
      - 🗓️ Publication Date: 2nd Mar. 2023
      - 🧑‍🔬 Authors: Abhinanda R. Punnakkal, Suyog S Jadhav, Alexander Horsch, Krishna Agarwal, Dilip K. Prasad
      - 📄 [PDF](https://arxiv.org/abs/2303.01546)
 
-42. 📜 **A Novel Implicit Neural Representation for Volume Data**
+43. 📜 **A Novel Implicit Neural Representation for Volume Data**
      - 🗓️ Publication Date: 27th Feb. 2023
      - 🧑‍🔬 Authors: Armin Sheibanifard, Hongchuan Yu
      - 📄 [PDF](https://www.mdpi.com/2076-3417/13/5/3242)
 
-43. 📜 **Hybrid Neural Diffeomorphic Flow for Shape Representation and Generation via Triplane**
+44. 📜 **Hybrid Neural Diffeomorphic Flow for Shape Representation and Generation via Triplane**
      - 🗓️ Publication Date: 4th Jul. 2023
      - 🧑‍🔬 Authors: Kun Han, Shanlin Sun, Xiaohui Xie
      - 📄 [PDF](https://arxiv.org/abs/2307.01957)
 
-44. 📜 **Hybrid-CSR: Coupling Explicit and Implicit Shape Representation for Cortical Surface Reconstruction**
+45. 📜 **Hybrid-CSR: Coupling Explicit and Implicit Shape Representation for Cortical Surface Reconstruction**
      - 🗓️ Publication Date: 23rd Jul. 2023
      - 🧑‍🔬 Authors: Shanlin Sun, Thanh-Tung Le, Chenyu You, Hao Tang, Kun Han, Haoyu Ma, Deying Kong, Xiangyi Yan, Xiaohui Xie
      - 📄 [PDF](https://arxiv.org/abs/2307.12299)
    
-45 📜 **A self-supervised learning approach for high-resolution diffuse optical tomography using neural fields.**
+46 📜 **A self-supervised learning approach for high-resolution diffuse optical tomography using neural fields.**
      - 🗓️ Publication Date: *28th Jul. 2023*
      - 📖 Conference: Proc. SPIE 12753, Second Conference on Biomedical Photonics and Cross-Fusion (BPC 2023)
      - 🧑‍🔬 Authors: *Linlin Li, Siyuan Shen, Shengyu Gao, Yuehan Wang, Liangtao Gu, Shiying Li, Xingjun Zhu, Jiahua Jiang, Jingyi Yu, Wuwei Ren*
@@ -395,21 +402,21 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 ### Brain Structures and Lesions:
 
-46. 📜 **NeRD: Neural Representation of Distribution for Medical Image Segmentation**
+47. 📜 **NeRD: Neural Representation of Distribution for Medical Image Segmentation**
     - 📅 Publication Date: *6th Mar., 2021*
     - 📖 Preprint: *arXiv, 2021*
     - 🧑‍🔬 Authors: *Hang Zhang, Rongguang Wang, Jinwei Zhang, Chao Li, Gufeng Yang, Pascal Spincemaille, Thanh Nguyen, Yi Wang*
     - 📄 [PDF](https://arxiv.org/abs/2103.04020)
     - 📌 Highlight: Addresses white matter lesion segmentation and left atrial segmentation.
 
-47. 📜 **Implicit field learning for unsupervised anomaly detection in medical images**
+48. 📜 **Implicit field learning for unsupervised anomaly detection in medical images**
     - 📅 Publication Date: *9th Jun., 2021*
     - 📖 Conference: *MICCAI 2021*
     - 🧑‍🔬 Authors: *Sergio Naval Marimont, Giacomo Tarroni*
     - 📄 [PDF](https://arxiv.org/abs/2106.05214)
     - 📌 Highlight: Aims to localize gliomas on brain MR images using an unsupervised out-of-distribution detection method.
 
-48. 📜 **Direct localization and delineation of human pedunculopontine nucleus based on a self-supervised magnetic resonance image super-resolution method**
+49. 📜 **Direct localization and delineation of human pedunculopontine nucleus based on a self-supervised magnetic resonance image super-resolution method**
     - 📅 Publication Date: *25th Apr., 2023*
     - 📖 Journal: *Human Brain Mapping, 2023*
     - 🧑‍🔬 Authors: *Jun Li, Xiaojun Guan, Qing Wu, Chenyu He, Weimin Zhang, Xiyue Lin, Chunlei Liu, Hongjiang Wei, Xiaojun Xu, Yuyao Zhang*
@@ -419,7 +426,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 ---
 
 ### Cardiac and Heart Structures
-49. 📜 **Binary segmentation of medical images using implicit spline representations and deep learning**
+50. 📜 **Binary segmentation of medical images using implicit spline representations and deep learning**
     - 📅 Publication Date: *19th Mar., 2021*
     - 📖 Journal: *Computer Aided Geometric Design, 2021*
     - 🧑‍🔬 Authors: *Oliver J.D. Barrowclough, Georg Muntingh, Varatharajan Nainamalai, Ivar Stangeby*
@@ -430,7 +437,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 ### Retinal Blood Vessels:
 
-50. 📜 **Retinal vessel segmentation based on self-distillation and implicit neural representation**
+51. 📜 **Retinal vessel segmentation based on self-distillation and implicit neural representation**
     - 📅 Publication Date: *8th Nov., 2022*
     - 📖 Journal: *Applied Intelligence, 2022*
     - 🧑‍🔬 Authors: *Jia Gu, Fangzheng Tian & Il-Seok Oh*
@@ -441,7 +448,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 ### 3D Segmentation:
 
-51. 📜 **Deep Implicit Statistical Shape Models for 3D Medical Image Delineation**
+52. 📜 **Deep Implicit Statistical Shape Models for 3D Medical Image Delineation**
     - 📅 Publication Date: *28th Jun., 2022*
     - 📖 Conference: *AAAI, 2022*
     - 🧑‍🔬 Authors: *Ashwin Raju, Shun Miao, Dakai Jin, Le Lu, Junzhou Huang, Adam P. Harrison*
@@ -449,7 +456,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 🖥️ [GitHub](https://github.com/ashstuff/dissm)
     - 📌 Highlight: Presents a methodology that emphasizes 3D delineation of anatomical structures using deep implicit statistical shape models.
 
-52. 📜 **Implicit Neural Representations for Medical Imaging Segmentation**
+53. 📜 **Implicit Neural Representations for Medical Imaging Segmentation**
     - 📅 Publication Date: *16th Sep., 2022*
     - 📖 Conference: *International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022*
     - 🧑‍🔬 Authors: *Muhammad Osama Khan & Yi Fang*
@@ -460,7 +467,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 ### Boundary Refinement:
 
-53. 📜 **Implicit Anatomical Rendering for Medical Image Segmentation with Stochastic Experts**
+54. 📜 **Implicit Anatomical Rendering for Medical Image Segmentation with Stochastic Experts**
     - 📅 Publication Date: *6th Apr., 2023*
     - 📖 Preprint: *arXiv, 2023*
     - 🧑‍🔬 Authors: *Chenyu You, Weicheng Dai, Yifei Min, Lawrence Staib, James S. Duncan*
@@ -471,7 +478,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 ---
 ### Patch Level Segmentation:
 
-54. 📜 **SwIPE: Efficient and Robust Medical Image Segmentation with Implicit Patch Embeddings**
+55. 📜 **SwIPE: Efficient and Robust Medical Image Segmentation with Implicit Patch Embeddings**
     - 📅 Publication Date: *23rd Jul., 2023*
     - 📖 Conference: *MICCAI 2023*
     - 🧑‍🔬 Authors: *Yejia Zhang, Pengfei Gu, Nishchal Sapkota, Danny Z. Chen*
@@ -485,7 +492,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 ### Deformable Registration
 
-55. 📜 **Implicit Neural Representations for Deformable Image Registration**
+56. 📜 **Implicit Neural Representations for Deformable Image Registration**
     - 📅 Publication Date: *22th Jun., 2022*
     - 📖 Conference: *Medical Imaging with Deep Learning, 2022*
     - 🧑‍🔬 Authors: *Jelmer M. Wolterink, Jesse C. Zwienenberg, Christoph Brune*
@@ -493,28 +500,28 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 🖥️ [GitHub](https://github.com/MIAGroupUT/IDIR)
     - 📌 Highlight: Implicit deformable image registration using a neural network to represent continuous transformations
 
-56. 📜 **Learning Homeomorphic Image Registration via Conformal-Invariant Hyperelastic Regularisation**
+57. 📜 **Learning Homeomorphic Image Registration via Conformal-Invariant Hyperelastic Regularisation**
     - 📅 Publication Date: *30th Jun., 2023*
     - 📖 Preprint: *arXiv, 2023*
     - 🧑‍🔬 Authors: *Jing Zou, Noémie Debroux, Lihao Liu, Jing Qin, Carola-Bibiane Schönlieb, Angelica I Aviles-Rivero*
     - 📄 [PDF](https://arxiv.org/abs/2303.08113)
     - 📌 Highlight: Topology-preserving deformable image registration. It discusses a novel regularizer based on conformal-invariant properties.
 
-57. 📜 **Deformable Image Registration with Geometry-informed Implicit Neural Representations**
+58. 📜 **Deformable Image Registration with Geometry-informed Implicit Neural Representations**
     - 📅 Publication Date: *13th Apr., 2023*
     - 📖 Conference: *Medical Imaging with Deep Learning, 2023*
     - 🧑‍🔬 Authors: *Louis van Harten, Rudolf Leonardus Mirjam Van Herten, Jaap Stoker, Ivana Isgum*
     - 📄 [PDF](https://openreview.net/forum?id=Pj9vtDIzSCE)
     - 📌 Highlight: Parameterizes the deformation field by incorporating the geometry encoding of anatomical structures to guide the deformation process.
 
-58. 📜 **Implicit neural representations for joint decomposition and registration of gene expression images in the marmoset brain.**
+59. 📜 **Implicit neural representations for joint decomposition and registration of gene expression images in the marmoset brain.**
     - 📅 Publication Date: *8th Aug., 2023*
     - 📖 Preprint: *arXiv*
     - 🧑‍🔬 Authors: *Michal Byra, Charissa Poon, Tomomi Shimogori, Henrik Skibbe*
     - 📄 [PDF](https://arxiv.org/abs/2308.04039)
     - 📌 Highlight: Addresses the registration of brain images with added features or artifacts by emphasizing the decomposition of images into support and residual components.
 
-59. 📜 **INR-LDDMM: Fluid-based Medical Image Registration Integrating Implicit Neural Representation and Large Deformation Diffeomorphic Metric Mapping.**
+60. 📜 **INR-LDDMM: Fluid-based Medical Image Registration Integrating Implicit Neural Representation and Large Deformation Diffeomorphic Metric Mapping.**
     - 📅 Publication Date: *18th Aug., 2023*
     - 📖 Preprint: *arXiv*
     - 🧑‍🔬 Authors: *Chulong Zhang, Xiaokun Liang*
@@ -525,14 +532,14 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 ### Diffeomorphic Registration
 
-60. 📜 **Medical Image Registration via Neural Fields**
+61. 📜 **Medical Image Registration via Neural Fields**
     - 📅 Publication Date: *22th Jun., 2022*
     - 📖 Preprint: *arXiv, 2022*
     - 🧑‍🔬 Authors: *Shanlin Sun, Kun Han, Hao Tang, Deying Kong, Junayed Naushad, Xiangyi Yan, Xiaohui Xie*
     - 📄 [PDF](https://arxiv.org/abs/2206.03111)
     - 📌 Highlight: Introduces a distinction between general deformable registration and diffeomorphic image registration using neural fields.
 
-61. 📜 **Diffeomorphic Image Registration with Neural Velocity Field**
+62. 📜 **Diffeomorphic Image Registration with Neural Velocity Field**
     - 📅 Publication Date: *2023*
     - 📖 Conference: *IEEE/CVF Winter Conference on Applications of Computer Vision, 2023*
     - 🧑‍🔬 Authors: *Kun Han, Shanlin Sun, Xiangyi Yan, Chenyu You, Hao Tang, Junayed Naushad, Haoyu Ma, Deying Kong, Xiaohui Xie*
@@ -548,7 +555,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 #### Computed Tomography (CT)
 
-62. 📜 **MedNeRF: Medical Neural Radiance Fields for Reconstructing 3D-aware CT-Projections from a Single X-ray.**
+63. 📜 **MedNeRF: Medical Neural Radiance Fields for Reconstructing 3D-aware CT-Projections from a Single X-ray.**
     - 📅 Publication Date: *2nd Feb., 2022*
     - 📖 Conference: *IEEE EMBC, 2022*
     - 🧑‍🔬 Authors: *Abril Corona-Figueroa, Jonathan Frawley, Sam Bond-Taylor, Sarath Bethapudi, Hubert P. H. Shum, Chris G. Willcocks.*
@@ -558,7 +565,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 #### Cone Beam Computed Tomography (CBCT)
 
-63. 📜  **NAF: Neural Attenuation Fields for Sparse-View CBCT Reconstruction.**
+64. 📜  **NAF: Neural Attenuation Fields for Sparse-View CBCT Reconstruction.**
     - 📅 Publication Date: *29th Sep., 2022*
     - 📖 Conference: *MICCAI, 2022*
     - 🧑‍🔬 Authors: *Ruyi Zha, Yanhao Zhang, Hongdong Li.*
@@ -566,7 +573,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 🖥️ [Github](https://github.com/ruyi-zha/naf_cbct)
     - 📌 Highlight: A self-supervised approach for CBCT reconstruction that requires no external training data, using a deep neural network to represent attenuation coefficients.
 
-64. 📜 **SNAF: Sparse-view CBCT Reconstruction with Neural Attenuation Fields.**
+65. 📜 **SNAF: Sparse-view CBCT Reconstruction with Neural Attenuation Fields.**
     - 📅 Publication Date: *30th Nov., 2022*
     - 📖 Preprint: *arXiv*
     - 🧑‍🔬 Authors: *Yu Fang, Lanzhuju Mei, Changjian Li, Yuan Liu, Wenping Wang, Zhiming Cui, Dinggang Shen.*
@@ -575,7 +582,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 #### Magnetic Resonance Imaging (MRI)
 
-65. 📜 **3D reconstructions of brain from MRI scans using neural radiance fields.**
+66. 📜 **3D reconstructions of brain from MRI scans using neural radiance fields.**
     - 📅 Publication Date: *24th Apr., 2023*
     - 📖 Preprint: *arXiv*
     - 🧑‍🔬 Authors: *Khadija Iddrisu, Sylwia Malec, Alessandro Crimi.*
@@ -585,7 +592,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 #### Digital Subtraction Angiography (DSA)
 
-66. 📜 **TiAVox: Time-aware Attenuation Voxels for Sparse-view 4D DSA Reconstruction.**
+67. 📜 **TiAVox: Time-aware Attenuation Voxels for Sparse-view 4D DSA Reconstruction.**
     - 📅 Publication Date: *5th Sep., 2023*
     - 📖 Preprint: *arXiv*
     - 🧑‍🔬 Authors: *Zhenghong Zhou, Huangxuan Zhao, Jiemin Fang, Dongqiao Xiang, Lei Chen, Lingxia Wu, Feihong Wu, Wenyu Liu, Chuansheng Zheng, Xinggang Wang.*
@@ -594,7 +601,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 ### Surgical Scene Reconstruction
 #### Robotic Surgery
-67. 📜 **Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery.**
+68. 📜 **Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery.**
     - 📅 Publication Date: *30th Jun., 2022*
     - 📖 Conferenc: *MICCAI, 2022*
     - 🧑‍🔬 Authors: *Yuehao Wang, Yonghao Long, Siu Hin Fan, Qi Dou.*
@@ -604,7 +611,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 #### Endoscopic Surgery
 
-68. 📜 **EndoSurf: Neural Surface Reconstruction of Deformable Tissues with Stereo Endoscope Videos.**
+69. 📜 **EndoSurf: Neural Surface Reconstruction of Deformable Tissues with Stereo Endoscope Videos.**
     - 📅 Publication Date: *21st Jul., 2023*
     - 📖 Conferenc: *MICCAI 2023*
     - 🧑‍🔬 Authors: *Ruyi Zha, Xuelian Cheng, Hongdong Li, Mehrtash Harandi, Zongyuan Ge.*
@@ -613,7 +620,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 📌 Highlight: Learns and represents a deforming surface from RGBD sequences captured via endoscope, offering improvements in high-fidelity shape reconstructions.
 ### Ultrasound Imaging
 
-69. 📜 **Ultra-NeRF: Neural Radiance Fields for Ultrasound Imaging.**
+70. 📜 **Ultra-NeRF: Neural Radiance Fields for Ultrasound Imaging.**
     - 📅 Publication Date: *25th Jan., 2023*
     - 📖 Conferenc: *MIDL, 2023*
     - 🧑‍🔬 Authors: *Magdalena Wysocki, Mohammad Farid Azampour, Christine Eilers, Benjamin Busam, Mehrdad Salehi, Nassir Navab.*
@@ -622,7 +629,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 ### Dental and Oral Imaging
 
-70. 📜 **Oral-NeXF: 3D Oral Reconstruction with Neural X-ray Field from Panoramic Imaging.**
+71. 📜 **Oral-NeXF: 3D Oral Reconstruction with Neural X-ray Field from Panoramic Imaging.**
     - 📅 Publication Date: *21st Mar., 2023*
     - 📖 Preprint: *arxiv*
     - 🧑‍🔬 Authors: *Weinan Song, Haoxin Zheng, Jiawei Yang, Chengwen Liang, Lei He.*
@@ -631,7 +638,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 ### Pose Estimation
 
-71. 📜 **Robust Single-view Cone-beam X-ray Pose Estimation with Neural Tuned Tomography (NeTT) and Masked Neural Radiance Fields (mNeRF).**
+72. 📜 **Robust Single-view Cone-beam X-ray Pose Estimation with Neural Tuned Tomography (NeTT) and Masked Neural Radiance Fields (mNeRF).**
     - 📅 Publication Date: *1st Aug., 2023*
     - 📖 Preprint: *arxiv*
     - 🧑‍🔬 Authors: *Chaochao Zhou, Syed Hasib Akhter Faruqui, Abhinav Patel, Ramez N. Abdalla, Michael C. Hurley, Ali Shaibani, Matthew B. Potts, Babak S. Jahromi, Leon Cho, Sameer A. Ansari, Donald R. Cantrell.*
