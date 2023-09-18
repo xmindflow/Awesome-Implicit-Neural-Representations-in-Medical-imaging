@@ -586,7 +586,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 #### Robotic Surgery
 68. 📜 **Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery.**
     - 📅 Publication Date: *30th Jun., 2022*
-    - 📖 Conferenc: *MICCAI, 2022*
+    - 📖 Conference: *MICCAI, 2022*
     - 🧑‍🔬 Authors: *Yuehao Wang, Yonghao Long, Siu Hin Fan, Qi Dou.*
     - 📄 [PDF](https://arxiv.org/abs/2206.15255)
     - 🖥️ [Github](https://github.com/med-air/endonerf)
@@ -596,7 +596,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 69. 📜 **EndoSurf: Neural Surface Reconstruction of Deformable Tissues with Stereo Endoscope Videos.**
     - 📅 Publication Date: *21st Jul., 2023*
-    - 📖 Conferenc: *MICCAI 2023*
+    - 📖 Conference: *MICCAI 2023*
     - 🧑‍🔬 Authors: *Ruyi Zha, Xuelian Cheng, Hongdong Li, Mehrtash Harandi, Zongyuan Ge.*
     - 📄 [PDF](https://arxiv.org/abs/2307.11307)
     - 🖥️ [Github](https://github.com/ruyi-zha/endosurf)
@@ -605,7 +605,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 70. 📜 **Ultra-NeRF: Neural Radiance Fields for Ultrasound Imaging.**
     - 📅 Publication Date: *25th Jan., 2023*
-    - 📖 Conferenc: *MIDL, 2023*
+    - 📖 Conference: *MIDL, 2023*
     - 🧑‍🔬 Authors: *Magdalena Wysocki, Mohammad Farid Azampour, Christine Eilers, Benjamin Busam, Mehrdad Salehi, Nassir Navab.*
     - 📄 [PDF](https://arxiv.org/abs/2301.10520)
     - 📌 Highlight: Introduces a physics-enhanced implicit neural representation for ultrasound imaging which accounts for view-dependent changes in appearance and geometry, improving the quality of synthesized ultrasound images.
@@ -633,35 +633,57 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 <img src="Figures/Compression.jpg" alt="Compression" width="1016" height="5"><br> 
 ## Image Compression
 
-**SCI: A Spectrum Concentrated Implicit Neural Compression for Biomedical Data.** [23th Nov., 2022] [AAAI, 2023]<br>
-*Runzhao Yang, Tingxiong Xiao, Yuxiao Cheng, Qianni Cao, Jinyuan Qu, Jinli Suo, Qionghai Dai.*<br>
- [[PDF](https://arxiv.org/abs/2209.15180)] [[Github](https://github.com/MIAGroupUT/IDIR)]
- 
-**TINC: Tree-structured Implicit Neural Compression.** [12th Nov., 2022] [arXiv, 2022]<br>
-*Runzhao Yang, Tingxiong Xiao, Yuxiao Cheng, Jinli Suo, Qionghai Dai.*<br>
- [[PDF](https://arxiv.org/abs/2211.06689)] [[Github](https://github.com/MIAGroupUT/IDIR)]
-
- **COIN++ Neural Compression Across Modalities** [8th Dec ., 2022] [arXiv preprint, 2022]<br>
-*Emilien Dupont, Hrushikesh Loya, Milad Alizadeh, Adam Goliński, Yee Whye Teh, Arnaud Doucet*<br>
- [[PDF]( https://arxiv.org/abs/2201.12904)] [[Github](https://github.com/emiliendupont/coinpp)]
-
- **SINCO: A Novel structural regularizer for image compression using implicit neural representations** [5th May., 2023] [IEEE International Conference on Acoustics, Speech and Signal Processing, 2023]<br>
-*Harry Gao, Weijie Gan, Zhixin Sun, Ulugbek S. Kamilov*<br>
- [[PDF]( https://arxiv.org/abs/2210.14974)]
+73. 📜 **SCI: A Spectrum Concentrated Implicit Neural Compression for Biomedical Data.**
+    - 📅 Publication Date: *23th Nov., 2022*
+    - 📖 Conference: *AAAI, 2023*
+    - 🧑‍🔬 Authors: *Runzhao Yang, Tingxiong Xiao, Yuxiao Cheng, Qianni Cao, Jinyuan Qu, Jinli Suo, Qionghai Dai.*
+    - 📄 [PDF](https://arxiv.org/abs/2209.15180)
+    - 🖥️ [Github](https://github.com/MIAGroupUT/IDIR)
+    - 📌 Highlight: 
+   
+74. 📜 **TINC: Tree-structured Implicit Neural Compression.**
+    - 📅 Publication Date: *12th Nov., 2022*
+    - 📖 Preprint: *arXiv*
+    - 🧑‍🔬 Authors: *Runzhao Yang, Tingxiong Xiao, Yuxiao Cheng, Jinli Suo, Qionghai Dai.*
+    - 📄 [PDF](https://arxiv.org/abs/2211.06689)
+    - 🖥️ [Github](https://github.com/MIAGroupUT/IDIR)
+    - 📌 Highlight:
+   
+75. 📜 **COIN++ Neural Compression Across Modalities.**
+    - 📅 Publication Date: *8th Dec ., 2022*
+    - 📖 Preprint: *arXiv*
+    - 🧑‍🔬 Authors: *Emilien Dupont, Hrushikesh Loya, Milad Alizadeh, Adam Goliński, Yee Whye Teh, Arnaud Doucet.*
+    - 📄 [PDF](https://arxiv.org/abs/2201.12904)
+    - 🖥️ [Github](https://github.com/emiliendupont/coinpp)
+    - 📌 Highlight:
+   
+76. 📜 **SINCO: A Novel structural regularizer for image compression using implicit neural representations.**
+    - 📅 Publication Date: *5th May., 2023*
+    - 📖 Conferenc: *IEEE International Conference on Acoustics, Speech and Signal Processing, 2023*
+    - 🧑‍🔬 Authors: *Harry Gao, Weijie Gan, Zhixin Sun, Ulugbek S. Kamilov.*
+    - 📄 [PDF](https://arxiv.org/abs/2210.14974)
+    - 📌 Highlight: 
+   
 
 [<sub>Return to List</sub>](#return-to-list)
 <img src="Figures/Compression.jpg" alt="Compression" width="1016" height="5"><br> 
 <img src="Figures/Synthesis.jpg" alt="Synthesis" width="1016" height="5"><br> 
  ## Image Synthesis
 
-**Implicit Neural Representations for Generative Modeling of Living Cell Shapes.** [6th Oct., 2022] [International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022]<br>
-*David Wiesner, Julian Suk, Sven Dummer, David Svoboda, Jelmer M. Wolterink.*<br>
- [[PDF](https://arxiv.org/abs/2207.06283)] 
-
-**Generative modeling of living cells with SO(3)-equivariant implicit neural representations.** [18 th Apr., 2023] [arXiv preprint, 2023]<br>
-*David Wiesner, Julian Suk, Sven Dummer, Tereza Nečasová, Vladimír Ulman, David Svoboda, Jelmer M. Wolterink*<br>
- [[PDF]( https://arxiv.org/abs/2304.08960)]
-
+77. 📜 **Implicit Neural Representations for Generative Modeling of Living Cell Shapes.**
+    - 📅 Publication Date: *6th Oct., 2022*
+    - 📖 Conference: *International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022*
+    - 🧑‍🔬 Authors: *David Wiesner, Julian Suk, Sven Dummer, David Svoboda, Jelmer M. Wolterink.*
+    - 📄 [PDF](https://arxiv.org/abs/2207.06283)
+    - 📌 Highlight:
+   
+78. 📜 **Generative modeling of living cells with SO(3)-equivariant implicit neural representations.**
+    - 📅 Publication Date: *18th Apr., 2023*
+    - 📖 Preprint: *arXiv*
+    - 🧑‍🔬 Authors: *David Wiesner, Julian Suk, Sven Dummer, Tereza Nečasová, Vladimír Ulman, David Svoboda, Jelmer M. Wolterink.*
+    - 📄 [PDF](https://arxiv.org/abs/2304.08960)
+    - 📌 Highlight:
+   
 
  <img src="Figures/Synthesis.jpg" alt="Synthesis" width="1016" height="5">
 
