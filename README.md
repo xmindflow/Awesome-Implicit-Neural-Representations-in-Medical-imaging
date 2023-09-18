@@ -639,7 +639,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 🧑‍🔬 Authors: *Runzhao Yang, Tingxiong Xiao, Yuxiao Cheng, Qianni Cao, Jinyuan Qu, Jinli Suo, Qionghai Dai.*
     - 📄 [PDF](https://arxiv.org/abs/2209.15180)
     - 🖥️ [Github](https://github.com/MIAGroupUT/IDIR)
-    - 📌 Highlight: 
+    - 📌 Highlight: Introduces an adaptive partitioning strategy to divide data into spectrum-concentrated blocks, a funnel-shaped INR structure for efficient data compression, and an allocation strategy for INR parameters.
    
 74. 📜 **TINC: Tree-structured Implicit Neural Compression.**
     - 📅 Publication Date: *12th Nov., 2022*
@@ -647,7 +647,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 🧑‍🔬 Authors: *Runzhao Yang, Tingxiong Xiao, Yuxiao Cheng, Jinli Suo, Qionghai Dai.*
     - 📄 [PDF](https://arxiv.org/abs/2211.06689)
     - 🖥️ [Github](https://github.com/MIAGroupUT/IDIR)
-    - 📌 Highlight:
+    - 📌 Highlight: Uses ensemble learning and a divide-and-conquer approach to compress different regions and organizes the data using a tree structure to extract shared parameters, removing redundancy and ensuring continuity.
    
 75. 📜 **COIN++ Neural Compression Across Modalities.**
     - 📅 Publication Date: *8th Dec ., 2022*
@@ -655,15 +655,14 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 🧑‍🔬 Authors: *Emilien Dupont, Hrushikesh Loya, Milad Alizadeh, Adam Goliński, Yee Whye Teh, Arnaud Doucet.*
     - 📄 [PDF](https://arxiv.org/abs/2201.12904)
     - 🖥️ [Github](https://github.com/emiliendupont/coinpp)
-    - 📌 Highlight:
+    - 📌 Highlight: Uses meta-learning to reduce encoding time and introduces shared structures and modulation for compression across different modalities.
    
 76. 📜 **SINCO: A Novel structural regularizer for image compression using implicit neural representations.**
     - 📅 Publication Date: *5th May., 2023*
     - 📖 Conferenc: *IEEE International Conference on Acoustics, Speech and Signal Processing, 2023*
     - 🧑‍🔬 Authors: *Harry Gao, Weijie Gan, Zhixin Sun, Ulugbek S. Kamilov.*
     - 📄 [PDF](https://arxiv.org/abs/2210.14974)
-    - 📌 Highlight: 
-   
+    - 📌 Highlight: Uses an MLP to compress images and a segmentation network to predict segmentation masks, along with a structural regularizer to improve Dice scores between original and compressed segmentation maps.   
 
 [<sub>Return to List</sub>](#return-to-list)
 <img src="Figures/Compression.jpg" alt="Compression" width="1016" height="5"><br> 
