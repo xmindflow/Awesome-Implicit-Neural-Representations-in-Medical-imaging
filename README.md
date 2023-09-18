@@ -639,7 +639,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
  
 **TINC: Tree-structured Implicit Neural Compression.** [12th Nov., 2022] [arXiv, 2022]<br>
 *Runzhao Yang, Tingxiong Xiao, Yuxiao Cheng, Jinli Suo, Qionghai Dai.*<br>
- [[PDF]()] [[Github](https://github.com/MIAGroupUT/IDIR)]
+ [[PDF](https://arxiv.org/abs/2211.06689)] [[Github](https://github.com/MIAGroupUT/IDIR)]
 
  **COIN++ Neural Compression Across Modalities** [8th Dec ., 2022] [arXiv preprint, 2022]<br>
 *Emilien Dupont, Hrushikesh Loya, Milad Alizadeh, Adam Goliński, Yee Whye Teh, Arnaud Doucet*<br>
