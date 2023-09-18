@@ -39,52 +39,35 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 <a name="return-to-list"></a>
 
-<details>
-<summary><span><span>▶️ Image Reconstruction <sub>(click to expand ⬇️)</sub></span></summary>
-
-  > - [Tomography and CT](#tomography-and-ct)
-  > - [MRI](#mri)
-  > - [Ultrasound](#ultrasound)
-  > - [Dental and Maxillofacial](#dental-and-maxillofacial)
-  > - [General and Miscellaneous](#general-and-miscellaneous)
-</details>
-
-<details>
-<summary><span>▶️ Image Segmentation</span></summary>
-
-> - [Brain Structures and Lesions](#brain-structures-and-lesions)
-> - [Cardiac and Heart Structures](#cardiac-and-heart-structures)
-> - [Retinal Blood Vessels](#retinal-blood-vessels)
-> - [3D Segmentation](#3d-segmentation)
-> - [Boundary Refinement](#boundary-refinement)
-> - [Patch Level Segmentation](#patch-level-segmentation)
-</details>
-
-<details>
-<summary><span>▶️ Image Registration</span></summary>
-
-> - [Deformable Registration](#deformable-registration)
-> - [Diffeomorphic Registration](#diffeomorphic-registration)
-</details>
-
-<details>
-<summary><span>▶️ Neural Rendering</span></summary>
-
-> - [Reconstruction from Limited or Sparse Views](#reconstruction-from-limited-or-sparse-views)
->   - [Computed Tomography (CT)](#computed-tomography-ct)
->   - [Cone Beam Computed Tomography (CBCT)](#cone-beam-computed-tomography-cbct)
->   - [Magnetic Resonance Imaging (MRI)](#magnetic-resonance-imaging-mri)
->   - [Digital Subtraction Angiography (DSA)](#digital-subtraction-angiography-dsa)
-> - [Surgical Scene Reconstruction](#surgical-scene-reconstruction)
->   - [Robotic Surgery](#robotic-surgery)
->   - [Endoscopic Surgery](#endoscopic-surgery)
-> - [Dental and Oral Imaging](#dental-and-oral-imaging)
-> - [Pose Estimation](#pose-estimation)
-</details>
-
-
+- [Image Reconstruction](#image-reconstruction)
+  - [Tomography and CT](#tomography-and-ct)
+  - [MRI](#mri)
+  - [Ultrasound](#ultrasound)
+  - [Dental and Maxillofacial](#dental-and-maxillofacial)
+  - [General and Miscellaneous](#general-and-miscellaneous)
+- [Image Segmentation](#image-segmentation)
+  - [Brain Structures and Lesions](#brain-structures-and-lesions)
+  - [Cardiac and Heart Structures](#cardiac-and-heart-structures)
+  - [Retinal Blood Vessels](#retinal-blood-vessels)
+  - [3D Segmentation](#3d-segmentation)
+  - [Boundary Refinement](#boundary-refinement)
+  - [Patch Level Segmentation](#patch-level-segmentation)
+- [Image Registration](#image-registration)
+  - [Deformable Registration](#deformable-registration)
+  - [Diffeomorphic Registration](#diffeomorphic-registration)
+- [Neural Rendering](#neural-rendering)
+  - [Reconstruction from Limited or Sparse Views](#reconstruction-from-limited-or-sparse-views)
+    - [Computed Tomography (CT)](#computed-tomography-ct)
+    - [Cone Beam Computed Tomography (CBCT)](#cone-beam-computed-tomography-cbct)
+    - [Magnetic Resonance Imaging (MRI)](#magnetic-resonance-imaging-mri)
+    - [Digital Subtraction Angiography (DSA)](#digital-subtraction-angiography-dsa)
+  - [Surgical Scene Reconstruction](#surgical-scene-reconstruction)
+    - [Robotic Surgery](#robotic-surgery)
+    - [Endoscopic Surgery](#endoscopic-surgery)
+  - [Dental and Oral Imaging](#dental-and-oral-imaging)
+  - [Pose Estimation](#pose-estimation)
 - [Image Compression](#image-compression)
-- [Image-Synthesis](#image-synthesis)
+- [Image Synthesis](#image-synthesis)
 
 (Each section is ordered by the publication dates)
 <img src="Figures/Reconstruction.jpg" alt="reconstruction" width="1000" height="5"><br>
