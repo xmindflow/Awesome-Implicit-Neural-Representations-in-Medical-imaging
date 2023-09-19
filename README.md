@@ -377,7 +377,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
      - 🧑‍🔬 Authors: Shanlin Sun, Thanh-Tung Le, Chenyu You, Hao Tang, Kun Han, Haoyu Ma, Deying Kong, Xiangyi Yan, Xiaohui Xie
      - 📄 [PDF](https://arxiv.org/abs/2307.12299)
 
-47 📜 **A self-supervised learning approach for high-resolution diffuse optical tomography using neural fields.**
+47. 📜 **A self-supervised learning approach for high-resolution diffuse optical tomography using neural fields.**
        - 🗓️ Publication Date: *28th Jul. 2023*
        - 📖 Conference: Proc. SPIE 12753, Second Conference on Biomedical Photonics and Cross-Fusion (BPC 2023)
        - 🧑‍🔬 Authors: *Linlin Li, Siyuan Shen, Shengyu Gao, Yuehan Wang, Liangtao Gu, Shiying Li, Xingjun Zhu, Jiahua Jiang, Jingyi Yu, Wuwei Ren*
