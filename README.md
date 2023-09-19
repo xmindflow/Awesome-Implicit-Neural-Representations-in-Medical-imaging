@@ -344,7 +344,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
      - 🗓️ Publication Date: *11th May. 2022*
      - 🧑‍🔬 Authors: *Luke Lozenski, Mark A. Anastasio, Umberto Villa*
      - 📄 [PDF](https://arxiv.org/abs/2205.05585)
-     - 📌 Highlight: The "Partition of Unity Network" (POUnet) is employed as a specialized neural field architecture to reconstruct dynamic biomedical images, which allows it to represent the images that are piecewise continuous and differentiable. The method can optimize against indirect and possibly noisy measurements, ensuring enhanced accuracy in dynamically evolving imaging scenarios.
+     - 📌 Highlight: The "Partition of Unity Network" (POUnet) is employed as a specialized neural field architecture to reconstruct dynamic biomedical images, which allows it to optimize against indirect and possibly noisy measurements, ensuring enhanced accuracy in dynamically evolving imaging scenarios.
 
        
 41. 📜 **Going Off-Grid: Continuous Implicit Neural Representations for 3D Vascular Modeling**
