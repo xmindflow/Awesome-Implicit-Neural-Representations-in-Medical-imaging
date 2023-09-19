@@ -44,7 +44,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
   - [MRI](#mri)
   - [Ultrasound](#ultrasound)
   - [Dental and Maxillofacial](#dental-and-maxillofacial)
-  - [General and Miscellaneous](#general-and-miscellaneous)
+  - [Miscellaneous](#miscellaneous)
 - [Image Segmentation](#image-segmentation)
   - [Brain Structures and Lesions](#brain-structures-and-lesions)
   - [Cardiac and Heart Structures](#cardiac-and-heart-structures)
@@ -376,7 +376,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
      - 🗓️ Publication Date: 23rd Jul. 2023
      - 🧑‍🔬 Authors: Shanlin Sun, Thanh-Tung Le, Chenyu You, Hao Tang, Kun Han, Haoyu Ma, Deying Kong, Xiangyi Yan, Xiaohui Xie
      - 📄 [PDF](https://arxiv.org/abs/2307.12299)
-   
+
 47 📜 **A self-supervised learning approach for high-resolution diffuse optical tomography using neural fields.**
      - 🗓️ Publication Date: *28th Jul. 2023*
      - 📖 Conference: Proc. SPIE 12753, Second Conference on Biomedical Photonics and Cross-Fusion (BPC 2023)
