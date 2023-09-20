@@ -82,6 +82,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
    - 📖 Proceedings: IEEE/CVF International Conference on Computer Vision, 2021
    - 🧑‍🔬 Authors: Guangming Zang, Ramzi Idoughi, Rui Li, Peter Wonka, Wolfgang Heidrich
    - 📄 [Download PDF](https://neuralfields.cs.brown.edu/paper_243.html)
+   - 📌 Highlight: Uses coordinate-based neural representations for CT reconstructions, capturing details often overlooked by standard deep learning. It's self-supervised, using the scanned object's own projections as training data, and further refined with geometric techniques.
 
 2. 📜 **CoIL: Coordinate-based Internal Learning for Imaging Inverse Problems**
    - 🗓️ Publication Date: 9th Feb. 2021
@@ -89,6 +90,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
    - 🧑‍🔬 Authors: Yu Sun, Jiaming Liu, Mingyang Xie, Brendt Wohlberg, Ulugbek S. Kamilov
    - 📄 [Download PDF](https://arxiv.org/abs/2102.05181)
    - 💻 [GitHub](https://github.com/wustl-cig/Cooridnate-based-I)
+   - 📌 Highlight: Takes measurement coordinates, such as view angle θ and spatial location l in CT scans, as its input, then outputs the corresponding sensor responses for these coordinates, creating an implicit neural representation of the measurement field.
 
 3. 📜 **Dynamic CT Reconstruction from Limited Views with Implicit Neural Representations and Parametric Motion Fields**
    - 🗓️ Publication Date: 23th Apr. 2021
