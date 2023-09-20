@@ -97,6 +97,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
    - 📖 Proceedings: IEEE/CVF International Conference on Computer Vision, 2021
    - 🧑‍🔬 Authors: Albert W. Reed, Hyojin Kim, Rushil Anirudh, K. Aditya Mohan, Kyle Champley, Jingu Kang, Suren Jayasuriya
    - 📄 [Download PDF](https://arxiv.org/abs/2104.11745)
+   - 📌 Highlight: Uses implicit neural representations (INRs) for 4D-CT reconstruction. Paired with a parametric motion field, they estimate evolving 3D objects. Using a differentiable Radon transform, reconstructions are synthesized and compared with x-ray data, improving reconstruciton quality without training data.
 
 4. 📜 **Neural Computed Tomography**
    - 🗓️ Publication Date: 17th Jan. 2022
