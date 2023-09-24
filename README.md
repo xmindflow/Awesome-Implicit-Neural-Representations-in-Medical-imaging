@@ -81,18 +81,18 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 | Title | Publication Date | Venue | Authors | Links |
 | --- | --- | --- | --- | --- |
-| IntraTomo: Self-supervised Learning-based Tomography via Sinogram Synthesis and Prediction | 9th Feb. 2021 | ICCV 2021 | Guangming Zang et al. | [PDF](https://neuralfields.cs.brown.edu/paper_243.html), [GitHub](https://github.com/wustl-cig/Cooridnate-based-I) |
-| CoIL: Coordinate-based Internal Learning for Imaging Inverse Problems | 9th Feb. 2021 | IEEE TCI 2021 | Yu Sun et al. | [PDF](https://arxiv.org/abs/2102.05181), [GitHub](https://github.com/wustl-cig/Cooridnate-based-I) |
-| Dynamic CT Reconstruction from Limited Views with Implicit Neural Representations and Parametric Motion Fields | 23th Apr. 2021 | ICCV 2021 | Albert W. Reed et al. | [PDF](https://arxiv.org/abs/2104.11745) |
-| Neural Computed Tomography | 17th Jan. 2022 | arXiv 2022 | Kunal Gupta et al. | [PDF](https://arxiv.org/abs/2201.06574), [GitHub](https://github.com/KunalMGupta/DIFIR-CT) |
-| Streak artifacts reduction algorithm using an implicit neural representation in sparse-view CT | 4th Apr. 2022 | Physics of Medical Imaging 2022 | Byeongjoon Kim et al. | [PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12031/120312N/Streak-artifacts-reduction-algorithm-using-an-implicit-neural-representation-in/10.1117/12.2610722.short) |
-| Self-Supervised Coordinate Projection Network for Sparse-View Computed Tomography | 12th Sep. 2022 | IEEE TCI 2023 | Qing Wu et al. | [PDF](https://ieeexplore.ieee.org/document/10143286), [GitHub](https://github.com/iwuqing/SCOPE) |
-| OReX: Object Reconstruction from Planar Cross-sections Using Neural Fields | 23th Nov. 2022 | CVPR 2023 | Haim Sawdayee et al. | [PDF](https://arxiv.org/abs/2211.12886), [GitHub](https://github.com/haimsaw/OReX) |
-| NeuRec: Incorporating Interpatient prior to Sparse-View Image Reconstruction for Neurorehabilitation | 21th Feb. 2022 | BioMed Res. Int. 2022 | Cong Liu et al. | [PDF](https://www.hindawi.com/journals/bmri/2022/5426643/) |
-| MEPNet: A Model-Driven Equivariant Proximal Network for Joint Sparse-View Reconstruction and Metal Artifact Reduction in CT Images | 25th Jun. 2023 | arXiv | Hong Wang et al. | [PDF](https://ui.adsabs.harvard.edu/abs/2023arXiv230614274W/abstract), [GitHub](https://github.com/hongwang01/mepnet) |
-| UncertaINR: Uncertainty Quantification of End-to-End Implicit Neural Representations for Computed Tomography | 3rd Jun. 2022 | - | Francisca Vasconcelos et al. | [PDF](https://arxiv.org/abs/2202.10847), [GitHub](https://github.com/bobby-he/uncertainr) |
-| Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction | 27th Jun. 2023 | arXiv | Qing Wu et al. | [PDF](https://arxiv.org/abs/2306.15203) |
-| NAISR: A 3D Neural Additive Model for Interpretable Shape Representation | 16th Mar. 2023 | arXiv | Yining Jiao et al. | [PDF](https://arxiv.org/abs/2303.09234), [GitHub](https://github.com/uncbiag/naisr) |
+| IntraTomo: Self-supervised Learning-based Tomography via Sinogram Synthesis and Prediction | Feb. 9 | ICCV 2021 | Guangming Zang et al. | [PDF](https://neuralfields.cs.brown.edu/paper_243.html), [GitHub](https://github.com/wustl-cig/Cooridnate-based-I) |
+| CoIL: Coordinate-based Internal Learning for Imaging Inverse Problems | Feb. 9 | IEEE TCI 2021 | Yu Sun et al. | [PDF](https://arxiv.org/abs/2102.05181), [GitHub](https://github.com/wustl-cig/Cooridnate-based-I) |
+| Dynamic CT Reconstruction from Limited Views with Implicit Neural Representations and Parametric Motion Fields | Apr. 23 | ICCV 2021 | Albert W. Reed et al. | [PDF](https://arxiv.org/abs/2104.11745) |
+| Neural Computed Tomography | Jan. 17 | arXiv 2022 | Kunal Gupta et al. | [PDF](https://arxiv.org/abs/2201.06574), [GitHub](https://github.com/KunalMGupta/DIFIR-CT) |
+| Streak artifacts reduction algorithm using an implicit neural representation in sparse-view CT | Apr. 4 | Physics of Medical Imaging 2022 | Byeongjoon Kim et al. | [PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12031/120312N/Streak-artifacts-reduction-algorithm-using-an-implicit-neural-representation-in/10.1117/12.2610722.short) |
+| Self-Supervised Coordinate Projection Network for Sparse-View Computed Tomography | Sep. 12 | IEEE TCI 2023 | Qing Wu et al. | [PDF](https://ieeexplore.ieee.org/document/10143286), [GitHub](https://github.com/iwuqing/SCOPE) |
+| OReX: Object Reconstruction from Planar Cross-sections Using Neural Fields | Nov. 23 | CVPR 2023 | Haim Sawdayee et al. | [PDF](https://arxiv.org/abs/2211.12886), [GitHub](https://github.com/haimsaw/OReX) |
+| NeuRec: Incorporating Interpatient prior to Sparse-View Image Reconstruction for Neurorehabilitation | Feb. 21 | BioMed Res '22 | Cong Liu et al. | [PDF](https://www.hindawi.com/journals/bmri/2022/5426643/) |
+| MEPNet: A Model-Driven Equivariant Proximal Network for Joint Sparse-View Reconstruction and Metal Artifact Reduction in CT Images | Jun. 25 | arXiv | Hong Wang et al. | [PDF](https://ui.adsabs.harvard.edu/abs/2023arXiv230614274W/abstract), [GitHub](https://github.com/hongwang01/mepnet) |
+| UncertaINR: Uncertainty Quantification of End-to-End Implicit Neural Representations for Computed Tomography | Jun. 3 | - | Francisca Vasconcelos et al. | [PDF](https://arxiv.org/abs/2202.10847), [GitHub](https://github.com/bobby-he/uncertainr) |
+| Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction | Jun. 27 | arXiv | Qing Wu et al. | [PDF](https://arxiv.org/abs/2306.15203) |
+| NAISR: A 3D Neural Additive Model for Interpretable Shape Representation | Mar. 16 | arXiv | Yining Jiao et al. | [PDF](https://arxiv.org/abs/2303.09234), [GitHub](https://github.com/uncbiag/naisr) |
 
 
 
