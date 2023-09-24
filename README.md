@@ -77,6 +77,25 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 ### Tomography and CT
 
+### Tomography and CT
+
+| Title | Publication Date | Source | Authors | Links | Highlights |
+|-------|------------------|--------|---------|-------|------------|
+| **IntraTomo: Self-supervised Learning-based Tomography via Sinogram Synthesis and Prediction** | 9th Feb. 2021 | IEEE/CVF International Conference on Computer Vision, 2021 | Guangming Zang, et al. | [📄PDF](https://neuralfields.cs.brown.edu/paper_243.html) | Uses coordinate-based neural representations... |
+| **CoIL: Coordinate-based Internal Learning for Imaging Inverse Problems** | 9th Feb. 2021 | IEEE Transactions on Computational Imaging, 2021 | Yu Sun, et al. | [📄PDF](https://arxiv.org/abs/2102.05181) [💻GitHub](https://github.com/wustl-cig/Cooridnate-based-I) | Takes measurement coordinates... |
+| **Dynamic CT Reconstruction from Limited Views...** | 23th Apr. 2021 | IEEE/CVF International Conference on Computer Vision, 2021 | Albert W. Reed, et al. | [📄PDF](https://arxiv.org/abs/2104.11745) | Uses implicit neural representations (INRs)... |
+| **Neural Computed Tomography** | 17th Jan. 2022 | arXiv, 2022 | Kunal Gupta, et al. | [📄PDF](https://arxiv.org/abs/2201.06574) [💻GitHub](https://github.com/KunalMGupta/DIFIR-CT) | - |
+| **Streak artifacts reduction algorithm...** | 4th Apr. 2022 | Medical Imaging 2022: Physics of Medical Imaging, 2022 | Byeongjoon Kim, et al. | [📄PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12031/120312N/Streak-artifacts-reduction-algorithm-using-an-implicit-neural-representation-in/10.1117/12.2610722.short) | - |
+| **Self-Supervised Coordinate Projection Network...** | 12th Sep. 2022 | IEEE Transactions on Computational Imaging, 2023 | Qing Wu, et al. | [📄PDF](https://ieeexplore.ieee.org/document/10143286) [💻GitHub](https://github.com/iwuqing/SCOPE) | - |
+| **OReX: Object Reconstruction from Planar Cross-sections Using Neural Fields** | 23th Nov. 2022 | CVPR, 2023 | Haim Sawdayee, et al. | [📄PDF](https://arxiv.org/abs/2211.12886) [💻GitHub](https://github.com/haimsaw/OReX) | - |
+| **NeuRec: Incorporating Interpatient prior...** | 21th Feb. 2022 | BioMed Research International, 2022 | Cong Liu, et al. | [📄PDF](https://www.hindawi.com/journals/bmri/2022/5426643/) | - |
+| **MEPNet: A Model-Driven Equivariant Proximal Network...** | 25th Jun. 2023 | arXiv | Hong Wang, et al. | [📄PDF](https://ui.adsabs.harvard.edu/abs/2023arXiv230614274W/abstract) [💻GitHub](https://github.com/hongwang01/mepnet) | - |
+| **UncertaINR: Uncertainty Quantification of End-to-End Implicit Neural Representations for Computed Tomography** | 3rd Jun. 2022 | - | Francisca Vasconcelos, et al. | [📄PDF](https://arxiv.org/abs/2202.10847) [💻GitHub](https://github.com/bobby-he/uncertainr) | - |
+| **Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction** | 27th Jun. 2023 | arXiv | Qing Wu, et al. | [📄PDF](https://arxiv.org/abs/2306.15203) | - |
+| **NAISR: A 3D Neural Additive Model for Interpretable Shape Representation** | 16th Mar. 2023 | arXiv | Yining Jiao, et al. | [📄PDF](https://arxiv.org/abs/2303.09234) [💻GitHub](https://github.com/uncbiag/naisr) | - |
+
+
+
 1. 📜 **IntraTomo: Self-supervised Learning-based Tomography via Sinogram Synthesis and Prediction**
    - 🗓️ Publication Date: 9th Feb. 2021
    - 📖 Proceedings: IEEE/CVF International Conference on Computer Vision, 2021
