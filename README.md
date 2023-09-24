@@ -77,8 +77,6 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 ### Tomography and CT
 
-### Tomography and CT
-
 | Title | Date | Venue | Authors | Links |
 | :---: | :---: | :---: | :---: | :---: |
 | IntraTomo: Self-supervised Learning-based Tomography via Sinogram Synthesis and Prediction | Feb. 9 | ICCV 2021 | Guangming Zang et al. | [PDF](https://neuralfields.cs.brown.edu/paper_243.html)![Scholar citations](https://img.shields.io/badge/Citations-29-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee), [GitHub](https://github.com/wustl-cig/Cooridnate-based-I) |
