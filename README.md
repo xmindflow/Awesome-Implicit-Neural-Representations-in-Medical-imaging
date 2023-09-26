@@ -78,7 +78,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 ### Tomography and CT
 
 | Title | Date | Venue | Authors | Links |
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :----: | :---: | :---: | :---: |
 | IntraTomo: Self-supervised Learning-based Tomography via Sinogram Synthesis and Prediction | Feb. 9 | ICCV 2021 | Guangming Zang et al. | [PDF](https://neuralfields.cs.brown.edu/paper_243.html)![Scholar citations](https://img.shields.io/badge/Citations-29-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee), [GitHub](https://github.com/wustl-cig/Cooridnate-based-I) |
 | CoIL: Coordinate-based Internal Learning for Imaging Inverse Problems | Feb. 9 | IEEE TCI 2021 | Yu Sun et al. | [PDF](https://arxiv.org/abs/2102.05181)![Scholar citations](https://img.shields.io/badge/Citations-23-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee), [GitHub](https://github.com/wustl-cig/Cooridnate-based-I) |
 | Dynamic CT Reconstruction from Limited Views with Implicit Neural Representations and Parametric Motion Fields | Apr. 23 | ICCV 2021 | Albert W. Reed et al. | [PDF](https://arxiv.org/abs/2104.11745)![Scholar citations](https://img.shields.io/badge/Citations-32-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee) |
