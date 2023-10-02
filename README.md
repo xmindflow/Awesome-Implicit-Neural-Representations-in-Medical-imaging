@@ -289,7 +289,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
      - 🗓️ Publication Date: 28th Mar. 2023
      - 📖 Conference: *ICCV, 2023*
      - 🧑‍🔬 Authors: Zixuan Chen, Jianhuang Lai, Lingxiao Yang, Xiaohua Xie
-     - 📄 [PDF](https://arxiv.org/abs/2303.16242)
+     - 📄 [PDF](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_CuNeRF_Cube-Based_Neural_Radiance_Field_for_Zero-Shot_Medical_Image_Arbitrary-Scale_ICCV_2023_paper.html)
        
 [<sub>Return to List</sub>](#return-to-list)
 
