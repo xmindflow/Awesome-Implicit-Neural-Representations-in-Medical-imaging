@@ -287,6 +287,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
    
 33. 📜 **CuNeRF: Cube-Based Neural Radiance Field for Zero-Shot Medical Image Arbitrary-Scale Super Resolution**
      - 🗓️ Publication Date: 28th Mar. 2023
+     - 📖 Conference: *ICCV, 2023*
      - 🧑‍🔬 Authors: Zixuan Chen, Jianhuang Lai, Lingxiao Yang, Xiaohua Xie
      - 📄 [PDF](https://arxiv.org/abs/2303.16242)
        
