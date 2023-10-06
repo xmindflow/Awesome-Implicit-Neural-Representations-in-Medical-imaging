@@ -209,8 +209,9 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 21. 📜 **Multi-contrast MRI Super-resolution via Implicit Neural Representations**
       - 🗓️ Publication Date: 27th Mar. 2023
+      - 📖 Conference: *MICCAI, 2023*
       - 🧑‍🔬 Authors: Julian McGinnis, Suprosanna Shit, Hongwei Bran Li, Vasiliki Sideri-Lampretsa, Robert Graf, Maik Dannecker, Jiazhen Pan, Nil Stolt Ansö, Mark Mühlau, Jan S. Kirschke, Daniel Rueckert, Benedikt Wiestler
-      - 📄 [PDF](https://arxiv.org/abs/2303.15065)
+      - 📄 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_17)
       - 💻 [GitHub](https://github.com/jqmcginnis/multi_contrast_inr)
 
 22. 📜 **Streak artifacts reduction algorithm using an implicit neural representation in sparse-view CT.**
@@ -272,6 +273,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
       - 🧑‍🔬 Authors: *Hao Li, Yusheng Zhou, Jianan Liu, Xiling Liu, Tao Huang, Zhihan Lv.*
       - 📄 [PDF](https://arxiv.org/abs/2309.06067)
       - 📌 Highlight: Uses INR to parametrize fully-sampled MRI images as continuous functions, enhanced by a scale-embedded encoder for scale-independent feature production.
+
 
 [<sub>Return to List</sub>](#return-to-list)
 
