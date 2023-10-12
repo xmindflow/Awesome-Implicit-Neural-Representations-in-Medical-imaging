@@ -62,8 +62,6 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - [Magnetic Resonance Imaging (MRI)](#magnetic-resonance-imaging-mri)
     - [Digital Subtraction Angiography (DSA)](#digital-subtraction-angiography-dsa)
   - [Surgical Scene Reconstruction](#surgical-scene-reconstruction)
-    - [Robotic Surgery](#robotic-surgery)
-    - [Endoscopic Surgery](#endoscopic-surgery)
   - [Dental and Oral Imaging](#dental-and-oral-imaging)
   - [Pose Estimation](#pose-estimation)
 - [Image Compression](#image-compression)
@@ -609,7 +607,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 📌 Highlight: A method for high-quality sparse-view 4D DSA reconstruction, reducing the required radiation dose and increasing the efficiency of 4D imaging in diagnosing vascular diseases.
 
 ### Surgical Scene Reconstruction
-#### Robotic Surgery
+
 70. 📜 **Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery.**
     - 📅 Publication Date: *30th Jun., 2022*
     - 📖 Conference: *MICCAI, 2022*
@@ -618,8 +616,6 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 🖥️ [Github](https://github.com/med-air/endonerf)
     - 📌 Highlight: Uses dynamic neural radiance fields to reconstruct deformable tissues during robotic surgery from stereo video captures 
 
-#### Endoscopic Surgery
-
 71. 📜 **EndoSurf: Neural Surface Reconstruction of Deformable Tissues with Stereo Endoscope Videos.**
     - 📅 Publication Date: *21st Jul., 2023*
     - 📖 Conference: *MICCAI 2023*
@@ -627,6 +623,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 📄 [PDF](https://arxiv.org/abs/2307.11307)
     - 🖥️ [Github](https://github.com/ruyi-zha/endosurf)
     - 📌 Highlight: Learns and represents a deforming surface from RGBD sequences captured via endoscope, offering improvements in high-fidelity shape reconstructions.
+  
 ### Ultrasound Imaging
 
 72. 📜 **Ultra-NeRF: Neural Radiance Fields for Ultrasound Imaging.**
