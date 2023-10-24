@@ -551,8 +551,16 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 📖 Preprint: *arXiv*
     - 🧑‍🔬 Authors: *Lin Tian, Soumyadip Sengupta, Hastings Greer, Raúl San José Estépar, Marc Niethammer*
     - 📄 [PDF](https://arxiv.org/abs/2309.07322)
-  
+   
+### Other
 
+65. 📜 **Exploring the performance of implicit neural representations for brain image registration**
+    - 📅 Publication Date: *13th Oct., 2023*
+    - 📖 Journal: *Scientific Reports*
+    - 🧑‍🔬 Authors: *Michal Byra, Charissa Poon, Muhammad Febrian Rachmadi, Matthias Schlachter, Henrik Skibbe*
+    - 📄 [PDF](https://www.nature.com/articles/s41598-023-44517-5)
+    - 📌 Highlight: Investigated the effectiveness of INRs in enhancing brain image registration within MRI settings
+  
 [<sub>Return to List</sub>](#return-to-list)
 <img src="Figures/Registration.jpg" alt="Registration" width="1016" height="5"><br>
 <img src="Figures/Neural Rendering.jpg" alt="Neural Rendering" width="1016" height="5"><br>
@@ -562,7 +570,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 #### Computed Tomography (CT)
 
-65. 📜 **MedNeRF: Medical Neural Radiance Fields for Reconstructing 3D-aware CT-Projections from a Single X-ray.**
+66. 📜 **MedNeRF: Medical Neural Radiance Fields for Reconstructing 3D-aware CT-Projections from a Single X-ray.**
     - 📅 Publication Date: *2nd Feb., 2022*
     - 📖 Conference: *IEEE EMBC, 2022*
     - 🧑‍🔬 Authors: *Abril Corona-Figueroa, Jonathan Frawley, Sam Bond-Taylor, Sarath Bethapudi, Hubert P. H. Shum, Chris G. Willcocks.*
@@ -572,7 +580,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 #### Cone Beam Computed Tomography (CBCT)
 
-66. 📜  **NAF: Neural Attenuation Fields for Sparse-View CBCT Reconstruction.**
+67. 📜  **NAF: Neural Attenuation Fields for Sparse-View CBCT Reconstruction.**
     - 📅 Publication Date: *29th Sep., 2022*
     - 📖 Conference: *MICCAI, 2022*
     - 🧑‍🔬 Authors: *Ruyi Zha, Yanhao Zhang, Hongdong Li.*
@@ -580,7 +588,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 🖥️ [Github](https://github.com/ruyi-zha/naf_cbct)
     - 📌 Highlight: A self-supervised approach for CBCT reconstruction that requires no external training data, using a deep neural network to represent attenuation coefficients.
 
-67. 📜 **SNAF: Sparse-view CBCT Reconstruction with Neural Attenuation Fields.**
+68. 📜 **SNAF: Sparse-view CBCT Reconstruction with Neural Attenuation Fields.**
     - 📅 Publication Date: *30th Nov., 2022*
     - 📖 Preprint: *arXiv*
     - 🧑‍🔬 Authors: *Yu Fang, Lanzhuju Mei, Changjian Li, Yuan Liu, Wenping Wang, Zhiming Cui, Dinggang Shen.*
@@ -589,7 +597,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 #### Magnetic Resonance Imaging (MRI)
 
-68. 📜 **3D reconstructions of brain from MRI scans using neural radiance fields.**
+69. 📜 **3D reconstructions of brain from MRI scans using neural radiance fields.**
     - 📅 Publication Date: *24th Apr., 2023*
     - 📖 Preprint: *arXiv*
     - 🧑‍🔬 Authors: *Khadija Iddrisu, Sylwia Malec, Alessandro Crimi.*
@@ -599,7 +607,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 #### Digital Subtraction Angiography (DSA)
 
-69. 📜 **TiAVox: Time-aware Attenuation Voxels for Sparse-view 4D DSA Reconstruction.**
+70. 📜 **TiAVox: Time-aware Attenuation Voxels for Sparse-view 4D DSA Reconstruction.**
     - 📅 Publication Date: *5th Sep., 2023*
     - 📖 Preprint: *arXiv*
     - 🧑‍🔬 Authors: *Zhenghong Zhou, Huangxuan Zhao, Jiemin Fang, Dongqiao Xiang, Lei Chen, Lingxia Wu, Feihong Wu, Wenyu Liu, Chuansheng Zheng, Xinggang Wang.*
@@ -608,7 +616,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 ### Surgical Scene Reconstruction
 
-70. 📜 **Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery.**
+71. 📜 **Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery.**
     - 📅 Publication Date: *30th Jun., 2022*
     - 📖 Conference: *MICCAI, 2022*
     - 🧑‍🔬 Authors: *Yuehao Wang, Yonghao Long, Siu Hin Fan, Qi Dou.*
@@ -616,7 +624,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 🖥️ [Github](https://github.com/med-air/endonerf)
     - 📌 Highlight: Uses dynamic neural radiance fields to reconstruct deformable tissues during robotic surgery from stereo video captures 
 
-71. 📜 **EndoSurf: Neural Surface Reconstruction of Deformable Tissues with Stereo Endoscope Videos.**
+72. 📜 **EndoSurf: Neural Surface Reconstruction of Deformable Tissues with Stereo Endoscope Videos.**
     - 📅 Publication Date: *21st Jul., 2023*
     - 📖 Conference: *MICCAI 2023*
     - 🧑‍🔬 Authors: *Ruyi Zha, Xuelian Cheng, Hongdong Li, Mehrtash Harandi, Zongyuan Ge.*
@@ -626,7 +634,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
   
 ### Ultrasound Imaging
 
-72. 📜 **Ultra-NeRF: Neural Radiance Fields for Ultrasound Imaging.**
+73. 📜 **Ultra-NeRF: Neural Radiance Fields for Ultrasound Imaging.**
     - 📅 Publication Date: *25th Jan., 2023*
     - 📖 Conference: *MIDL, 2023*
     - 🧑‍🔬 Authors: *Magdalena Wysocki, Mohammad Farid Azampour, Christine Eilers, Benjamin Busam, Mehrdad Salehi, Nassir Navab.*
@@ -635,7 +643,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 ### Dental and Oral Imaging
 
-73. 📜 **Oral-NeXF: 3D Oral Reconstruction with Neural X-ray Field from Panoramic Imaging.**
+74. 📜 **Oral-NeXF: 3D Oral Reconstruction with Neural X-ray Field from Panoramic Imaging.**
     - 📅 Publication Date: *21st Mar., 2023*
     - 📖 Preprint: *arxiv*
     - 🧑‍🔬 Authors: *Weinan Song, Haoxin Zheng, Jiawei Yang, Chengwen Liang, Lei He.*
@@ -644,7 +652,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 
 ### Pose Estimation
 
-74. 📜 **Robust Single-view Cone-beam X-ray Pose Estimation with Neural Tuned Tomography (NeTT) and Masked Neural Radiance Fields (mNeRF).**
+75. 📜 **Robust Single-view Cone-beam X-ray Pose Estimation with Neural Tuned Tomography (NeTT) and Masked Neural Radiance Fields (mNeRF).**
     - 📅 Publication Date: *1st Aug., 2023*
     - 📖 Preprint: *arxiv*
     - 🧑‍🔬 Authors: *Chaochao Zhou, Syed Hasib Akhter Faruqui, Abhinav Patel, Ramez N. Abdalla, Michael C. Hurley, Ali Shaibani, Matthew B. Potts, Babak S. Jahromi, Leon Cho, Sameer A. Ansari, Donald R. Cantrell.*
@@ -656,7 +664,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 <img src="Figures/Compression.jpg" alt="Compression" width="1016" height="5"><br> 
 ## Image Compression
 
-75. 📜 **SCI: A Spectrum Concentrated Implicit Neural Compression for Biomedical Data.**
+76. 📜 **SCI: A Spectrum Concentrated Implicit Neural Compression for Biomedical Data.**
     - 📅 Publication Date: *23th Nov., 2022*
     - 📖 Conference: *AAAI, 2023*
     - 🧑‍🔬 Authors: *Runzhao Yang, Tingxiong Xiao, Yuxiao Cheng, Qianni Cao, Jinyuan Qu, Jinli Suo, Qionghai Dai.*
@@ -664,7 +672,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 🖥️ [Github](https://github.com/MIAGroupUT/IDIR)
     - 📌 Highlight: Introduces an adaptive partitioning strategy to divide data into spectrum-concentrated blocks, a funnel-shaped INR structure for efficient data compression, and an allocation strategy for INR parameters.
    
-76. 📜 **TINC: Tree-structured Implicit Neural Compression.**
+77. 📜 **TINC: Tree-structured Implicit Neural Compression.**
     - 📅 Publication Date: *12th Nov., 2022*
     - 📖 Preprint: *arXiv*
     - 🧑‍🔬 Authors: *Runzhao Yang, Tingxiong Xiao, Yuxiao Cheng, Jinli Suo, Qionghai Dai.*
@@ -672,7 +680,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 🖥️ [Github](https://github.com/MIAGroupUT/IDIR)
     - 📌 Highlight: Uses ensemble learning and a divide-and-conquer approach to compress different regions and organizes the data using a tree structure to extract shared parameters, removing redundancy and ensuring continuity.
    
-77. 📜 **COIN++ Neural Compression Across Modalities.**
+78. 📜 **COIN++ Neural Compression Across Modalities.**
     - 📅 Publication Date: *8th Dec ., 2022*
     - 📖 Preprint: *arXiv*
     - 🧑‍🔬 Authors: *Emilien Dupont, Hrushikesh Loya, Milad Alizadeh, Adam Goliński, Yee Whye Teh, Arnaud Doucet.*
@@ -680,7 +688,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 🖥️ [Github](https://github.com/emiliendupont/coinpp)
     - 📌 Highlight: Uses meta-learning to reduce encoding time and introduces shared structures and modulation for compression across different modalities.
    
-78. 📜 **SINCO: A Novel structural regularizer for image compression using implicit neural representations.**
+79. 📜 **SINCO: A Novel structural regularizer for image compression using implicit neural representations.**
     - 📅 Publication Date: *5th May., 2023*
     - 📖 Conferenc: *IEEE International Conference on Acoustics, Speech and Signal Processing, 2023*
     - 🧑‍🔬 Authors: *Harry Gao, Weijie Gan, Zhixin Sun, Ulugbek S. Kamilov.*
@@ -692,14 +700,14 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 <img src="Figures/Synthesis.jpg" alt="Synthesis" width="1016" height="5"><br> 
  ## Image Synthesis
 
-79. 📜 **Implicit Neural Representations for Generative Modeling of Living Cell Shapes.**
+80. 📜 **Implicit Neural Representations for Generative Modeling of Living Cell Shapes.**
     - 📅 Publication Date: *6th Oct., 2022*
     - 📖 Conference: *International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022*
     - 🧑‍🔬 Authors: *David Wiesner, Julian Suk, Sven Dummer, David Svoboda, Jelmer M. Wolterink.*
     - 📄 [PDF](https://arxiv.org/abs/2207.06283)
     - 📌 Highlight:
    
-80. 📜 **Generative modeling of living cells with SO(3)-equivariant implicit neural representations.**
+81. 📜 **Generative modeling of living cells with SO(3)-equivariant implicit neural representations.**
     - 📅 Publication Date: *18th Apr., 2023*
     - 📖 Preprint: *arXiv*
     - 🧑‍🔬 Authors: *David Wiesner, Julian Suk, Sven Dummer, Tereza Nečasová, Vladimír Ulman, David Svoboda, Jelmer M. Wolterink.*
