@@ -689,6 +689,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
      - 📖 Journal: *Applied Sciences*
      - 🧑‍🔬 Authors: Armin Sheibanifard, Hongchuan Yu
      - 📄 [PDF](https://www.mdpi.com/2076-3417/13/5/3242)
+     - 📌 Highlight: Introduces a new implicit neural representation to compress high-resolution medical volume data and shows high speed and quality in compression compared to existing works.
   
 79. 📜 **SINCO: A Novel structural regularizer for image compression using implicit neural representations.**
     - 📅 Publication Date: *5th May., 2023*
