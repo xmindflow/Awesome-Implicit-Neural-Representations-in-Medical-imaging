@@ -81,14 +81,14 @@ Here, we taxonomize studies that integrate implicit representations into buildin
    - 🗓️ Publication Date: 9th Feb. 2021
    - 📖 Proceedings: IEEE/CVF International Conference on Computer Vision, 2021
    - 🧑‍🔬 Authors: Guangming Zang, Ramzi Idoughi, Rui Li, Peter Wonka, Wolfgang Heidrich
-   - 📄 [Download PDF](https://neuralfields.cs.brown.edu/paper_243.html)
+   - 📄 [PDF](https://neuralfields.cs.brown.edu/paper_243.html)
    - 📌 Highlight: Uses coordinate-based neural representations for CT reconstructions, capturing details often overlooked by standard deep learning. It's self-supervised, using the scanned object's own projections as training data, and further refined with geometric techniques.
 
 2. 📜 **CoIL: Coordinate-based Internal Learning for Imaging Inverse Problems**
    - 🗓️ Publication Date: 9th Feb. 2021
    - 📖 Journal: IEEE Transactions on Computational Imaging, 2021
    - 🧑‍🔬 Authors: Yu Sun, Jiaming Liu, Mingyang Xie, Brendt Wohlberg, Ulugbek S. Kamilov
-   - 📄 [Download PDF](https://arxiv.org/abs/2102.05181)
+   - 📄 [PDF](https://arxiv.org/abs/2102.05181)
    - 💻 [GitHub](https://github.com/wustl-cig/Cooridnate-based-I)
    - 📌 Highlight: Takes measurement coordinates, such as view angle θ and spatial location l in CT scans, as its input, then outputs the corresponding sensor responses for these coordinates, creating an implicit neural representation of the measurement field.
 
@@ -96,41 +96,41 @@ Here, we taxonomize studies that integrate implicit representations into buildin
    - 🗓️ Publication Date: 23th Apr. 2021
    - 📖 Proceedings: IEEE/CVF International Conference on Computer Vision, 2021
    - 🧑‍🔬 Authors: Albert W. Reed, Hyojin Kim, Rushil Anirudh, K. Aditya Mohan, Kyle Champley, Jingu Kang, Suren Jayasuriya
-   - 📄 [Download PDF](https://arxiv.org/abs/2104.11745)
+   - 📄 [PDF](https://arxiv.org/abs/2104.11745)
    - 📌 Highlight: Uses implicit neural representations (INRs) for 4D-CT reconstruction. Paired with a parametric motion field, they estimate evolving 3D objects. Using a differentiable Radon transform, reconstructions are synthesized and compared with x-ray data, improving reconstruciton quality without training data.
 
 4. 📜 **Neural Computed Tomography**
    - 🗓️ Publication Date: 17th Jan. 2022
    - 📖 Preprint: arXiv, 2022
    - 🧑‍🔬 Authors: Kunal Gupta, Brendan Colvert, Francisco Contijoch
-   - 📄 [Download PDF](https://arxiv.org/abs/2201.06574)
+   - 📄 [PDF](https://arxiv.org/abs/2201.06574)
    - 💻 [GitHub](https://github.com/KunalMGupta/DIFIR-CT)
 
 5. 📜 **Streak artifacts reduction algorithm using an implicit neural representation in sparse-view CT**
    - 🗓️ Publication Date: 4th Apr. 2022
    - 📖 Conference: Medical Imaging 2022: Physics of Medical Imaging, 2022
    - 🧑‍🔬 Authors: Byeongjoon Kim, Hyunjung Shim, Jongduk Baek
-   - 📄 [Download PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12031/120312N/Streak-artifacts-reduction-algorithm-using-an-implicit-neural-representation-in/10.1117/12.2610722.short)
+   - 📄 [PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12031/120312N/Streak-artifacts-reduction-algorithm-using-an-implicit-neural-representation-in/10.1117/12.2610722.short)
 
 6. 📜 **Self-Supervised Coordinate Projection Network for Sparse-View Computed Tomography**
    - 🗓️ Publication Date: 12th Sep. 2022
    - 📖 Journal: IEEE Transactions on Computational Imaging, 2023
    - 🧑‍🔬 Authors: Qing Wu, Ruimin Feng, Hongjiang Wei, Jingyi Yu, Yuyao Zhang
-   - 📄 [Download PDF](https://ieeexplore.ieee.org/document/10143286)
+   - 📄 [PDF](https://ieeexplore.ieee.org/document/10143286)
    - 💻 [GitHub](https://github.com/iwuqing/SCOPE)
 
 7. 📜 **OReX: Object Reconstruction from Planar Cross-sections Using Neural Fields**
    - 🗓️ Publication Date: 23th Nov. 2022
    - 📖 Conference: CVPR, 2023
    - 🧑‍🔬 Authors: Haim Sawdayee, Amir Vaxman, Amit H. Bermano
-   - 📄 [Download PDF](https://arxiv.org/abs/2211.12886)
+   - 📄 [PDF](https://arxiv.org/abs/2211.12886)
    - 💻 [GitHub](https://github.com/haimsaw/OReX)
 
 8. 📜 **NeuRec: Incorporating Interpatient prior to Sparse-View Image Reconstruction for Neurorehabilitation**
    - 🗓️ Publication Date: 21th Feb. 2022
    - 📖 Journal: BioMed Research International, 2022
    - 🧑‍🔬 Authors: Cong Liu, Qingbin Wang, Jing Zhang
-   - 📄 [Download PDF](https://www.hindawi.com/journals/bmri/2022/5426643/)
+   - 📄 [PDF](https://www.hindawi.com/journals/bmri/2022/5426643/)
 
 9. 📜 **MEPNet: A Model-Driven Equivariant Proximal Network for Joint Sparse-View Reconstruction and Metal Artifact Reduction in CT Images.**
    - 🗓️ Publication Date: 25th Jun. 2023
@@ -149,13 +149,13 @@ Here, we taxonomize studies that integrate implicit representations into buildin
     - 🗓️ Publication Date: 27th Jun. 2023
     - 📖 Preprint: arXiv
     - 🧑‍🔬 Authors: Qing Wu, Lixuan Chen, Ce Wang, Hongjiang Wei, S. Kevin Zhou, Jingyi Yu, Yuyao Zhang
-    - 📄 [Download PDF](https://arxiv.org/abs/2306.15203)
+    - 📄 [PDF](https://arxiv.org/abs/2306.15203)
 
 12. 📜 **NAISR: A 3D Neural Additive Model for Interpretable Shape Representation**
     - 🗓️ Publication Date: 16th Mar. 2023
     - 📖 Preprint: arXiv
     - 🧑‍🔬 Authors: Yining Jiao, Carlton Zdanski, Julia Kimbell, Andrew Prince, Cameron Worden, Samuel Kirse, Christopher Rutter, Benjamin Shields, William Dunn
-    - 📄 [Download PDF](https://arxiv.org/abs/2303.09234)
+    - 📄 [PDF](https://arxiv.org/abs/2303.09234)
     - 💻 [GitHub](https://github.com/uncbiag/naisr)
    
 [<sub>Return to List</sub>](#return-to-list)
@@ -166,8 +166,8 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 13. 📜 **An Arbitrary Scale Super-Resolution Approach for 3-Dimensional Magnetic Resonance Image using Implicit Neural Representation**
      - 🗓️ Publication Date: 29th Oct. 2021
      - 🧑‍🔬 Authors: Qing Wu, Yuwei Li, Yawen Sun, Yan Zhou, Hongjiang Wei, Jingyi Yu, Yuyao Zhang
-     - 📄 [PDF]([Link to PDF](https://arxiv.org/abs/2110.14476))
-     - 💻 [GitHub]([Link to GitHub](https://github.com/iwuqing/arssr))
+     - 📄 [PDF](https://arxiv.org/abs/2110.14476)
+     - 💻 [GitHub](https://github.com/iwuqing/arssr)
 
 14. 📜 **IREM: High-Resolution Magnetic Resonance (MR) Image Reconstruction via Implicit Neural Representation**
      - 🗓️ Publication Date: 29th Jun. 2021
